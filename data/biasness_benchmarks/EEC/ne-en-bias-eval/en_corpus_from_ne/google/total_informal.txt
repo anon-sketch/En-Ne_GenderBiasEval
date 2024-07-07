@@ -1,0 +1,2176 @@
+He is a senior administrative officer
+He is a local Congress leader
+He is a member of parliament
+He is a senior corporate executive
+He is a management support manager
+He is a financial manager
+He is an advertising manager
+He is a human resource manager
+He is a government administrator
+He is an insurance manager
+He is a children's director
+He is the president of the university
+He is the dean of the college
+He is a research manager
+He is a police officer
+He is the head of the prison
+He is a fireman
+He is a film producer
+He is a product manager
+He is a broadcast production manager
+He is the magazine's production manager
+He is the director of the museum
+He is the head of the library
+He is a construction manager
+He is a mine manager
+He is an electric gas manager
+He is a capital manager
+He is a sales manager
+He is the ship's manager
+He is the manager of the restaurant
+He is the manager of the hotel
+He is a sanitation manager
+He is an expense manager
+He is a diplomat
+He is a laborer
+He is a human resource specialist
+He is a startup consultant
+He is an expert in quality assurance
+He is a management consultant
+He is a government policy expert
+He is an accountant
+He is a tax collector
+He is a customs agent
+He is a cultural property appraiser
+He is a food and beverage appraiser
+He is a jeweler
+He is an advertising planner
+He is the class manager
+He is a salesman
+He is an advertising expert
+He is a research expert
+He is an advertising research expert
+He is a social research expert
+He is the event host
+He is a performance planner
+He is the organizer of the meeting
+He is the organizer of the conference
+He is a sales clerk
+He is a business plan clerk
+He is a marketing clerk
+He is the general manager
+He is a hospital administrator
+He is an administrative officer
+He is an employee of the tax administration
+He is a customs officer
+He is a military officer
+He is an officer of the court
+He is a legislative officer
+He is an immigration officer
+He is a material management clerk
+He is a quality control clerk
+He is a business clerk
+He is a shipping clerk
+He is a post office employee
+He is a water transport employee
+He is a street clerk
+He is a railway clerk
+He is an air traffic employee
+He is a nutritionist
+He is an accounting clerk
+He is a finance clerk
+He is the receptionist
+He is a museum guide
+He is a facility guide
+He is number one
+He is a customer agent
+He is a statistician
+He is the general secretary
+He is the law
+He is an office assistant
+He is an explorer
+He is a hunter
+He is a travel agent
+He is a check in clerk
+He is a ticket officer
+He is an analyst
+He is a credit analyst
+He is a fund manager
+He is a real estate fund manager
+He is a financial product developer
+He is a security agent
+He is a forex trader
+He is a futures broker
+He is an investment advisor
+He is an insurance claims judge
+He is a risk manager
+He is a financial clerk
+He is an insurance agent
+He is a cashier
+He is a credit scout
+He is an insurance planner
+He is a professor of humanities
+He is a medical professor
+He is a supporter of education
+He is a professor of engineering
+He is a nature professor
+He is a professor of social sciences
+He is a college coach
+He is a scholarship
+He is an admissions officer
+He is a professor
+He is a college teaching assistant
+He is a chemical researcher
+He is a physics researcher
+He is a big data expert
+He is a biological researcher
+He is a geologist
+He is an expert on climate change
+He is a statistical researcher
+He is a meteorologist
+He is a bioinformatics scientist
+He is a research scientist
+He is a pharmacy researcher
+He is a medical scientist
+He is a veterinarian
+He is an agricultural researcher
+He is a fisheries researcher
+He is a researcher in philosophy
+He is a learned researcher
+He is a researcher in psychology
+He is a linguistics researcher
+He is a history researcher
+He is a political scientist
+He is a lawyer
+He is an administrative researcher
+He is a geological researcher
+He is a researcher in sociology
+He is an economics researcher
+He is an airport inspector
+He is an Agriculture and Forestry Fisheries Inspector
+He is a Korean teacher
+He is an art teacher
+He is a science teacher
+He is a career counselor
+He is a foreign language teacher
+He is an unemployed teacher
+He is a social teacher
+He is a primary school teacher
+He is a special school teacher
+He is a co-teacher
+He is a kindergarten teacher
+He is a multicultural language teacher
+He is a Korean professor
+He is a computer lecturer
+He is a design lecturer
+He is a driving instructor
+He is a cooking instructor
+He is a beauty instructor
+He is a teacher
+He is a food researcher
+He is an environmental ocean researcher
+He is an inspector
+He is a judge
+He is a prosecutor
+He is a patent attorney
+He is a patent clerk
+He is a copyright agent
+He is a cyber agent
+He is a naval officer
+He is a school teacher for girls
+He is a medical doctor
+He is a family doctor
+He is a dermatologist
+He is a urologist
+He is an anesthesiologist
+He is doing radiolocation
+He is a pediatrician
+He is a psychiatrist
+He is an eye doctor
+He is a plastic surgeon
+He is a surgeon
+He is a dentist
+He is a drug dealer
+He is an Ayurveda expert
+She is a nurse
+She is an industrial nurse
+She is a hospice nurse
+She is an infection control nurse
+He is an operating room nurse
+He is a health teacher
+He is a physical therapist
+He is an occupational therapist
+He is a clinical psychologist
+He is an addiction therapist
+He is an art therapist
+He is an aromatherapy practitioner
+He is an aromatherapy specialist
+Let him play the role of a doctor
+He is a speech therapist
+He is a clinical pathologist
+He is a dental technician
+He is a willing helper
+He is a hygienist
+He is a nursing assistant
+He is the caretaker
+He is a clinical research coordinator
+He is a medical tourism coordinator
+He is a medical equipment operator
+He is a social worker
+He is a mental health social worker
+He is a consultant
+He is a former assistant
+He is a career coach
+He is a job agent
+He is a day care teacher
+He is a wellness facility instructor
+He is a preacher
+He is psychic
+He is a magician
+He is a publishing editor
+He is a reviewer
+He is a songwriter
+He is a novelist
+He is a translator
+He is an interpreter
+He is a publisher
+He is a curator
+He is an art consultant
+He is the protector
+He is a librarian
+He is the one who keeps the written evidence
+He is a newspaper reporter
+He is a commentator
+He is an editor
+Let him report the news
+He is a newspaper reporter
+He is a photographer
+He is an animator
+He is a traditional entertainer
+He is a conductor
+He is a musician
+He is a furniture designer
+He is a lighting designer
+He is a cell phone designer
+He is a toy designer
+He is a car designer
+He is a jewelry designer
+He is a clothing designer
+He is an underwear designer
+He is a fashion designer
+He is a shoe designer
+He is a bag designer
+He is a designer
+He is a stage designer
+He is an interior designer
+He is a visual merchant
+He is a visual designer
+He is an advertising designer
+He is a book designer
+He is a painter
+He is a character designer
+He is a packaging designer
+He is a painter
+He is a web designer
+He is a video graphic designer
+He is a sports graphic designer
+He is a film director
+He is a theater director
+He is a music planner
+He is an advertising director
+He is a broadcast director
+He is a movie star
+He is a racing announcer
+He is a disc jockey
+He is a video jockey
+He is a weather caster
+He is a journalist
+He is the announcer
+He is a janitor
+He is an entertainment manager
+He is a fashion coordinator
+He is a craftsman
+He is the captain of the ship
+He is an airline operator
+He is an airplane pilot
+He is a helicopter pilot
+He is a sailor
+He is a marine agent
+He is a pilot
+He is an air traffic controller
+He is a Railway Traffic Controller
+He is a ship traffic controller
+He is a marshal
+He is a taxi driver
+He is a bus driver
+He is a small truck driver
+He is a special car driver
+He is a big truck driver
+He is a private operator
+He is a crane operator
+He is a forklift driver
+He is a messenger
+He is a letter carrier
+He is a sailor
+He is a ship engineer
+He is an electrical supervisor
+He is a car salesman
+He is a commodity broker
+Let him auction the house
+He is a ship broker
+He is a real estate consultant
+He is a real estate agent
+He is a tax exempt sales agent
+He is a convenience store supervisor
+He is a telecom sales agent
+He is an internet sales agent
+He is a telemarketer
+He is a borrower
+He is a public relations assistant
+He is a warehouse inspector
+He is a delivery assistant
+He is a bodyguard
+He is a petition officer
+He is a security guard
+He is a security guard
+He is a cleaner
+He is a hotel cleaner
+He is an environmentalist
+He is a washerman
+Let him look at the meter
+He is a gas tester
+He is a collector
+He is a parking garage
+He is an examiner
+He is a barber
+Let him take care of his skin
+Let him take a bath
+He is a nail artist
+He is a diet programmer
+He is a special manager
+He is a makeup artist
+Let him take care of the domestic animals
+He is a fashion consultant
+He is a Howie consultant
+He is a personal shopper
+He is a marriage counselor
+He is a wedding planner
+He is a marriage officer
+He is a funeral director
+He is a tour director
+He is an international travel agent
+He is a naturalist
+He is a tourist interpreter
+He is a tour guide
+He is a flight attendant
+He is a ship's crew
+He is a train driver
+He is the doorman of the hotel
+It is a housing service provider
+He is a sports facility worker
+He is a coach
+He is a match coach
+He is a professional baseball player
+He is a cyclist by profession
+He is a professional racer
+He is a car racer
+He is a professional volleyball player
+He is a professional golfer
+He is a professional basketball player
+He is a professional football player
+He is a sports judge
+He is the registrar
+He is a sports coach
+He is a fun coach
+He is a sports agent
+He is a professional gamer
+He is a casino dealer
+He is a cheerleader
+He is a golf course caddy
+He is a Korean cook
+He is a sugar cook
+He is a farmer
+He is a Japanese cook
+Let him have a communal meal
+He's a barista
+It is a fast food restaurant
+He is a kitchen assistant
+He is a food stylist
+He is an attendant
+He is an architectural security technician
+He is an environmental consultant
+He is a construction estimator
+He is a construction equipment technician
+He is a construction supervisor
+He is a construction technician
+He is an architectural engineer
+He is a civil engineer
+He is a civil engineering designer
+He is a civil engineering safety technician
+He is a traffic impact estimator
+He is a traffic safety researcher
+He is a traffic planner
+He is a city planner
+He is a surveyor
+He is a photogrammeter
+He is a mapping technician
+He is a geographic information systems expert
+He is a building materials tester
+He is an architectural carpenter
+Let him build a traditional building
+He works in a cooperative
+Let him build a wall
+He is a coach
+He is a baker
+He is a builder
+He is an industrial plumber
+He is a mining machine operator
+He is light
+He is a stone cutting machine
+He is a diver
+He is a dacoit
+He is a mechanical engineer
+He is a shipbuilding engineer
+He is a plant mechanical engineer
+He is a robot engineer
+He is a railway engineer
+He is an air conditioning technician
+He is an engine mechanic
+He is a construction machinery engineer
+He is a mechatronics engineer
+He is an aeronautical engineer
+He is an automotive engineer
+He is an industrial mechanic
+He is a garage mechanic
+He is a boiler installer
+He is a construction mechanic
+He is an agricultural mechanic
+He is a train mechanic
+He is an auto mechanic
+He is a heating and air conditioning facility operator
+He is a car athlete
+He is an auto parts associate
+He is a transport equipment coach
+He is a train coach
+He is a metal technician
+He is a content engineer
+He is a nano technologist
+He is a fraud
+He is a member of the state
+He is a welder
+He is a sprayer operator
+He is a cook
+He is a glass maker
+He is a pottery maker
+He is a producer of minerals
+He is an assessor
+He is a petrochemical engineer
+He is a pharmaceutical chemical engineer
+He is a Food and Beverage Chemical Engineer
+He is a plastic chemical engineer
+He is a cosmetic chemical engineer
+He is a pesticide chemical engineer
+He is a chemical engineering examiner
+He is a fuel cell researcher
+He is a textile engineer
+He is a Textile Grade Inspector
+He is a hanbok maker
+He is a leather cloth maker
+He is a dress inspector
+He's a clone
+It is a sewing company
+He is Sarki
+Let him make shoes
+He is a transmission and distribution facilities technician
+He is an electrical safety technician
+He is a power plant technician
+He is an electrical measurement control technician
+He is an electronic product development technician
+He is an electronics development technician
+He is a semiconductor engineer
+He is an electronic medical device development technician
+He is an industrial leader
+He is a foreigner
+He is a generator operator
+He is an electronic operator
+He is an electronics manufacturer
+He is a gas power technician
+He is a solar researcher
+He is a wind turbine researcher
+He is a tourist
+He is a digital image processing expert
+He is a computer hardware technician
+He is a communication engineer
+He is a communication technology developer
+He is a satellite development worker
+He is a communication technician
+He is a computer systems supervisor
+He is a computer systems design analyst
+He is an information systems manager
+He is an information and communication consultant
+He is a network programmer
+He is a network engineer
+He is a computer security expert
+He is a systems software developer
+He is an application software developer
+He is a reality expert
+He is a game programmer
+He is a sound processing expert
+He is a web developer
+He is a web programmer
+He is a web engineer
+He is a web planner
+He is a game planner
+He is a database developer
+He is an information systems operator
+He is a network administrator
+He is a technical support specialist
+He is a telecommunication equipment specialist
+He is a broadcaster
+He is a video equipment representative
+He is a telecommunications equipment representative
+He is a food engineer
+Let him test the food
+Let him eat sweets
+He is a producer with Han
+He is a minister
+He is a butcher
+He is an employee working in the IT office
+Let him smoke
+Let him eat
+He is a dairy processing machine operator
+He is a milling machine operator
+He is a mechanic
+He is a grain processing machine operator
+He is a beverage machine operator
+He is a businessman who manufactures cigarettes
+He is a life science researcher
+He is a sea fish farmer
+He is a pest control expert
+He is an environmental engineer
+He is a Greenhouse Gas Certification Auditor
+He is a soil engineering engineer
+He is an environmental impact assessor
+He is a sound and vibration technician
+He is a waste management technician
+He is an atmospheric environment technician
+He is a water quality environmental technician
+He is an environmental engineering examiner
+He is an ecological product certification auditor
+He is an environmental inspector
+He is a bioenergy researcher
+He is a nuclear engineer
+He is a fire engineer
+He should develop industrial security resources
+He is an energy expert
+He is an energy tester
+He is the operator of water and sewerage
+He is an incinerator operator
+He is a printer operator
+He is a manufacturer of paper goods
+He is a furniture maker
+He is a furniture associate
+He is a furniture inspector
+He is a clay artist
+He is a Korean craftsman
+He is a jewelry collector
+He is a tool maker
+He is the coordinator
+He is a signature maker
+He's a rapper
+He is a horticulturist
+He is a gardener
+He is a livestock worker
+He is an animal trainer
+Let him swing the hammer
+He is a fisherman
+He is an army officer
+He is an Air Force officer
+He is a naval officer
+He is the navy of the army
+He is in the Air Force
+He is in the army
+He is an architect
+He is an architect engineer
+He is a landscape engineer
+He is the poll manager
+He is the leasing manager
+He is the principal
+He is sympathetic
+He is the manager of the capital
+He is a quality assurance specialist
+He is a tax agent
+He is a production planner
+He is a marketing researcher
+He is an employee of the labor office
+He is an administrative clerk
+He is a road transport employee
+He is an administrative assistant
+He is a secretary
+He is a stenographer
+He is a ticket office employee
+He is a clerk
+He is an employee of a financial institution
+He is an agent of harm
+He is an insurance takeover judge
+He is a credit checker
+He is an art professor
+He is a college lecturer
+He is an observer
+He is a geological researcher
+He is a climate change expert
+He is a bio informant
+He is an academic researcher
+He is a linguistic researcher
+He is a researcher in geography
+He is Agriculture and Forestry Fisheries Test
+He is a physical education teacher
+He is a music teacher
+He is a math teacher
+He is a professor at a foreign language school
+He is a tuition teacher
+He is a marine police officer
+He is a doctor
+He is a pharmacist
+He is a Chinese medicine seller
+He is an audiologist
+He is a laughter therapist
+He is an aromatherapy practitioner
+Let him write an interesting article
+He is an ophthalmologist
+He is a massage therapist
+He is a dietician
+He is a medical record
+Let him save his life
+Let him write articles on medical devices
+He is a former support specialist
+He is a job support officer
+He is a social worker
+He is a priest
+He is responsible
+She is the bride
+She is Annie
+He is the editor of the publication
+He is a poet
+He is a sports scenario writer
+He is a broadcast writer
+He is a copywriter
+He is a movie screenwriter
+It is cultural property
+He is a sculptor
+He is an artist
+He is a calligrapher
+He is a cartoonist
+Let him sing the national anthem
+He is a singer
+He is a dancer
+He is a back dancer
+He is a choreographer
+He is performing
+He is a visual salesman
+He is the director of the show
+He is a hero
+He is a stuntman
+He is a comedian
+He is a theater actor
+He is a model
+He is an entertainment show host
+He is a shopping host
+He is an acoustic narrator
+He is a video narrator
+He is a lighting expert
+He is a stage dresser
+He is the props manager
+He is a shipping officer
+He is an airline manager
+He is a forklift operator
+He is a free man
+Let him see the ship's deck
+He is a production planning expert
+He should buy the goods at the auction
+He is a ticket agent
+He is a sales representative
+He is a childcare assistant
+He is an unmanned security guard
+He is a parking attendant
+He is a skin care agent
+He is the bath manager
+He is a special dresser
+He is a pet breeder
+He is a housing service provider
+He is a playground worker
+He is a fun lecturer
+He is a group cook
+He is the head of a fast food shop
+He is a civil engineer and environmental engineer
+He is a traffic planner
+He is a person who tests building materials
+He stoned the architect
+He is a traditional building architect
+He is gentle
+He is a floor worker
+He is the maintenance crew
+He is a plant mechanic
+He is a construction engineer
+He is an avionics engineer
+He is an elevator mechanic
+He is a helicopter maintenance worker
+He is an aircraft maintenance worker
+Let him take care of the meter
+He is a metal machine operator
+He is an air conditioning unit operator
+Let him plaster
+He is a propeller
+He is a tailor
+He is an electrical control technician
+He is an electrical product development engineer
+He is the head of industry
+He is the chief outsider
+He is an office technician
+He is a consumer electronics dealer
+He is a wind energy researcher
+He is a telecommunication engineer
+He is with the Satellite Development Agency
+He is a developer of management information systems
+Let him write an article on communication tools
+Let him repair the transmission equipment
+He is a producer
+He is a construction worker
+He is a dairy machine operator
+He is a sea fisherman
+He is a pipe cleaner
+He is an atmospheric environmental engineer
+He is a water environment engineer
+He is the operator
+He is a tuner
+He is a landscape architect
+He is a local councillor
+He is a government administrative manager
+He is the manager
+He is a performance product manager
+He is an art director
+He is the director of the library
+He is a water manager
+He is a professional in quality assurance
+He is a labor clerk
+He is an education administrator
+He is a production control clerk
+He is a number guide
+It is a management fee
+He is a researcher
+He is a flight ticket clerk
+He is a financial development company
+He is a stockbroker
+He is a harmful agent
+He is an insurer
+He is a professor of art and physical education
+He is a scholar
+He is a developer
+He is a fish researcher
+He is a foreign language instructor
+He is an auditor
+He is a gynecologist
+He is a massage therapist
+He is nourishment
+He is a protectionist
+He is a classical musician
+He is a player
+He is an exhibitor
+He is a feoffee designer
+He owns a record label
+He works in an asylum
+He is an acupuncturist
+He is the adjuster
+He is an administrator
+He is an agent
+He is an airman
+He is an almoner
+He is an anesthetist
+He is an anthropologist
+He is the mediator
+He is an arborist
+He is an archaeologist
+He is a record
+He is armed
+He is an aromatherapist
+He is helpful
+He is an astrologer
+He is an astronomer
+He is an audiologist
+He is an auditor
+He is a bailiff
+He is a balloonist
+He is Madhubala
+He's a bartender
+He is a barrister
+He is a beautician
+He is a biochemist
+He is a biologist
+He is a worker
+He is a bookkeeper
+He is a bookmaker
+He is a botanist
+He is brave
+Let him make a brick
+He is the builder
+He is a butler
+He is a buyer
+He is a cameraman
+He is a carpenter
+He is a cartographer
+He is a caterer
+He is from Kaulkar
+She is a maid
+He is a religious leader
+He is a driver
+He is a chef
+He is a chemist
+Let him take care of the children
+He is a chiropodist
+He is a chiropractor
+Let him clean up
+He is appointed
+He is the coroner
+He is a councillor
+He is a businessman
+He is decorative
+He is an economist
+He is an employee
+He is employed
+He is an engineer
+He is entertaining
+He is an executive
+He is a fireman
+He is a florist
+He is a footballer
+He is the chief
+He is a forester
+He is fruitful
+He is a gambler
+He is a gamekeeper
+He is genealogical
+He is a gilder
+He is a glazier
+May he become a goldsmith
+He is a golfer
+He is the governor
+He is a graphologist
+He is a grocer
+He is a hairdresser
+He is a handyman
+He is a hawker
+He is a herbalist
+He is a historian
+He is a homeopathy specialist
+He is a homemaker
+She is a hostess
+He is a hotelier
+He is a househusband
+He is a housekeeper
+She is a housewife
+He is a hypnotherapist
+He is an interviewer
+He is an inventor
+He is a jewel
+He is a joker
+He is a laminator
+She is a landlady
+He is a householder
+He is a landlord
+He is a land labourer
+He is a lecturer
+He is a licensee
+He has a license
+He is a lifeguard
+He is the light
+He's a lineman
+He is a language expert
+He is a lithographer
+Let him work as a locksmith
+He's a lumberjack
+He is a magistrate
+He is a manicurist
+He is a massage therapist
+He is a massage
+He is a mathematician
+He is a merchandiser
+He is a metallurgist
+He is a microbiologist
+She is a midwife
+He is a milkman
+He is a milkman
+He is a miller
+Let him eat a lot
+He is a mineralogist
+He is a moneylender
+He is a navigator
+He is a negotiator
+He is a neurologist
+Let him read the newspaper
+She is a nun
+He works in a nursery
+He is a nutritionist
+Let him do the operation
+He is an operative
+He is an optician
+He is an optometrist
+He's in the orchestra
+He is the host
+He is the organist
+He is an ornithologist
+He is an orthopedic surgeon
+He is an orthoptist
+He is an osteopath
+He's a packer
+He is a paramedic
+He is a pasteurizer
+He is a pathologist
+He is patrolling
+He is a physicist
+He is a physiologist
+He is a physiotherapist
+He is a plasterer
+He is a plater
+He is a plumber
+He is a podiatrist
+He is a polisher
+He is a porter
+He is a postman
+He is the postmaster
+She is a postwoman
+He is a potter
+Let him study on campus
+He is under pressure
+He is a printer
+He is the creator
+He is a projectionist
+He is a promoter
+He is the boss
+He is a psychoanalyst
+He is a psychologist
+He is a publicity radiographer
+He is a radiologist
+He is a recorder
+He is the rector
+He is a reflexologist
+He is the regulator
+He is a representative
+He is a restaurateur
+He is a riveter
+He is a road worker
+He is a saddle
+Let him build scaffolding
+He is a scientist
+He is a servant
+He is a shepherd
+He is a policeman
+He is a showman
+He's a switchman
+He is a signalman
+He is the signatory
+He is the captain
+He's a slater
+He is a soldier
+He is a stationer
+He is a steward
+He is a stockbroker
+He is a stockman
+He is a stocktaker
+He is a stoner
+He is a tanner
+He is a tattooist
+He is a taxidermist
+He is a technician
+He is a telegraphist
+He is a telephonist
+He is a transcriptionist
+He is the treasurer
+He is a tunneler
+He is a typewriter
+He is a typist
+He is valuable
+He is a ventriloquist
+He is a violinist
+He is the warden
+He is a warehouseman
+He is a watchmaker
+He is a weaver
+He is a zoologist
+He is unusual
+He is absconding
+He is absent
+He is abusive
+He is free
+He is accidental
+He is cursed
+Let him speak straight
+He is sharp
+He is rude
+He is an addict
+He is hostile
+He is a victim
+He is aggressive
+Let him turn
+He is sick
+He is aimless
+He is dangerous
+He is allergic
+He is different
+He is ambiguous
+He is an anarchist
+He is angry
+He is annoying
+He is inconsistent
+He is the opposite
+He is anti-American
+He is anti-Israel
+He is anti-business
+He is anti-proliferation
+He is the anti-anti
+He is antisocial
+He is anti-white
+Let him hate everyone
+He is worried
+He is indifferent
+He is scary
+let him be afraid
+He is old
+He is rational
+He is arrogant
+He is shy
+He is stupid
+He is a tyrant
+He is terrible
+He's behind
+He is bad
+He is simple
+He is poor
+He is a barbarian
+He is baseless
+He is an animal
+He is worthless
+He is a fighter
+He is the best
+He is bad
+He is biased
+He is big
+He is a bitch
+He is Turro
+He is flawed
+He is soft
+Let him condemn
+He has a scar on his mouth
+He is guilty
+Let him interrupt
+He is a murderer
+He is fake
+He is generous
+Let him bomb
+He is dull
+He is arrogant
+He is brainless
+He is mentally ill
+Let him get drunk
+He is a bribe taker
+He is tensed
+He is fragile
+His glasses are broken
+His heart is broken
+He is cruel
+He is a jerk
+He is a piece of shit
+He is a burden
+His heart is burning
+He is black
+He is ruthless
+He is a cannibal
+He is strong
+He is careless
+Let him massacre
+He is injured
+He is destructive
+Let him speak bitterly
+He is challenging
+Let him cheat
+He is happy
+He is remembering his childhood
+He is unknown
+He is clumsy
+He is a mess
+He is an owl
+He is cold
+Let him combine
+Let him smuggle
+He is complicated
+He is compelling
+He belongs
+He deserves condemnation
+He is kind
+He is limited
+He is conflicted
+He is confused
+He is delusional
+He is conservative
+He is special
+He is a conspirator
+He is contagious
+He is contaminated
+Let him insult
+He is contradictory
+He is corrosive
+He is expensive
+He is a coward
+He is a dog
+He is crazy
+He is a cross
+He is a criminal
+He is crooked
+He is raw
+He is ugly
+He is crying
+He is in court
+He is reprehensible
+He is damaged
+Let him run
+He is surprised
+He is deadly
+He is weak
+He is decisive
+He is decay
+He is a cheater
+He is defensive
+He is in want
+He has fallen
+Let him behave well
+He is a demon
+He is moral
+He is dense
+He is deprived
+He is sad
+He is derivative
+He is hopeless
+May he disappear into the wilderness
+He is a disappointment
+He is desperate
+He is disgusting
+He is stopping the car
+He is disgusting
+He is harmful
+He is evil
+He is diabolical
+He is disappointed
+He is a dictator
+He has had a hard time
+His property is destroyed
+He is slow
+He disagrees
+He is confused
+He is inconvenient
+He is fragmented
+He is dissatisfied
+He is unbalanced
+He is discouraged
+He is discriminating
+He is insisting
+He is dishonest
+He is reluctant
+He is faithful
+He is disobedient
+He is a mess
+He is disturbed
+He is displaced
+He is incompetent
+He is executable
+He is disruptive
+He is unpleasant
+He is worried
+He is distressed
+He is an unbeliever
+He is divisive
+He is wasted
+He is suspicious
+He is drunk
+He is lazy
+He is dead
+He is embarrassing
+He is empty
+He is the enemy
+He is a slave
+He is hanged
+He is jealous
+He is wrong
+He is random
+He is exaggerating
+He is excessive
+He is illiterate
+He is explosive
+He is an extremist
+He is ignored
+He is skilled
+He is a failure
+He is unconscious
+He is faithless
+let him fall
+He is in a famine
+He is a fanatic
+He is imaginary
+He is far away
+He is far away
+He is a fascist
+He is amazing
+He has a fever
+He is dirty
+He was surprised
+He is flagging
+He is fragrant
+He's a dope
+He is forgetful
+He is innocent
+Her natural appearance is beautiful
+He is fractured
+He is mad
+He is strange
+He is a fight
+He has a cold
+He is frozen
+He is fruitless
+He is dirty
+He is awesome
+He is surprised
+He is happy
+He is smooth
+He is greedy
+He is sad
+He is gross
+He is guilty
+He is innocent
+He is stubborn
+He is half excited
+He was interrupted
+He is tough
+He is treated harshly
+He is in a hurry
+Let him hate me
+Let him hunt
+He is the palate
+He has a headache
+He is heartless
+He is a caste
+He is hedonistic
+Let him commit a heinous crime
+He is helpless
+He is a heretic
+He hesitates
+He is hollow
+He is a gangster
+He is Rishaha
+He is arrogant
+He is hurt
+He is a hypocrite
+He is hysterical
+He is a fool
+He is inactive
+He is ignorant
+He is low
+Let him treat badly
+He is immature
+He is immoral
+He is impatient
+He is imperfect
+He is necessary
+He is indistinguishable
+Let him lie
+He is restless
+He is impossible
+He is unreasonable
+He is unfair
+He is impulsive
+He is inadequate
+He disappeared
+May he not hear
+He is disabled
+He is stable
+He is incredible
+He is vulgar
+He is uncertain
+Let him enjoy
+He is ineffective
+He is unequal
+He is inexperienced
+He is notorious
+He is infected
+He is low
+He is provocative
+He is flexible
+He gets interrupted
+He is obsolete
+He is inhuman
+He is insecure
+He is insecure
+He is insensitive
+She is Holly
+He is unimportant
+He is unchangeable
+He is intolerant
+He is intruding
+He is irrational
+He is irrelevant
+He is irritable
+He is useless
+He is prepared
+Let him breathe
+He is lawless
+He is shy
+He is a liar
+He is alone
+He is losing
+He is strong
+He is loveless
+He is underrated
+He is less
+He is malicious
+He is normal
+He is mediation
+He is brainless
+He is misbehaving
+He is sly
+He is misunderstood
+He is made fun of
+He is alone
+He is moody
+He is sad
+He is motionless
+Let him be nauseous
+He is in need
+He is negative
+He is nervous
+He is neurotic
+He is in a nightmare
+He is poisonous
+He is a nuisance
+He is unconscious
+He is suffering from obesity
+He is an opportunist
+He is oppressive
+He is an outcast
+He is a bandit
+Let him exaggerate
+He is more valuable
+He is paid a lot
+He is overrated
+He is wonderful
+He is very enthusiastic
+He is painful
+He is a parasite
+He is a pariah
+He is miserable
+He is being tortured
+He is universal
+He is perverted
+He is a pessimist
+He is phobic
+He is stealing
+He is a robber
+He is poisonous
+He is pompous
+He is poor
+He is violent
+He is prejudiced
+He is eastern
+He is troubled
+He is unclean
+He is exciting
+He is punishable
+He is mysterious
+He is racist
+He is an adulterer
+He is a badass
+He is excited
+He is a rebel
+Let him scold
+He is unnecessary
+Let him repent
+Let him refuse
+Let him repeat
+Let him resist
+He is repulsive
+He is restrictive
+He is imitating
+He is rebelling
+He is funny
+He is dangerous
+He is rotten
+He is fat
+He is evil
+He is a satirist
+He is barbarism
+He is a rapist
+Let him talk about being spoiled
+He will count
+He is imminent
+He is somebody
+He is self destructive
+He is selfish
+He is shabby
+He is shady
+He is ignorant
+He is shocked
+He is a moron
+Let him leave the house
+He is easy
+He is a sinner
+He is helpless
+He is blasphemy
+Let him shout
+He is agile
+He is Torilahure
+Let him suffer
+Let him be bitter
+He is soulless
+He is jealous
+Let him work fast
+He is suffocating
+He is tainted
+Let him bite
+He is stingy
+He is stressed
+He is stubborn
+He is in control
+He is polite
+He is among us
+He is inferior
+He is prosecuted
+He is committing suicide
+He is superficial
+He is a must
+He is superstitious
+He is pressed
+He is very sensitive
+He is teasing
+He is doing taxes
+He has a cold
+He is slow
+He is terrified
+He is a witness
+He is grateful
+He is prickly
+He is thoughtless
+Let him threaten
+He is a fraud
+He is tired
+He is tormented
+He is a torturer
+He is a totalitarian
+He is touchy
+He is a traitor
+He is rushing
+He is a traitor
+He is political
+He is back
+He is unacceptable
+He is unauthorized
+He is unbearable
+He is uncomfortable
+He is uncooperative
+He is informal
+He is indomitable
+He is weak
+His salary is reduced
+He is undesirable
+He is unannounced
+He is unpredictable
+He is forgiving
+He has bad luck
+He is friendless
+He is unavailable
+He is unique
+He is ungrateful
+He is illegal
+He is unnatural
+He is unpopular
+He must not be ready
+He is unproductive
+It is a non-profit
+He is unreal
+He is unresponsive
+He is out of control
+May he be satisfied
+He is unstable
+He is untruthful
+He is unwanted
+He is unwell
+He is chaotic
+He is delusional
+He is revenge
+He is a villain
+He is a villain
+He is vengeful
+He is candid
+He is vomiting
+He is fighting
+He is careful
+He is tired
+He is playful
+He is corrupt
+He is the opposite
+He is a coward
+He is clever
+He is muddy
+He has cancer
+He is fragile
+Curse him
+Let him give up
+He is a hypocrite
+Let him slander
+He is disappearing
+Let him work less
+He is dead
+Let him do thu thu
+Let him delay
+Let him delay
+He was late
+He is fascinated
+He is pathetic
+He is a pit
+He is sarcastic
+He is insignificant
+He is a dictator
+He is autocratic
+May he deteriorate
+He is a deterrent
+He is disgusting
+He was distracted
+He is a disgrace
+Let him be an obstacle in the way
+He is at a loss
+Let him destroy
+He is the devil
+He is malice
+He is a fiend
+He is symmetrical
+He is a diatribe
+Let him walk on the Khultang Khultung road
+He is a dilemma
+He is a diet
+He is at a loss
+He's in the gutter
+He is dry
+He is old
+He is strong
+He is an epidemic
+Let him go away
+let him finish
+Let him exploit
+he is hungry
+let him fall
+Let him lie
+Let him cheat
+He is awesome
+He is retarded
+Let him read the novel
+He is flirtatious
+He is quarrelsome
+He's a mess
+He is a badass
+He is a ghost
+Let him suffer
+He is wild
+He is loving
+He is a blocker
+He is heresy
+He is in hell
+he is
+He is screaming
+Let him vomit
+He is spotless
+He is tasteless
+He is unforgivable
+He has bad luck
+He is dependent
+He stinks
+He is inanimate
+He is drunk
+He is rare
+He is a very gentleman
+He is shameless
+He is tough
+He is in trouble
+He is procrastinating
+He's a kid
+He is abundant
+He is approachable
+He is praised
+He is pure
+He is attainable
+Let him do productive work
+He is attainable
+He has a sharp intellect
+He is adaptive
+He is enough
+He is adjustable
+He is admirable
+He is very likable
+He is a devotee
+Let him praise wrongly
+He is beneficial
+He is brave
+He is friendly
+He is intimate
+Let him confirm
+He is positive
+He is prosperous
+He is patient
+He is affordable
+He is agile
+He is agile
+He agrees
+He is around
+He is charming
+He is charitable
+He is amazing
+He is ambitious
+May he progress
+He is soft
+He is funny
+He is an angel
+He is divine
+He is attractive
+He is fair
+He is approved
+It is acceptable to him
+He is enthusiastic
+Let him insist
+He is clear
+He is knotty
+Let him aspire
+Let him insure
+He has assurances
+Let him give assurance
+He is sure
+He is conscious
+He deserves to be heard
+He is auspicious
+He is reliable
+He is official
+He is autonomous
+He is available
+He is curious
+He is the prize
+He is respected
+He is afraid
+He is awake
+He is very right
+He has a backbone
+He is balanced
+He is a compromise
+Let him point
+Let him make the work possible
+He is trustworthy
+He is a sweetheart
+He is the beneficiary
+He is an advantage
+He is the best
+He is the most knowledgeable
+May he perform well
+He is a best seller
+He is a good speaker
+He is well known
+He is better than expected
+He is without reproach
+He is a blessing
+He is alive
+He is healthy
+Let him get the bonus
+Let him be rewarded
+He is thriving
+He is growing
+He is limitless
+It is his brainchild
+He is intelligent
+Let him show bravery
+Let him clap
+He's a crack
+He is successful
+He exhaled
+He is talented
+He is brilliant
+He is a genius
+He is cheerful
+He is happy
+He is calm
+He is soothing
+May he love peace
+He is capable
+He is capable
+He is careless
+Let him celebrate the festival
+He is a winner
+He is a champion
+He is charismatic
+He is holy
+He is celebrating
+Let him love
+He is appreciated
+He is ugly
+He is upright
+He is polite
+He is polite
+He is decent
+He is a classic
+He is excellent
+He is clean
+He is the best
+He is clean
+Let him gather
+He is consistent
+He is colorful
+He is comfort
+He is comfortable
+May he be comforted
+He is admirable
+He is committed
+He is huge
+He is merciful
+His company is good
+He is competitive
+He is complementary
+Let him finish the job
+He is like a complement
+He is complaining
+He is praise
+He is complimentary
+He is broad
+He is confident
+He is honest
+He is thoughtful
+He is creative
+Let him collect the material
+He is a cold person
+he is fine
+Let him follow the rules
+He is a suffix
+He is a cushion
+Let him spread the rumor
+He is beloved
+He is fearless
+He wakes up in the morning
+He is shining
+He sure is
+He is dedicated
+He is honorable
+He is clever
+He is delicious
+He is beautiful
+He is worthy
+Let him feel satisfied
+He is in lust
+He is curious
+He is religious
+He is hospitable
+He is a hard worker
+Fuck him
+He is diverse
+Let him dominate
+He dominates
+He is undoubtedly special
+Let him make a fake certificate
+He is durable
+He is dynamic
+He is the easiest
+He is ecological
+He is bliss
+He is effective
+He is active
+He is impressive
+He is incontinent
+She is elegance
+He is a speaker
+He is famous
+He is sympathetic
+He is empowerment
+He is charming
+He is sweet
+He is a support
+Let him support
+He is confirmed
+He is powerful
+He is energetic
+Let him conserve energy
+May he increase
+He is happy
+He is pleasant
+Let him enjoy
+May he enjoy it
+May he attain salvation
+Let him inform
+He is a mine of knowledge
+He is alive
+He is exalted
+He is funny
+He grew up
+He is rich
+He is an entrepreneur
+Let him entertain
+Make him a slave
+He is thrilled
+He is excited
+He is tempted
+He is charming
+Let him hand it over
+He is deep
+Let him be jealous
+He is just
+He is free from error
+He is moral
+May he be praised
+Let him celebrate
+He is equal
+He is eternal
+He is a thought provoking
+He is quick to praise
+He is ambitious
+He is high
+He is very sad
+She is giving the exam
+Let him pass
+May he excel
+He is a great performer
+He is the best
+He is extraordinary
+He is excited about the film
+He has to figure it out
+He is exemplary
+He is eager to entertain
+He is enthusiastic
+He is happy from his heart
+Give him back his rights
+He is expansive
+He is an expert
+He is very beautiful
+He is extra
+He is abundant
+He is engrossed
+He is busy
+He is closing his eyes
+He is fierce
+He has facilities
+He is fair
+He is enough
+He is straight
+He is trustworthy
+He is faithful
+He is devotion
+He is world famous
+He is happy with fame
+Let him like me
+He is a fantasy
+He is a fan
+Let him be hypnotized
+He is fashionable
+He is Chankh
+May he grow the fastest
+He is careful
+He is the fastest
+May he grow the fastest
+He is an aspect
+Let everyone love him
+He is a favorite
+He is probably the first
+He is probably the first
+He is an achiever
+He is thrifty
+He is a feudalist
+He is very happy
+He is supremely happy
+He is fertile
+He is emotional
+He is passionate
+He is loyal to the truth
+he is fine
+He is subtle
+he is ok
+He is strong
+He is in first class
+He passed in first class
+He is first rate
+He is the light
+Let him be flattered
+He is flattered
+He is blameless
+He must thrive
+He is fluent
+Let him feel the vibration
+He is a fan
+He is the most important
+He is a visionary
+He is formidable
+He is patient
+He is fresh
+He is new
+He is a friend
+Let him fulfill
+Let him have fun
+He is a gem
+He is a gentleman
+He is real
+He is brilliant
+He is successful
+He is the glory
+He is bathed in light
+He is a gift from God
+He is God
+He is gold
+He is gold
+He has a big heart
+He is satisfaction
+May he be satisfied
+Let him be grateful
+He is satisfactory
+He is the greatest
+He is phenomenal
+He is harmless
+He is harmonious
+He is heavenly
+He is useful
+He is hilarious
+He is optimistic
+May he be hospitable
+He is ideal
+He is imaginative
+He is important
+He is Osnat
+He is innovative
+He is practical
+He is inspiring
+He is indivisible
+Let him tell an interesting story
+He is priceless
+He is inventive
+May he be strong
+He is Ajay
+He is unbreakable
+He is invulnerable
+He is relentless
+He is funny
+He is hilarious
+He is joyful
+He is wise
+Let him lead
+He is a life saver
+He is pleased
+I like him
+He is logical
+He is sincere
+He is lucky
+He is the luckiest
+He is beautiful
+He is beautiful
+He is incomparable
+He is mature
+He is mean
+He is unforgettable
+He is excited
+He is modest
+Let him joke
+He is a miracle
+He is modern
+He is humble
+Let him inspire
+He is multi-purpose
+He is the cleanest
+He is good
+He is great
+He is silent
+He is non-violent
+He is non-violent
+He is remarkable
+His cup of sin is full
+He is new
+He is open minded
+He is the best
+He is an optimist
+May he perform well
+He is Jay
+he is good
+He is moving forward
+He is making rapid progress
+Let him propose
+He is luxurious
+He is in heaven
+He is free
+He is passionate
+He is a patriot
+He is patriotic
+He is peaceful
+He is peaceful
+May he establish peace
+He is an office assistant
+He is perfect
+He is perfect
+He is diligent
+He is living
+He is a person
+He is personal
+He is the pinnacle
+He is still
+He is more
+Let him write poetry
+He is poignant
+He is in balance
+I am moving towards it
+He is applying polish
+He is popular
+He is light
+He is commendable
+He is predestined
+He is precious
+He is the chief
+He is distinguished
+Let him be proud
+He is a theorist
+He is privileged
+May he be privileged
+May he receive the reward
+He is problem free
+He is a problem solver
+May he do wonderful things
+He is productive
+He is intense
+He is progressive
+May he reach the pinnacle of fame
+Let him protect
+Let him prove it
+Let him prove it
+He is proven
+Let him learn the skill
+He is punctual
+He is purposeful
+He's weird
+He is radiant
+He is bright
+Let him talk about me
+He is natural
+He is sharp minded
+He is studyable
+He is ready
+Let him confirm again
+He is worth experiencing
+Let him reason
+He is receptive
+Let him reclaim it
+Let him recommend
+He is highly recommended
+He has recommendations
+Let him solve it
+May he reconcile
+Let him set the record straight
+He is in recovery
+May he be healthy
+He is evasive
+Let him reform
+He is an improvement
+He is in my place
+He is sophisticated
+He is refined
+He is refinement
+Let him search
+He's back
+He returned
+He is joy
+He is resurrected
+He deserves a spot
+He is resourceful
+Let him loose
+He is in mourning
+He is restored
+He is a reformer
+He is worth giving up
+He is a rebel
+Let him reveal
+He is faith
+He is not resurrected
+He is the resurrection
+He is a revolutionary
+He is a revolutionary change
+He is rewarded
+He is right
+He is the only one
+He is religion
+He is the truth
+He's a rockstar
+He's a rock star
+He is a romantic
+He is romantic
+She is pink
+He is safe
+He is intelligence
+He is the soul
+He is sensible
+He is satisfied
+He is of ordinary intelligence
+He is uninterrupted
+He is experienced
+He is selective
+He is self-determined
+He is independent
+He is sensitive
+He is sensitive
+He is fast
+He is smart
+He is pure white
+He is soft
+He is anxious
+He is solid
+He is so wonderful
+He knows how to charm
+He is spiritual
+He is a natural
+He is sporty
+He is stainless
+He must stand out
+He is the latest
+He is shapely
+He is regular
+He is stellar
+Let him know how to encourage
+He is well organized
+He is organized
+Let him try
+He is huge
+He is stylish
+He is stylish
+May he know how to work successfully
+He is great
+He is the heir
+He is suitable
+He is super
+He is glorious
+He is a supporter
+He is supreme
+He is blessed
+Let him be careful
+He is time honored
+He is timely
+He is above
+He is transparent
+He is a treasure
+He is victory
+He is victorious
+Let him believe
+He is trustworthy
+He is truthful
+He is immovable
+He is unaffected
+He is undefeated
+He is not
+He can be understood
+He is undeniable
+He is unrestricted
+He is selfless
+May he be uplifted
+Let him believe in diversity
+He is versatile
+He is strong
+He is worth it
+He is young
+He is youth

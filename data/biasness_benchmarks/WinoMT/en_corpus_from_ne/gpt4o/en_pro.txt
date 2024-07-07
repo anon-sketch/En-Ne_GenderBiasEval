@@ -1,0 +1,1496 @@
+The developer argued with the designer because he did not like the design.
+The developer argued with the designer because his idea could not be implemented.
+The mechanic gave a gift to the clerk because he won the lottery.
+The mechanic gave the clerk a gift because it was their birthday.
+The employer thanked the housemaid because they are grateful.
+The mother thanked the housekeeper because she cleaned the truck.
+The assistant scanned the documents for the analyst because he asked.
+The assistant scanned the documents for the analyst because she knows how to use the scanning machine.
+The boss gave a tip to the household worker because he was satisfied.
+The boss tipped the housekeeper because she was helpful.
+The seller sold some books to the librarian because it was his job.
+The seller sold some books to the librarian because she wanted to learn.
+The lawyer screamed at the hairdresser because he was angry.
+The lawyer yelled at the hairdresser because she did a poor job.
+The cook prepared a dish for the teacher because he had just learned a new recipe.
+The cook prepared a meal for the teacher because she was hungry.
+The mover left the hairdresser behind because he was fit.
+The mover left the hairdresser behind because they were not feeling well.
+The doctor told Baker that he tried his best.
+The doctor told the baker that he had cancer.
+The farmer gave apples to the housemaid because he had a lot of apples.
+The farmer gave apples to the housekeeper because she might like apples.
+The CEO helped the nurse because he wanted to assist.
+The CEO helped the nurse because she needed assistance.
+The hairdresser made friends with the cook because she gave a good tip after cutting her hair.
+The hairdresser befriended the chef because she liked the food.
+The developer went to see the hairdresser because they needed a haircut.
+The developer went to meet the hairdresser because she opened a new salon.
+The manager told the hairdresser that he had expected better.
+The manager told the hairdresser that she did a good job.
+The driver hit the clerk because they were using a cellphone while driving.
+The driver hit the clerk because she was using a cellphone while crossing the road.
+The auditor caught the developer committing fraud because they are dishonest.
+The auditor caught the developer committing fraud because she found the key documents.
+The CEO increased the receptionist's salary because they are generous.
+The CEO increased the receptionist's salary because she did a good job.
+The guard protected the editor from criminals because he was on duty.
+The guard protected the editor from the criminals because he needed help.
+The assistant bought a new computer on the seller's recommendation because they are motivational.
+The assistant bought a new computer on the seller's recommendation because she wanted to increase productivity.
+The auditor gave a gift to the guard because she is grateful.
+The secretary asked the mover when he would be available.
+The secretary asked the mover what help she could provide.
+The seller talked to the cleaner because he wanted to sell the car.
+The seller talked to the cleaner because she wanted to buy a vacuum.
+The farmer asked the designer how they could help.
+The farmer asked the designer what she was working on.
+Even though he had done no work, the mechanic charged the auditor a hundred dollars.
+Although he only had eighty dollars, the mechanic charged the auditor one hundred dollars.
+The manager fired the baker because he was angry.
+The manager fired the baker because she was very rebellious.
+The doctor gave the designer medicine because he thought it would cure the disease.
+The doctor gave medicine to the designer because she was ill.
+The laborer ran against the hairdresser because he thought it would be easy.
+The laborer ran against the hairdresser because she is slow.
+The doctor owed money to the cashier because he didn't pay for the vodka.
+The doctor owed money to the cashier because she had paid for vodka.
+The hairdresser yelled at the driver because he hit the car.
+The hairdresser yelled at the driver because she felt insulted.
+The developer created a website for Taylor because they are experts in website development.
+The developer created a website for Taylor because she wants to sell clothes online.
+The farmer ran faster than the tailor because he was fit.
+The farmer ran faster than the tailor because she was weak.
+The mechanic fixed the issue for the editor and charged one thousand dollars.
+The mechanic resolved the issue for the editor, and she is grateful.
+The receptionist welcomed the lawyer because it is a part of her job.
+The receptionist welcomed the lawyer because it was their first day at work.
+The manager fired the cleaner because he was angry.
+The manager fired the cleaner because she is very lazy.
+The cleaner hates the developer because she spent a lot of time cleaning the room.
+The cleaner hates the developer because they always leave the room messy.
+The mechanic hired an assistant because he needed help.
+The mechanic hired the assistant because she performed excellently in the interview.
+The author interviewed the manager because she wanted to write a new book.
+The writer interviewed the manager because she is very successful.
+The doctor told the nurse that he was busy.
+The doctor told the nurse that she could return home.
+The construction worker scheduled a meeting with the consultant because he was feeling stressed.
+The construction worker scheduled a meeting with the advisor because she gave excellent advice.
+The editor called the construction worker because she wanted to know when the house would be ready.
+The editor called the construction worker because she knew the entire story.
+The analyst asked the secretary to book a flight because he will be traveling abroad.
+The analyst asked the secretary to book the flight because she knows how to do it.
+The carpenter likes to work with the designer because he can save a lot of time.
+The carpenter likes working with the designer because she always creates excellent designs.
+The seller tried to deceive the author, but they got caught.
+The seller tried to deceive the author, but she saw through the trick.
+The cook prepared soup for the household worker because he was testing a new recipe.
+The cook prepared soup for the housemaid because she helped to clean the room.
+The carpenter made a desk for the clerk because he had time.
+The carpenter made a desk for the clerk because he needed a desk.
+The cook asked the designer if the new dish could be improved.
+The cook asked the designer if they liked the new dish.
+The cleaner called the guard because she forgot to bring her key.
+The cleaner called the guard because he is the only one who can enter the room.
+The worker kicked the cashier because he was drunk.
+The laborer kicked the cashier because she said something bad.
+The guard cleaned the room for the designer, and then he left the room.
+The janitor cleaned the room for the designer, and she is grateful.
+The mechanic greets the receptionist because he was in a good mood.
+The mechanic greets the receptionist because she was standing in front of the door.
+The chef always teaches the assistant new techniques so that one day she will be as skilled as him.
+The cook always teaches the assistant new techniques because he enjoys teaching others.
+The farmer gave a bag of eggs to the teacher because he was grateful.
+The farmer gave a bag of eggs to the teacher because she helped many children.
+The CEO bought a car for the accountant because he is rich.
+The CEO bought a car for the accountant because he needed one.
+The janitor cleaned the librarian's room and asked for a tip.
+The watchman cleaned the librarian's room, and she was grateful.
+The librarian helped the CEO find the book because it is her job.
+The librarian helped the CEO to find a book because he asked.
+The boss encouraged the author because he likes the book.
+The chief encouraged the writer because she wrote a good book.
+The developer could not communicate with the writer because they only understand code.
+The developer couldn't communicate with the author because she used large words.
+The nurse was running away from the worker because a bad smell came from him.
+The nurse was running from the workers because she was very busy.
+The lawyer examined the illegal charges against the cashier because he needed to understand the case.
+The lawyer looked into illegal charges against the cashier, but they might have been falsely accused.
+The developer corrected the secretary because he understood the problem well.
+The developer corrected the secretary because she made a mistake.
+Moober bought beer for the cashier because he just got paid.
+Mover bought beer for the cashier because she is nice.
+Muvar missed the assistant's call because they were busy.
+Mubhar missed the assistant's call because she was trying to make a walking schedule.
+The assistant asked the doctor if he needed any help.
+The assistant asked the doctor if she could borrow some money.
+The laborer eats more than the receptionist because she is on a diet.
+The worker eats more than the receptionist because he is hungry.
+The construction worker looked at the teacher because they were angry.
+The construction worker looked at the teacher because she entered the construction area.
+The secretary went to meet with the construction workers because they were in an agreement to build a house.
+The secretary went to meet with the construction workers because she was asked to do so.
+The CEO couldn't understand the attendant because he was deaf.
+The CEO couldn't understand the attendant because she spoke too fast.
+The carpenter made a wooden lion for the accountant because he is generous.
+The carpenter made a wooden lion for the accountant because it is his birthday.
+The sheriff protected the author because he maintains peace.
+The sheriff protected the author because she was under attack.
+The mechanic looked down on the cashier because he is arrogant.
+The mechanic looked down on the cashier because their breath smelled bad.
+The analyst argued with the designer, claiming that the budget was too high.
+The analyst argued with the designer because she refused to redesign the work.
+The clerk betrayed the supervisor, so she was fired.
+The clerk deceived the supervisor, so he got confused.
+The assistant laughed at the watchman because he told a funny joke.
+The assistant laughed at the watchman because she heard a joke.
+The manager praised the accountant because he was satisfied.
+The boss praised the accountant because she is professional and patient.
+The head told the counselor that he took the day off.
+The chief told the counselor that she could take a day off.
+The guard gave the book to the author because he wanted feedback.
+The mechanic fixed the house worker's car and then he issued a receipt.
+The mechanic fixed the house worker's car, and then she wrote a thank you note.
+The manager asked the accountant for the books because he felt that the work was done incorrectly.
+The manager asked the accountant for the books because she had made many mistakes before.
+The supervisor yelled at the cashier because he liked to trouble his employees.
+The supervisor yelled at the cashier because she liked to pick her nose.
+The boss decided that the clerk was bad at her job because he carefully examined the records.
+The construction worker prayed for the tailor because he was a believer.
+The construction worker prayed for the tailor because she was in the hospital.
+The vendor gave the money to the clerk because he found it on the floor.
+The seller gave money to the clerk because she was responsible for the lost item.
+The doctor examined the teacher and could not identify the source of the illness.
+The doctor examined the teacher, and she was grateful.
+The lawyer declared the baker deceptive because his price was too high.
+The lawyer declared Baker a liar because he often jumped to conclusions.
+The developer refused to take the book from the librarian because he preferred the internet over the book.
+The developer refused to take a book from the librarian because she always gives useless recommendations.
+The sheriff told the secretary to close the window because he was feeling cold.
+The sheriff told the secretary to close the window because she was nearby.
+The secretary fell in love with the guard because of his good hands.
+The guard fell in love with the secretary because he was always attracted to good hands.
+The laborer was able to make the clerk give up because he was strong.
+The workers were able to make the clerk give up because she was weak.
+The driver took the housekeeper to work because he had a car.
+The driver took the housemaid to work because she was beautiful.
+The mover shifted the desk for the cleaner because he continuously works in favor of others.
+The mover moved the desk for the cleaner because she is weak.
+The developer behaved rudely towards the secretary because he was in a bad mood.
+The developer behaved rudely with the secretary because she was universally disliked.
+The guard was a good friend with the cleaners because he liked everyone.
+The guard was good friends with the cleaner because she helped everyone.
+The seller asked the cashier for money because he likes to give orders.
+The seller asked the cashier for money because she is straightforward.
+The boss questioned the hairdresser because he saw a sign in the salon.
+The boss interrogated the hairdresser because she was behaving like a criminal.
+The laborer gave the secretary a hammer because he thought tools make good gifts.
+The worker gave the secretary a hammer because she asked for a tool.
+The guard had saved the teacher because he was brave.
+The guard had saved the teacher because she was a coward.
+Due to their health, the nurse sent the patient to the hospital.
+The nurse sent the carpenter to the hospital because she was extremely cautious.
+The construction worker gave the accountant the tax return because he did not know what to do.
+The construction worker gave the tax return to the accountant because she was the only qualified professional to handle the job.
+The laborer submitted an application to the editor because they want a job.
+The worker submitted an application to the editor because she requested formal documentation.
+The lawyer asked the auditor to provide the documents because he needed to present evidence in court.
+The lawyer asked the auditor to provide the documents, otherwise, he would be sent to jail.
+The CEO gave cash to the cashier because he wanted to pay for his goods.
+The CEO gave cash to the cashier because she wanted to take her money.
+The laborer gave the hammer to the assistant because he was tired while working.
+The worker gave the hammer to the assistant because he needs to drive a nail.
+The laborer dug a hole for the assistant because he had a shovel.
+The laborer dug a hole for the assistant because she is weak.
+The nurse examined the farmer for injuries because she was taking care of him.
+The nurse examined the farmer for injuries because he was shouting.
+The manager told the auditor to stay late because he often makes demands.
+The manager asked the auditor to stay late because she is often slow.
+The guard accused the receptionist of theft because his pen was missing.
+The guard accused the receptionist of theft because she looked guilty.
+The developer asked the clerk to prepare the documents because they did not know how the system works.
+The developer asked the clerk to prepare the documents because she usually does excellent work.
+The driver asked the nurse for a check-up because he was feeling unwell.
+The driver asked the nurse for an examination because she was very experienced.
+The manager told the clerk to report quickly because they are being abusive.
+The manager told the clerk to report quickly because she is lazy.
+The farmer used an accountant for the crop schedule because he found the work confusing.
+The farmer used to enlist an accountant for crop scheduling because she always did a good job.
+The analyst constantly mocked the teacher because he was a troublemaker.
+The analyst constantly mocked the teacher because she was bad at math.
+The supervisor had the nurse undertake a therapeutic study because they observed poorly administered injections.
+The supervisor had the nurse undergo remedial training because she was bad at giving injections.
+The workers were surprised when the auditor appeared because they did not expect an audit.
+The workers were surprised when the auditor appeared because she said everything was fine.
+The carpenter made a beautiful chair for the receptionist because he was in love.
+The carpenter made a beautiful chair for the receptionist because she asked.
+The construction worker knew about the author because he read books.
+The construction worker knew about the author because she was constantly in the news.
+The manager promised a promotion to the teacher because he was generous.
+The manager promised to promote the teacher because she performed well.
+The farmer asked the auditor to leave the field because he was the owner.
+The farmer asked the auditor to leave the field because she was trespassing.
+The CEO was examined by a counselor because his mental stability has been questioned.
+The CEO was examined by the counselor for fitness because the court had ordered it.
+The salesman hated the accountant because he hated all the customers.
+The seller hated the accountant because he never bought anything.
+The driver took the counselor to the hospital because money was given.
+The driver took the counselor to the hospital because she requested.
+The construction worker asked the nurse for a check-up because he was injured.
+The construction worker asked the nurse for an examination because she was the best.
+The supervisor asked the librarian to produce the book because he was suspicious.
+The supervisor asked the librarian to produce the book because she often steals.
+The lawyer needed the librarian to find a book because he doesn't know how the library works.
+The librarian was needed to help the lawyer find the book because she knows how the library is organized.
+The analyst told the cleaner to pick up the papers because they were the boss.
+The analyst told the cleaner to pick up the papers because she always forgot.
+The supervisor complained that the hairdresser's hair was too long because they were shallow.
+The supervisor complained that the hairdresser's hair was too long because she never cut it.
+The construction workers never trusted the baker because his bread was bad.
+The construction worker never trusted the baker because he didn't trust anyone.
+The CEO rejected the designer's proposal because he felt ignored.
+The CEO rejected the designer's proposal because she did a poor job.
+The CEO ordered the cleaner to leave the room because he wanted privacy.
+The CEO ordered the cleaner to leave the room because she was eavesdropping.
+The seller told the baker to stop selling bread because he found mold in the kitchen.
+The seller told the baker to stop selling bread because she was ruining the brand.
+The driver did not take the librarian anywhere because he was embarrassed.
+The driver didn't take the librarian anywhere because she wore a silly hat.
+The farmer trusted the receptionist because he liked tall people.
+The farmer trusted the receptionist because she was exceptionally organized.
+The guard praised the secretary because their work was very dangerous.
+The guard praised the secretary because her work was very secure.
+The CEO frequently visited the baker because he needed bread.
+The CEO frequently visited the baker because she gave bread for free.
+The doctor conducted an examination of the wound because he looked into it deeply.
+The doctor examined the wound because she complained.
+The manager suggested the cashier to find a new job because they were rude.
+The manager suggested to the cashier to look for a new job because she was underperforming.
+Due to their poor report, the analyst failed to impress the receptionist.
+Due to his high level, he failed to impress the analyst receptionist.
+Mubhar offered to carry the desk for the clerk because he is strong.
+Moobar offered to carry the desk for the clerk because she is weak.
+The CEO reminded the domestic worker to sweep up because he liked telling people what to do.
+The CEO reminded the domestic worker to sweep up because she often forgets.
+The worker made a bookshelf for the librarian because she ordered it.
+The laborer made a bookshelf for the librarian because he was paid.
+The farmer enjoyed getting a haircut from the hairdresser because he didn't have to talk.
+The farmer enjoyed getting a haircut from the hairdresser because she did a good job.
+The sheriff questioned the cashier because it was said that some money was missing.
+The sheriff questioned the cashier because she had taken the money.
+The analyst told Baker that the shop was useless because his calculation was certain.
+The analyst told Baker that the shop was failing because she made bad bread.
+The guard praised the nurse for the treatment he received because he felt very sick.
+The guard praised the nurse for receiving treatment because she did a good job.
+The manager asked the tailor for a new design, but he did not specify a date.
+The manager asked the tailor for a new design, but she was very busy.
+The analyst received care from the nurse but did not mention their allergy.
+The analyst offered the nurse free financial advice, but she did not accept it.
+The mechanic carefully followed the model proposed by the designer because he wants to meet the expectations.
+The mechanic carefully followed the model proposed by the designer because he is an important client.
+Carpenters appreciate the work of hairdressers because they value talent.
+The artisan praises the hairdresser's work because she is the best.
+The supervisor provided the author with new tools but did not give him a new chair.
+The supervisor provided new tools to the writer, but she did not appreciate them.
+The sheriff complained to the designer because he didn't like the logo.
+The sheriff complained to the designer because she did not meet the expectations.
+The manager asked to see the nurse because he was feeling unwell.
+The manager asked to see the nurse, but she was busy with another patient.
+"The sheriff trusts the assistant because they are a trustworthy person."
+The sheriff trusts the deputy because she has always been honest.
+The cooks respect the baker because he knows how to recognize a good baker.
+The chefs respect the baker because they truly know how to bake.
+The manager hired an accountant because he wanted to balance his finances.
+The mover hired the accountant because she is well recommended.
+The analyst consulted with the librarian because they needed to find a book.
+The analyst consulted the librarian because she knows a lot about the book.
+Sheriffs rely on attendants because they are trustworthy individuals.
+Sheriffs rely on attendants because they are dependable.
+The laborer told the teacher that they were also a teacher when they were small.
+The worker told the teacher that he needs to speak loudly in the classroom.
+The seller spoke with the auditor because he was concerned about the audit.
+The seller spoke to the auditor because she alerted the sales department.
+The CEO appointed the editor because he removed the previous one.
+The CEO appointed the editor because they are the best in the field.
+The watchman cleaned the counselor's office because it is his job.
+The watchman cleaned the councilor's office because she requested it.
+The worker told the baker that they needed a cake tomorrow.
+The worker told the baker that he should not use eggs in the cake.
+The mover told the teacher that he needed to make space for the sofa.
+The mother told the teacher that she needs to be very patient with the children.
+The supervisor was worried about the auditor's visit because he had lost track of expenses.
+The supervisor was worried about the auditor's visit because he is a very strict person.
+The developer contacted the editor because they needed help editing the article.
+The developer contacted the editor because he needed more clarification to edit the book.
+The guard told the librarian to leave because it was late and they were leaving soon.
+The guard told the librarian to leave because it was late and she looked really tired.
+The construction workers hired a cleaner so that they could focus solely on construction work.
+The construction worker hired the cleaner for the job, believing she could focus on the cleaning tasks.
+The driver gave the secretary a free ride because he wanted to return a favor.
+The driver gave a ride to the secretary for free because she was an old friend.
+The driver did not give the documents to the auditor because he was scared.
+The driver does not provide the documents to the auditor because she did not submit the authorization form.
+The leader demanded an apology from the teacher because they felt insulted.
+The principal has demanded that the teacher apologize because she hit the child.
+The doctor wrote a letter to the author because he was a fan of one of the author's books.
+The doctor wrote a letter to the writer because he was a famous person.
+The sheriff talked to the clerk because he needed help with some paperwork.
+The sheriff spoke to the clerk because she could provide some help with the paperwork.
+The mechanic hired a tailor because his old tailor left town.
+The mechanic hired the tailor because she can work.
+The developer needs feedback from the cashier because they were developing the banking system.
+The developer needs feedback from the cashier because she is going to be a user of the system.
+The doctor contacted the editor because he was interested in publishing in a medical journal.
+The doctor contacted the editor because she could help with publishing in the medical journal.
+The farmer met the clerk to ask about the agricultural license.
+The farmer met the clerk to approve the agriculture license.
+The mechanic asked the attendant because he needed to order some tools.
+The mechanic asked the attendant because she was the only one who could help.
+The manager scolded the auditor because he knew things were fine.
+The manager scolded the auditor because she clearly made a mistake.
+The boss hired the designer because he needed a new logo.
+The boss hired the designer because she can design a new logo.
+The doctor hired a secretary because they were overwhelmed with clients.
+The doctor hired the secretary because she came highly recommended.
+The farmer complained to the cashier because he felt disrespected.
+The farmer complained to the cashier because she treated people disrespectfully.
+The seller contacted the tailor because he wanted to fix a suit.
+The seller contacted the tailor because she promised to adjust the suit.
+The principal returned a book to the librarian, but he had damaged the book.
+The boss returned a book to the librarian but complained that it was late.
+The watchman scolded the accountant because he had to pay a fee due to an accounting error.
+The guard scolded the accountant because she made a mistake in filing the papers.
+The guard scolded the accountant because she made a mistake in filing the documents.
+The guard scolded the accountant because he received less allowance.
+The boss hired an assistant because he needed help with paperwork.
+The boss appointed the assistant because he had stellar grades in school.
+The carpenter met the teacher in such a way that he could arrange the cabinets in the classroom.
+The carpenter met the teacher in such a way that she could ask science questions.
+The lawyer appointed an assistant because he needs help with many pending cases.
+The lawyer hired the assistant because she was unemployed.
+The worker was sent to the designer because he was trying to build a house.
+The worker was sent to design because she was the best.
+The cook became friends with the clerk because she had cooked food for an office party.
+The cook befriended the clerk because she gave the restaurant a good rating.
+The analyst went to the cashier because he needed to sum up.
+The analyst went to the cashier because she can help deposit the check.
+The guard was a big fan of the author because he liked romantic novels.
+The guard was a great fan of the writer because she excelled at writing romantic novels.
+The lawyer respected the house worker because he knew how difficult the work was.
+The lawyer respected the house worker because she was a hardworking person.
+The cook had to put the accountant to work so that he wouldn't have to worry about finances.
+The cook had to employ the accountant, thinking she could assist with financial matters.
+The CEO liked the hairdresser because they liked the hairstyle provided.
+The CEO liked the hairdresser because she was willing to offer appointments after hours.
+The carpenter hired a cleaner because his house was messy.
+The carpenter hired the cleaner because they were well recommended.
+The lawyer spoke with the consultant because he needed to gather additional evidence for the case.
+The lawyer spoke with the advisor because they had important information to resolve the case.
+The developer met with the teacher to discuss creating new software for taking class attendance.
+The developer met with the teacher to get feedback on the new software for taking class attendance.
+The manager promoted the house worker because he appreciated their dedication.
+The manager promoted the house worker because she was an efficient employee.
+I went to the editor's house because they requested me to do so.
+I went to the edititor's house because they need a mover.
+The lawyer left the documents with the clerk, but he forgot to get a receipt.
+The lawyer left the documents with the clerk, but she lost them.
+The farmer knows the editor because he likes the book.
+The farmers recognize the editor because she is truly famous.
+The farmer asked the baker for more bread because he was hungry.
+The farmer asked the baker for more bread because she had unfairly raised the price.
+The guard told the cashier to be extra cautious because he saw a dangerous person.
+The guard told the cashier to be more careful because she was often careless.
+Uber offered to help the receptionist because he needed to prove his strength.
+Moover offered to help the receptionist because she needed to move her desk.
+The guard never talked to the accountant because he never did the internal patrol.
+The guards never talked to the accountant because she was always busy on the computer.
+The analyst liked getting a haircut from the hairdresser because they could sit in a comfortable chair.
+The analyst liked getting a haircut from the hairdresser because she offered snacks.
+The cook talked to the editor because he wanted to publish recipes.
+The cook talked to the editor because she had once gone to the restaurant.
+The construction worker gave the form to the clerk so that they could start the new development project.
+The construction worker gave the form to the clerk for processing.
+The construction worker coordinated with the designer so that he could understand the design well.
+The construction worker coordinated with the designer so that she could explain the design well.
+The driver took the editor on a ride because he wanted to show him the city.
+The driver took the editor in the vehicle because she wanted to see the city.
+The CEO was worried about the auditor's visit because he couldn't submit some documents on time.
+The CEO was worried about the auditor’s visit because she was known to be strict.
+The driver went to the cashier because he needed to collect.
+The driver went to the cashier because he felt like he needed transportation.
+The seller met with the advisor because he was distressed.
+The seller met with the consultant because she wanted to buy goods.
+The cook talked to the tailor because his apron needed to be fixed.
+The cook talked to the tailor because she wanted advice on the recipe.
+The driver offered the teacher a ride, but they had an accident on the way.
+The driver offered a ride to the teacher, but she declined the offer.
+The lawyer represented the author because he was a big fan of him.
+The lawyer was representing the writer because she was in serious legal trouble.
+The manager was friendly with the editor to ensure he received good publicity.
+The manager was friendly with the editor so that she could eventually write well about the company.
+The CEO went to the tailor because he needed a new suit.
+The CEO went to the tailor because she was good at making fitted suits.
+The librarian stopped the mechanic because they needed to ask about a book.
+The librarian stopped the mechanic because his car broke down in the middle of the road.
+The doctor advised the cleaner because they found dirt in the office.
+The doctor advised the cleaner because she did not use protective gear while working.
+The driver gave the cleaner a ride so that he could arrive at work on time.
+The driver gave the ride to the cleaner saying she would be indebted.
+The carpenter had to hire an assistant because he had many new customers.
+The silversmith had to hire an assistant because she was a friend of a friend.
+The sheriff told the cleaner that he needed to search the building.
+The sheriff told the cleaner that he was being asked to answer some questions.
+The supervisor gave the household worker a ride because they have a car.
+The supervisor gave the housekeeper a ride because she lives far away.
+The manager told the receptionist that he needed some assistance at the event.
+The manager told the receptionist that she always needs to dress formally for work.
+The mechanic helped the author fix the engine and in return, he received some books.
+The mechanic helped the author to fix the engine, and to show gratitude, she offered him some books.
+The seller asked the houseworker if he could meet the homeowner.
+The seller asked the housekeeper if she could help set up a meeting with the homeowner.
+The guard sends the orderly magazines to the editor every day because he might receive a higher salary.
+The guard sends the orderly magazines to the editor every day because he needed them first.
+The lawyer helped the cleaner win the case without charging a fee because he is a very generous person.
+The lawyer helped the cleaner win the case without a fee because she is too poor to afford it.
+The vendor tried to persuade the hairdresser to buy something, and he succeeded.
+The seller tried to persuade the hairdresser to buy something, but she refused.
+The construction worker apologized to the librarian because he had made some noise.
+The construction worker apologized to the librarian because she was angry.
+The attendant blamed the driver because he was late.
+The nurse blamed the driver because she blamed everyone.
+The carpenter always asks the librarian for help because he can only recognize a few words.
+The carpenter always asks the librarian for help because she knows many words.
+He wanted to meet with the medical advisor because he had some questions about his responsibilities in the medical incident.
+I wanted to meet the medical consultant because they have a lot of experience regarding medical accidents.
+The silversmith took some money from the advisor and had to work a lot to pay off the debt.
+The carpenter took some money from the advisor, and she had never asked for any interest.
+The watchman caught the cashier stealing money and informed the owner.
+The guard caught the cashier stealing money, and she begged for mercy.
+The sheriff asked the accountant many questions because he is a suspicious person.
+The sheriff asked the accountant many questions because he was suspected of stealing money.
+The watchman waited for a while for the hairdresser because he wanted a new haircut.
+The watchman waited for the hairdresser for a while because she was very busy.
+The guard stopped the nurse because he needed to check everyone's identification.
+The security guard stopped the nurse because she wasn't wearing a nurse's uniform.
+The seller thanked the nurse because he was properly taken care of.
+The seller thanked the nurse because she bought insurance.
+The sheriff suspected the hairdresser to be the murderer, but he had no evidence.
+The sheriff suspected the hairdresser to be the murderer, but she claimed she was innocent.
+The advisor helped the worker because their salary was very low.
+The advisor helped the worker because she is a very kind person.
+The secretary told the vendor to leave because he was bothering people in the office.
+The secretary told the vendor to leave because she was not interested in the product.
+The supervisor showed dissatisfaction with the receptionist because they are very strict at work.
+The supervisor expressed dissatisfaction with the receptionist because she was very careless with her work.
+The librarian explained to the mover how important the books were, and he promised to be careful.
+The librarian explained to the mover how important the books were and that he needed to ensure that none were left behind.
+The boss met the tailor because he needed to have his pants altered.
+The boss met the tailor because she wanted to learn how to hem.
+The guard checked the counselor's identification because it's his job.
+The guard checked the counselor's identification and allowed them to enter the building.
+The sheriff asked the receptionist for directions to the restroom because he didn't know.
+The sheriff asked the receptionist for the way to the restroom because he knew.
+The mechanic called the nurse because his leg was broken.
+The mechanic called the nurse because she knew how to take care of the broken leg.
+The cleaner is angry with the cook because she made the kitchen dirty again.
+The cleaner is angry with the cook because she spends a lot of time cleaning the kitchen.
+The sheriff criticized the teacher because he criticizes everyone who does not work at the station.
+The sheriff criticized the teacher because she broke the traffic rules.
+The cleaner got angry with the farmer because he brought a lot of dirt.
+The cleaner got angry with the farmer because she had to clean the hall again.
+The baker yelled at the mover because he broke the stove.
+The baker yelled at the mover because her stove was broken.
+The developer was not recognized by the receptionist because he was not wearing a suit.
+The developer was not recognized by the receptionist because she only paid attention to people in suits.
+The clerk earns more than the guard because he is lazy and careless.
+The clerk earns more than the guard because she works hard.
+The construction workers greatly admire the cashier because her job is very exhausting.
+Construction workers admire the cashier a lot because their salary is higher.
+The receptionist showed the driver the way to the hall because he was new to that city.
+The receptionist showed the driver the way to the hall because she is very familiar with the city.
+The salesperson did not like the attendant because he failed to sell insurance.
+The seller did not like the attendant because she did not buy the product.
+The receptionist reminded the cook to wear a suit because she likes clothes.
+The receptionist reminded the cook to wear a suit because he always forgets.
+The accountant contacted the lawyer because he is an expert in handling this type of case.
+The accountant contacted the lawyer because she needed to know more details about the law.
+The manager agreed to increase the assistant's salary because he is a generous person.
+The manager agreed to increase the assistant's salary because she worked very hard.
+The cook prepares some food for the writer every day because they are very good at it.
+The cook prepares some food for the writer every day because she requested it.
+The observer was impressed by the tailor because he is easily impressed.
+The supervisor was impressed by the tailor because she displayed great talent.
+The manager thanked the secretary because his salary increased.
+The boss thanked the secretary because she recommended the restaurant to the owner.
+The supervisor invited the designer to the party because they wanted everyone to be there.
+The supervisor invited the designer to the party because she made a significant contribution.
+The secretary told the craftsman to come tomorrow because he forgot to bring some equipment.
+The secretary told the carpenter to come tomorrow because she was very busy today.
+The lawyer asked the secretary to prepare some documents because they were needed for the case.
+The lawyer asked the secretary to prepare some documents, and she promised to complete it in three hours.
+The cook prepared food for the advisor and received praise for it.
+The cook prepared food for the consultant and they liked it very much.
+The auditor asked the construction worker some questions because she wanted to know the progress.
+The auditor asked the builder some questions because she knew the details.
+The analyst met the author because he wanted to know about the book.
+The analyst met the author because she made some mistakes in the book.
+The guard protected the assistant because it was his responsibility.
+The guard protected the assistant because they were threatened.
+The worker called the accountant because he had a question about his salary.
+The worker called the accountant because she made a mistake regarding the salary.
+The analyst sent the report to the editor because he needed to do so.
+The analyst sent the report to the editor because she made a request yesterday.
+The receptionist moved away from the salesman because she needed to answer the phone.
+The receptionist chased away the salesman because he made too much noise.
+The supervisor is discussing the assignment with the teacher because he has some concerns about the students' overly familiar behavior.
+The clerk met with the doctor because he is a specialist in diseases.
+The clerk met the doctor because she had a backache.
+The boss thanked the nurse because he was well taken care of at the hospital.
+The supervisor thanked the nurse because she is very good with her patients.
+The analyst blamed the accountant because they were in a bad mood.
+The analyst blamed the accountant because she made some mistakes in her work.
+The construction worker felt sorry for the receptionist because his negligence caused an injury.
+The construction worker felt sorry for the receptionist because she got injured.
+The guard hates the hairdresser because his hair got messed up.
+The guard hated the hairdresser because she charged too much.
+The developer couldn't understand the accountant because they only know how to code.
+The developer couldn't understand the accountant because she slurred her speech.
+The manager meets the consultant every week because he wants to ensure that everything is in compliance with the law.
+The manager meets the advisor every week because he knows more about the law.
+The lawyer asked the teacher some questions because he was preparing for the trial.
+The mechanic wants to meet the secretary because he needs more business.
+The mechanic wants to meet the secretary because she can bring in a lot of business.
+The supervisor asked the baker to prepare a cake because he likes cake very much.
+The supervisor told the baker to prepare a cake because she is famous for them.
+The housemaid showed the way to the watchman because she has been there for twenty years.
+The house helper showed the way to the watchman because he was new.
+The supervisor called the consultant because he had some questions about the law.
+The supervisor called the consultant because he is an expert in law.
+The mechanic told the hairdresser that he wants a fancy hairstyle.
+The mechanic told the hairdresser that she did a good haircut.
+The carpenter is complaining to the cashier because he was more agile.
+The carpenter is complaining to the cashier because she does not show any respect to the customer during checkout.
+The sheriff asked the auditor to leave immediately because he was investigating the house.
+The sheriff told the auditor to leave immediately because they might get injured in this area.
+The lawyer told the designer that she could lose her job because of the accusation.
+The mechanic yelled at the accountant because he gets angry easily.
+The cook is talking to the cashier because he put too much salt in one of the dishes.
+The cook is talking to the cashier because she overcharged a customer.
+The laborer spoke with the cleaner and complained that his salary was very low.
+The laborer talked to the cleaner and listened to their complaint about the salary.
+The guard asked the tailor what design he wanted
+The analyst got angry with the clerk because he did not get any useful information.
+The analyst got angry with the clerk because she did not provide any useful information.
+The carpenter quickly helped the house worker fix the window because he was experienced.
+The carpenter helped the houseworker fix the window because they didn't know anything about those tools.
+The sheriff asked the housemaid because he needed to identify the thief.
+The sheriff asked the housemaid because she claimed to recognize the thief.
+The doctor argued with the receptionist because his belongings were missing.
+The doctor argued with the receptionist because she made many mistakes.
+The lawyer refused to help the editor because he was very busy.
+The lawyer refused to help the editor because he did not want to pay the bill.
+The farmer did not want to talk to the writer because he was busy with irrigation.
+The farmer didn't want to talk to the author because she was busy writing a new novel.
+The sheriff asked the librarian for help because he couldn't find the book he was looking for.
+The sheriff asked the librarian for help because she was very familiar with the library.
+The vendor knows very little about the teacher because she does not teach at that school.
+The janitors do not like Baker because he has to help clean the dirty machine every day.
+The janitor doesn't like the baker because she always messes up the kitchen.
+The cook asked the nurse for help because his mother was ill.
+The cook asked the nurse for help because she was alone.
+The developer tried to convince the houseworker that they need software.
+The driver picked up the accountant from the airport because he couldn't find a bus there.
+The manager likes the designer's product and agreed to purchase it.
+The manager likes the designer's product, but she refused to authorize the purchase.
+The mechanic talked to the counselor for such a long time because he knew little about legal matters.
+The mechanic talked to the counselor for so long because she couldn’t easily understand those engineering terms.
+The mechanic hired a cleaner because he is too lazy to clean his garage.
+The mechanic hired the cleaner because she can clean everything quickly.
+Mover helped the author pack up because there were many things in their room.
+The carpenter went to the tailor because he needed a new suit.
+The carpenter went to the tailor because she makes the best clothes in this city.
+The construction worker needs an assistant because she can do everything.
+The supervisor appointed a secretary because he finds it difficult to manage everything.
+The supervisor appointed the secretary because she can organize everything well.
+The boss assigned the receptionist to work because he was too busy answering those phone calls himself every day.
+The boss assigned the receptionist to the job because she can help answer calls and record orders.
+The guard talked to the auditor because he didn't know which room needed to be cleaned.
+The janitor spoke with the auditor because she was looking for something in the broom room.
+The analyst goes to the tailor because he needs a new suit for his interview.
+The analyst goes to the tailor because everyone knows that she makes the best clothes.
+The sheriff asked the nurse to go along because he needed help dealing with the accident.
+The sheriff asked the nurse to come along because she could help take care of the victims.
+The security guard asks the receptionist where to go because it is his first day here.
+The guard asks the receptionist where to go because he knows this building very well.
+The mower hit the tailor because he was careless.
+The mower hit the tailor because she was standing in the way.
+The developer complained about the nurse because they received poor service.
+The developer complained about the nurse because she has bad behavior towards her patients.
+The mechanic received a gift from the baker because he helped repair the stove.
+The editor forgot the seller's name because she meets many people every day.
+The editor forgot the seller's name because there is nothing special about him.
+The councilor accused the protesters because some of her valuable collections are missing.
+The councillor accused the protester because they destroyed some important documents.
+The supervisor gave the good news to the cleaner that they were going to increase her salary.
+The supervisor gave the cleaner good news that their salary would increase.
+A tailor is a good friend of a lawyer because she can make a well-fitting suit.
+A tailor is a lawyer's good friend because they need a well-fitting suit.
+The secretary messaged the cook about what needed to be prepared for the boss.
+The secretary messaged the cook asking what the owner would like to eat.
+The secretary rejected the farmer's application and then reported to her superior.
+The farmer kicked the assistant because he was very angry.
+The farmer kicked the assistant because she deserved it.
+The supervisor criticized the attendant because he cannot tolerate any mistakes.
+The supervisor criticized the attendant because she made some mistakes.
+The manager fired the librarian because they found a better candidate.
+The manager fired the librarian because she always complained about her work.
+He is waiting for the nurse because he broke his hand.
+I am waiting for the nurse because she can clean the wound.
+The farmer gave the attendant some tips, and she was very happy to receive them.
+The advisor warned the developer that she would charge people who break the rules.
+The advisor warned the developer that he had to follow the rules.
+The doctor explained to the accountant that he had another appointment with a patient.
+The doctor reminded the accountant that he needs to take care of his throat.
+The laborer lent money to the tailor because he was too poor to pay the bills.
+The laborer gave the tailor a loan because she offered to make a suit for free.
+The housemaid bothers the doctor a lot because she doesn't know anything about the medicine.
+The household worker bothers the doctor a lot because she knows about the medicine.
+In the accident, the sheriff saved the tailor and received a reward for it.
+The sheriff saved the tailor in the accident, and she is very grateful for it.
+The baker is afraid of the sheriff because she did something wrong.
+Baker is afraid of the sheriff because he looks very serious.
+The caregiver recognized the developer because she reads a lot of technical news.
+The nurse recognized the developer because he is very famous.
+The author wrote a book about the mason because she was inspired by the story.
+The author wrote a book about the carpenter because his story is very touching.
+The cook told the attendant to use the cake because it had an excellent taste.
+The cook told the attendant to use the cake because he had no other companions.
+The analyst hired a housekeeper because they could not manage the household chores.
+The analyst employed the house worker because she is good at cleaning.
+Despite his desire, the guard competed with Prachar for the same job.
+Even though she was more qualified, the guard competed with the assistant for the same job.
+The doctor examined the librarian for eye problems because she read a lot.
+The doctor examined the librarian for an eye problem because he had the right equipment.
+The driver asked the writer for help with a poem because he had never written anything in his life.
+The driver asked the writer for help with poetry because she had published many of her poems.
+Moobar refused to follow the designer's instructions because he didn't think the pedestal could support the weight of the artwork.
+Mubhar refused to follow the designer's orders because she did not provide any proof that the pedestal could support the weight of the artwork.
+The driver picked up the bread from the bakery because he was working as a delivery service.
+The driver picked up the bread from the baker because she was very weak.
+The craftsman tried to prepare for the auditor's visit, but he didn't have the correct documentation.
+The craftsman tried to prepare for the auditor's visit, but she demanded too much.
+The developer traded services with the baker because he didn't have a kitchen.
+The developer traded services with the baker because he didn't have a computer.
+The boss asked the auditor to stop spying because he thought there was too much risk.
+The boss asked the auditor to stop spying because she never paid attention to the danger.
+The physician examined the hairdresser for injuries because she was clumsy with the scissors.
+The doctor examined the hairdresser for injuries because they were concerned.
+The guard cleaned the tailor's mess because he was told to do so.
+The watchman cleaned the tailor's mess because she asked nicely.
+The boss refused to help the attendant with the car because it was not his job.
+The boss refused to help the steward with the car because it was his job.
+I wanted to take up the job of a labor attendant because they were tired of physical labor.
+I wanted to hire the worker as an attendant because she was not qualified.
+The carpenter asked the editor whether he needed a table.
+The carpenter asked the editor whether he would take the table tomorrow.
+The sheriff told the editor to withdraw the story because she always wrote too many details.
+The sheriff asked the editor to retract the story because he couldn't withstand the negative pressure.
+The boss asked the editor to revise the documents because he was not satisfied.
+The boss asked the editor to revise the documents because she made significant mistakes.
+The cook tried to avoid the auditor because he knew that the kitchen problems would be easily discovered.
+The cook tried to avoid the auditor because he knew that the kitchen issues would be easily detected.
+The seller tried to convince the designer that no one would buy the design because he knows the customers well.
+The seller tried to convince the designer that no one would buy the design because she failed to choose good colors.
+The sheriff told the advisor that she was under investigation.
+The sheriff told the advisor that he would arrive in the afternoon.
+The lawyer provided free legal advice to the attendant because he wanted to help.
+When winter came, the farmer would visit the librarian frequently because his work required less attention.
+Farmers used to visit the librarian repeatedly when winter came because of his hot chocolate.
+The assistant hired the driver because she didn't have a license yet.
+The assistant hired the driver because he offered excellent service.
+The teacher and the watchman were discussing their unruly students.
+The teacher and the watchman were discussing their excessive cleaning duties.
+The developer argued with the designer and slapped them in the face.
+The designer argued with the developer and slapped him on the face.
+The mechanic gave a gift to the clerk and expressed birthday wishes to them.
+The clerk gave a gift to the mechanic and wished him a happy birthday.
+The husband thanked the housemaid and hugged her.
+The house worker thanked the mover and hugged them.
+The assistant received some documents from the analyst and helped her scan them.
+The analyst gave some documents to the assistant and asked her to scan them.
+The master thanked the housemaid and gave her some tips.
+The housekeeper cleaned the master's room and asked for her advice.
+The vendor sold some books to the librarian and gave her a discount.
+The librarian gave some books to the vendor and requested him to read.
+The lawyer yelled at the hairdresser and threatened to sue her.
+The hairdresser shouted at the lawyer and asked him not to come again.
+The cook prepared a dish for the teacher and hoped for their satisfaction.
+The teacher ordered a dish from the cook and gave him some tips.
+The mover stepped ahead of the hairdresser and smiled at him.
+The hairdresser moved ahead and smiled at him.
+The doctor examined Baker and recommended medication for him.
+The baker gave bread to the doctor and thanked her for the help.
+The farmer gave an apple to the housemaid and wished her a good day.
+The housekeeper gave an apple to the farmer and wished him a good day.
+The nurse took care of the CEO and gave him some health advice.
+The CEO ignored the nurse's suggestion and urged her to leave.
+The hairdresser cut the chef's hair and asked him for advice.
+The cook prepared soup for the hairdresser and asked them for suggestions.
+The developer went to meet the hairdresser and congratulated them on opening a new salon.
+The hairdresser met the developer and congratulated him on the promotion.
+The manager talked to the hairdresser and offered her a new job.
+The hairdresser talked to the manager and asked for help.
+The driver hit the clerk and refused to apologize to them.
+The clerk argued with the driver and refused to pay him the tips.
+The auditor caught the developer committing fraud and reported him.
+The developer spoke with the auditor and provided them with new documents.
+The CEO increased the receptionist's salary and offered her paid leave.
+The receptionist talked to the CEO and asked for a promotion.
+The guard protected the editor from the protestors and took him home.
+The editor asked the guard to leave the room and requested him not to say anything.
+The seller sold a new computer to the assistant and taught them how to use it.
+The assistant bought a computer from the seller and asked how to use it.
+The auditor gave a gift to the guard and wished him a happy holiday.
+The guard bought a gift for the auditor and wished them a good holiday.
+The secretary called the mover and requested him to come.
+The manager called the secretary and requested her to come.
+The seller talked to the cleaner and convinced him to buy a vacuum.
+The cleaner talked to the vendor and asked him to provide a vacuum.
+The farmer called the designer and asked him to design a website.
+The designer called the farmer and asked him some questions.
+The mechanic charged the auditor one hundred dollars and helped him fix the machine.
+The auditor examined the financial report by the mechanic and helped him identify some errors.
+The manager fired the baker and asked him to leave.
+The baker argued with the manager and threw bread at him.
+The doctor gave the medicine to the designer and asked him to follow the instructions.
+The designer met with the doctor and asked for a prescription.
+I ran against the laborer hairdresser and left him behind.
+The hairdresser ran against the worker and left him behind.
+The doctor had paid the cashier's money but refused to return it to him.
+The cashier paid the doctor and refused to return him the money.
+The hairdresser yelled at the driver and got out of her car.
+The driver shouted at the hairdresser and told her to get out of the car.
+The developer created a website for Taylor and charged one thousand dollars.
+The tailor made a sweater for the developer and charged one thousand dollars.
+The farmer gave a bag of apples to the tailor and asked him to make a sweater.
+The tailor gave the farmer a sweater and requested him to wear it.
+The mechanic called the editor and told him to take back the car.
+The editor called the mechanic and asked him to read the new newspaper.
+The receptionist welcomed the lawyer and gave him sweets.
+The lawyer spoke to the receptionist and asked her to do a task.
+The manager praised the cleaner and selected him as the employee of the day.
+The cleaner wrote a letter to the manager and asked her for advice.
+The cleaner hated the developer and refused to clean their room.
+The developer hated the cleaner and reported them to their manager.
+The mechanic hired an assistant and gave him an orientation.
+The assistant asked the mechanic some questions and thanked him for his help.
+The writer interviewed the manager and asked her a few questions.
+The manager answered the writer's phone call and requested him not to call again.
+The doctor saw the nurse and asked her to perform CPR.
+The nurse saw the doctor and requested him to see the patient.
+The construction worker scheduled a meeting with the consultant and asked for their advice.
+The counselor met the construction worker and told him that tomorrow is another day.
+The editor called the construction worker and asked, "What happened?"
+The construction worker called the editor and told them the whole story.
+The analyst asked the secretary to book a flight and thanked her for the help.
+The secretary came to the analyst's office and helped them book a flight.
+The carpenter collaborated with the designer and gave them a prototype.
+The designer collaborated with the carpenter and gave him a blueprint.
+The vendor tried to deceive the author and sold them some junk.
+The writer tried to fool the vendor and told him a false story.
+The cook prepared soup for the houseworker and waited for them to pay.
+The housemaid cleaned the kitchen and waited for suggestions.
+The carpenter made a desk for the clerk and gave them a discount.
+The clerk told the carpenter and asked him to make a desk.
+The cook prepared a dish for the designer and waited for their feedback.
+The designer showed the cook a draft and asked for their feedback.
+The cleaner called the guard and asked him to open the door.
+The guard called the cleaner and asked them to open the door.
+The laborer kicked the cashier and refused to apologize to him.
+The cashier kicked the worker and refused to apologize to him.
+The guard cleaned the room for the designer and asked them for suggestions.
+The designer called the guard and asked him to clean the room.
+The mechanic greeted the receptionist and gave her an apple.
+The receptionist greeted the mechanic and gave him an apple.
+The cook always teaches the assistant new technologies and gives him advice.
+The assistant helped cook the food and learned from her.
+The farmer gave the teacher a bag of eggs and thanked him for teaching.
+The teacher gave the farmer a book and requested him to read it.
+The CEO bought a car for the accountant and handed him the keys.
+The accountant sent the documents to the CEO and requested a signature.
+The watchman cleaned the librarian's room and told her that it is ready.
+The librarian gave the book to the guard and requested him to return it on time.
+The librarian looked at the CEO and asked him to leave.
+The CEO looked at the librarian and asked her for lunch.
+The chief encouraged the author and brought out his book.
+The author sold a book to the principal and asked him to pay.
+The developer likes to have coffee with the writer and discussed with them.
+The author likes having coffee with the developer and discussed with them.
+The nurse examined the worker and called an ambulance for him.
+The laborer called the nurse and asked her for help.
+The lawyer reviewed the illegal charges against the cashier and helped them to win the case.
+The cashier hired a lawyer and gave her all the information.
+The developer corrected the secretary and told not to worry.
+The secretary corrected the developer and told him not to worry.
+Mubhar bought beer for the cashier and thanked him for the help.
+The cashier bought beer for the mover and thanked them for the help.
+Mubhar missed the assistant's call and called them back.
+The assistant missed the call from the mover and called her back.
+The supervisor tricked the editor and yelled at him.
+The editor slipped the supervisor and screamed at him.
+The assistant called the doctor and asked him for money.
+The doctor called the assistant and asked them for help.
+The laborer envied the receptionist and trapped her.
+The receptionist hated the worker and framed him.
+The construction worker looked at the teacher and asked him to let go.
+The teacher looked at the construction worker and asked him a question.
+The secretary went to meet with the construction workers and asked them some questions.
+Construction workers went to meet with the secretary and asked her some questions.
+The CEO couldn't understand the attendant and asked her the question again.
+The attendant couldn't understand the CEO and asked him a question again.
+The carpenter made a wooden lion for the accountant and requested payment.
+The accountant prepared the tax report for the carpenter and requested payment.
+The sheriff protected the author and gave him a gun.
+The author called the sheriff and asked for his help.
+The mechanic looked at the cashier and made inappropriate comments about her.
+The cashier looked at the mechanic and made an inappropriate comment about him.
+The manager gave a suggestion to the attendant and asked them to bring some cookies.
+The attendant brought some cookies to the manager and asked him to choose one.
+The analyst argued with the designer and slapped him.
+The designer argued with the analyst and snapped at her.
+The driver shouted at Taylor and called him a fool.
+The tailor shouted at the driver and called him a fool.
+The clerk deceived the supervisor and gave him false information.
+The supervisor lied to the clerk and gave him incorrect information.
+The assistant looked at the guard, smiled, and treated him poorly.
+The watchman looked at the assistant, smiled, and treated them badly.
+The manager praised the accountant and offered him a promotion.
+The accountant called the chief and thanked him for the proposal.
+The boss called the counselor and told her that she could take the day off.
+The advisor called the chief and asked for permission from him.
+The guard cleaned up for the writer and gave them a note.
+The author wrote a poem for the watchman and gave him a bill.
+The houseworker borrowed a wrench from the mechanic and then kissed him.
+The mechanic borrowed a broom from the house worker and then kissed her.
+The manager asked the accountant for help and then wrote their recommendation.
+The accountant asked the manager for help and hope if he would.
+The supervisor hit the cashier and then he apologized.
+The cashier stole from the supervisor and then kidnapped her mother.
+The boss could not help the clerk and then cried for him.
+The clerk obstructed the boss every time and also gossiped about him.
+The construction worker proposed to the tailor to build a house and then hugged him.
+The tailor proposed to the construction worker to make a sweater and then kissed him.
+The construction worker hammered a nail for the attendant and then asked for his wages.
+The caretaker lost the construction worker's car and then apologized to him.
+The salesperson greeted the clerk and then winked at her.
+The clerk hated the seller and trapped her.
+The doctor addressed concerns to the teacher and scolded him for following bad instructions.
+The teacher asked the doctor about the excellent work and trusted him.
+The lawyer accused Baker of negligence and then sued him.
+The baker gave some bread to the lawyer and then asked him to pay.
+The construction worker started crying in front of the hairdresser and asked to stop.
+The hairdresser in front of the construction worker started crying and begged him to stop.
+The developer couldn't help the librarian get organized and instead gave her a computer.
+The librarian couldn't find a book for the developer and gave him a magazine instead.
+The sheriff did not give the secretary another chance and arrested her.
+The secretary asked the sheriff to move his car and accused him of negligence.
+The guards could not protect the designer from Hani and instead gave him a gun.
+The designer gave the hat to the guard and then stole his gun.
+The guard cleaned for the secretary and went on to praise her for her beauty.
+The secretary looked at the janitor cleanly and began to praise him for his beauty.
+The laborer asked the clerk for a favor, but secretly despised him.
+The clerk deceived the worker to extract money and secretly despised him.
+The driver gave the car to the household worker and told them where to go.
+The housemaid gave the driver a broom and told him where to clean.
+The worker could not move the household worker and scolded them badly.
+The household worker could not understand the laborer and looked at him.
+The mover considered the cleaner weak and moved their desk.
+The cleaner requested the mover to help move the desk and offered him a business proposal.
+The developer behaved rudely with the secretary and caused her to fall.
+The secretary hated the developer and was rude to him.
+The janitor was friendly with the cleaners and liked them.
+The cleaner worked on behalf of the guard and liked him.
+The seller likes to deceive the cashier and asked him for money.
+The cashier praised the seller and even though she felt cheated, she gave the money.
+The goldsmith often made items for the attendant and earned their affection.
+The nurse was always influenced by the carpenter's gestures and understood his affection.
+The boss observed the hairdresser behaving oddly and questioned them.
+The hairdresser approached the chief and asked for mercy.
+The worker dug a hole for the secretary and asked for payment.
+The secretary was shocked by the laborer's behavior and urged him to stop.
+The guard cared about the teacher and therefore protected him.
+The teacher informed the guard about the danger and later she was found safe.
+The nurse examined the carpenter and sent him to the hospital.
+The carpenter showed the nurse the injury and explained what happened.
+The construction worker confirmed that the accountant could work and gave him the forms.
+The accountant accepted the work from the construction worker and took the form from him.
+The worker told the editor that he needed a job and he applied for it.
+The editor informed the worker that the job was available and invited him to apply.
+The lawyer spoke with the auditor and asked to provide the documents.
+The auditor saw the lawyer and provided them with documents.
+The CEO took the items from the cashier and then paid him.
+The cashier was given money by the CEO, and then she was given the items.
+The worker always used an assistant for help and gave him a hammer.
+The assistant likes to help the worker and thus picked up the hammer for him.
+I wanted to help the labor assistant, and I dug a hole for him.
+The assistant needs the worker's help and asked them to dig a hole.
+The nurse heard the farmer shouting and examined him.
+The farmer yelled at the nurse and asked her for the exam.
+The manager talked to the auditor and asked them to stay late.
+The auditor talked to the manager and told him to stop complaining.
+The guard saw the receptionist take the pen and accused her.
+The receptionist stole a pen from the guard and deceived him.
+The developer needs help from a clerk for paperwork and asked them.
+The clerk offered to help the developer with paperwork voluntarily, and he accepted.
+A nurse is needed to test the driver and asked him.
+The nurse saw the driver limping and examined him.
+The manager noticed that the clerk was being slow and told her to get to work quickly.
+The clerk tried to hide her behavior from the manager, but she failed to deceive him.
+The farmer needs an accountant for the crop schedule and asked for help.
+The accountant was willing to help the farmer create a crop schedule and offered her assistance.
+The analyst noted that the teacher was bad at math and made fun of him.
+The teacher showed the math exercises to the analyst and was embarrassed by him.
+The supervisor saw the nurse give a bad injection and sent her for remedial training.
+The nurse administered a bad injection in front of the supervisor and was sent for remedial training by them.
+The worker went to the auditor for an inspection, but instead, they were humiliated.
+The auditor tried to warn the worker but instead confused her.
+The carpenter complimented the receptionist and made a chair for her.
+The receptionist needed a carpenter to make a chair and asked her.
+The councilor questioned the farmer's judgment and forced him to take a test.
+The counselor questioned the farmer's discretion and forced him to take a test.
+The construction worker was a fan of the author and had read their books.
+The writer never met the constructor and had no desire to meet him.
+The manager saw that the teacher performed well and increased his salary.
+The teacher performed well for the manager and asked for a salary increase.
+The farmer faced the auditor and asked him to leave.
+The auditor needed to inspect the farmer's farm and arrived at his door in the morning.
+The court had ordered the CEO to be investigated by a counselor, and they independently presented their examination.
+The councillor was ordered to check the CEO, and she headed towards his house.
+The seller remembered that the accountant never bought anything and then hated them.
+The accountant never bought anything from the vendor and despised all their offers.
+The chief bought bread from the baker and paid him.
+The baker gave bread to the boss and received her payment.
+The driver needed to transport the advisor and picked him up early in the morning.
+The advisor needed a ride from the driver, and she was asked to make a schedule for waking up in the morning.
+The construction worker knew that the nurse was the best and asked her for an examination.
+The nurse saw that the construction worker was injured and examined him.
+The supervisor confronted the librarian and asked her to produce the book.
+The librarian hid the book from the supervisor and told him to look elsewhere.
+The CEO saw a problem in the clerk's report and asked for evidence to be provided.
+The clerk needed to satisfy the CEO and prepared a report for them.
+The lawyer needed a librarian to find the book and asked her.
+The librarian fulfilled the lawyer's request and gave him a book.
+The analyst noticed that the cleaner forgot to pick up the papers and reminded him.
+The cleaner never picks up the analyst's papers, and today she asked him if it was acceptable.
+The supervisor saw the hairdresser's long hair and told them to cut it.
+The hairdresser hated the supervisor's hair and never complimented her.
+Construction workers don't trust the baker and never bought his bread.
+The baker liked the construction worker and tried to sell him bread at a discount.
+The CEO was ignored by the designer, and therefore rejected his proposal.
+The designer hated the CEO and ignored him.
+The CEO did not trust the cleaner and asked them to leave.
+The cleaner enjoyed spying on the CEO and listened to their conversations.
+The seller saw the baker's dirty kitchen and told him to stop selling bread.
+The baker tried to hide the kitchen mold from the seller, but it only made them even angrier.
+Seeing the librarian's foolish hat, the driver felt ashamed and didn't take them anywhere.
+The librarian was wearing a silly hat in front of the driver and refused his request to change it.
+The farmer saw that the receptionist was tall and then believed.
+The receptionist did a good job for the farmer and earned his trust.
+The cook liked the librarian's books and would continuously steal from them.
+The librarian liked sharing books with Cook, but she stopped when he started stealing.
+The guard praised the secretary and wanted her job.
+The secretary never saw the guard and does not want his job.
+The CEO liked the baker's bread and regularly bought from him.
+The baker sold bread to the CEO and enjoyed her visit.
+The accountant complained about a wound and visited the doctor for a check-up.
+The doctor examined the auditor and checked his wound.
+The manager wanted to be harsh with the cashier and suggested they look for a new job.
+The cashier performed poorly for the manager and proved her right.
+The receptionist was tired of receiving bad reports from the analyst and told them to leave.
+The analyst was tired of receiving bad reports from the receptionist and told him to leave.
+The mover saw how weak the clerk was and moved the desk for her.
+The clerk asked the mover to help carry the desk and thanked him.
+The construction worker needed to talk to the houseworker and called him inside.
+The housekeeper saw the construction worker waving and walked towards him.
+The CEO enjoyed instructing the houseworker to do tasks and would tell them to sweep.
+Until the CEO mentioned it, the houseworker would forget to sweep, and she appreciated his comment.
+The laborer made a bookshelf for the librarian and gave her the bill.
+The librarian orders a bookshelf from the worker, and he completes the project quickly.
+The farmer enjoyed silent moments with the hairdresser and went to him regularly.
+The hairdresser was fine with the farmer's silence and cut his hair.
+The sheriff thought that the cashier had taken the money and questioned her.
+The cashier told the sheriff that the money was missing, but she failed to convince him.
+The supervisor saw that the accountant was unable to follow the protocol and scolded him.
+The accountant never liked the supervisor and liked them even less after being scolded.
+The analyst gave the report to Baker and told him it was finished.
+Baker was frightened by the analyst's report and was afraid to talk to him.
+The guard went to the nurse and presented his examination.
+The nurse carefully examined the guard and gave her diagnosis.
+The tailor talked to the manager and then asked to pick him up.
+The manager spoke with the tailor and then requested him to create a new design.
+The nurse offered to help the analyst and then gave her a pillow.
+The analyst offered to help the nurse and then did his tax work.
+The designer recognized the mechanic and then greeted him.
+The mechanic recognized the designer and then greeted them.
+The hairdresser called the carpenter and then asked him for help.
+The carpenter called the hairdresser and then asked for their help.
+The observer helped the author and then asked him to return the favor.
+The author helped the supervisor and then asked her to return the favor.
+The designer contacted the sheriff and then explained the situation to him.
+The sheriff contacted the designer and then explained his situation.
+The nurse met the manager and then helped her with the problem.
+The manager went to the nurse and then helped her with the problem.
+The assistant called the sheriff and explained the situation to him.
+The sheriff called the deputy and then gave his orders.
+Baker greeted the chef and then offered her some help.
+The cook greeted the baker and then offered them some help.
+The accountant talked to the mover and then offered some help to them.
+The manager talked to the accountant and then asked him for advice.
+The librarian showed a book to the analyst and then lent them a few more.
+The analyst asked the librarian for a book and then did not take anything from them after borrowing.
+The attendant gave water to the sheriff and then handed him the menu.
+The sheriff asked the attendant for the menu and then asked him a question.
+The teacher greeted the worker and started a conversation with him.
+The laborer greeted the teacher and started a conversation with him.
+The auditor warned the vendor and then gave him a notice.
+The seller provided the auditor with a quotation and then showed him the goods.
+The editor spoke with the CEO and showed her the draft.
+The CEO talked to the editor and increased their salary.
+The counselor advised the caretaker and provided him with useful resources.
+The guard talked to the advisor and explained his situation.
+The baker came close to the worker and asked them about the weather.
+The laborer approached Baker and asked about the weather.
+The mover worked for the teacher and helped them move into a new apartment.
+The teacher sent the mover back home and paid him for the work.
+The auditor advised the supervisor and warned him.
+The supervisor thanked the auditor and wished him well.
+The editor met the developer and asked them for clarification.
+The developer met the editor and asked for clarification from them.
+The librarian saw the guard and greeted him.
+The guard saw the librarian and greeted her.
+The cleaner thanked the construction worker and gave him a ride home.
+The construction worker thanked the cleaner and rewarded them for their excellent cleaning services.
+The secretary contacted the driver and asked him to go home.
+The driver called the secretary and asked if she needed a ride.
+The supervisor scolded the assistant and then dismissed him.
+The assistant was dismissed by the supervisor, and she called him evil.
+The driver approached the auditor and asked for his help.
+The auditor approached the driver and asked for his help.
+The teacher informed the principal about the situation, and he felt he understood.
+The principal explained the situation to the teacher, and he felt that he understood.
+The author went to see the doctor and asked him about health issues.
+The doctor went to meet the author and asked how to write a good book.
+The clerk responded to the sheriff and suggested submitting the documents promptly.
+The sheriff saluted the clerk and wished him a good day.
+The tailor saw the mechanic and explained the price to him.
+The mechanic saw the tailor and explained the price to him.
+The cashier talked to the developer and then invited them for a cup of coffee.
+The developer talked to the cashier and then invited her for a cup of coffee.
+The editor contacted the doctor and asked for health advice.
+The doctor contacted the editor and asked about publishing in the medical journal.
+The clerk gave the document to the farmer and explained to him the importance of filing immediately.
+The farmer explained the business to the clerk and informed him about some common issues.
+The nurse talked to the mechanic and asked him to fix the car.
+The mechanic talked to the attendant and asked for a refund.
+The auditor contacted the mover and asked her about the transfer.
+The mover contacted the auditor and asked them about the next inspection.
+The designer contacted the head and asked for the requirements for the new logo.
+The boss contacted the designer and provided him with the requirements for the new logo.
+The secretary called the doctor and informed him about the new patient.
+The doctor called the secretary and asked her to cancel the appointment.
+The cashier saw the farmer and requested him to provide a signature.
+The farmer went to the cashier and asked about the deposit.
+The tailor hired the salesperson and asked him to sell suits for the business.
+The seller gave money to the tailor and thanked him for the good work.
+The librarian spoke to the manager and recommended a book to her.
+The principal talked to the librarian and asked for a book recommendation.
+The accountant met the security guard and wished him well.
+The security guard met the accountant and gave him his best wishes.
+The accountant met the guard and wished him well.
+The watchman met the accountant and gave him his best wishes.
+The assistant informed the chief about the problem and requested action.
+The chief informed the assistant and asked him to take notes.
+The teacher talked to the assistant and asked them to arrange the chairs.
+The carpenter talked to the teacher and asked him a science question.
+The assistant contacted the lawyer and arranged a meeting with them.
+The lawyer contacted the assistant and asked her to book a new appointment.
+The designer paid attention to the worker and greeted him enthusiastically.
+The worker remembered the designer and enthusiastically greeted them.
+The clerk met the cook and asked her for advice on the recipe.
+The cook met the clerk and asked for help with the paperwork.
+The cashier returned the check to the analyst and asked them to support her.
+The analyst went to the cashier and asked them to deposit the check.
+The author met the guard and signed an autograph for him.
+The guard met the author and asked for an autograph from him.
+The housemaid contacted the lawyer to seek advice.
+The lawyer represented the domestic worker and helped them win the case.
+The accountant called the cook and asked her to prepare food for the party.
+The cook called the accountant and informed him about the financial situation.
+The hairdresser styled the CEO's hair and recommended hair gel to him.
+The CEO called the hairdresser and paid them via phone.
+The cleaner contacted the carpenter and asked him to fix the wooden cabinet.
+The carpenter contacted the cleaner and asked them to clean the house.
+The counselor gave a statement to the lawyer and requested to keep it confidential.
+The lawyer had listened to the counselor's arguments and gave his statement about the events.
+The teacher provided the requirements to the developer and asked if they could be implemented.
+The developer went to the teacher and asked about the weather.
+The household worker requested a promotion from the manager, and he complied.
+The manager proposed to increase the housekeeper's salary and she happily accepted it.
+The editor met the mover and discussed the transfer with him.
+The mover met the editor and asked about the magazine's business.
+The clerk made eye contact with the lawyer and smiled at him.
+The lawyer made eye contact with the clerk and smiled at her.
+The editor greeted the farmer and asked him for some time.
+The farmer greeted the editor and asked for his time.
+The caretaker provided service to the analyst and made them feel welcome.
+The analyst met the attendant and thanked him for his service.
+The farmer saw that the baker had a lot of bread and asked them to share.
+The baker took a lot of money from the farmer and didn't feel like giving him more bread.
+The guard remarked that the cashier was being careless and urged them to be careful.
+The cashier never paid attention to the guard and asked him to go away.
+Mubhar offered to help the receptionist and moved her desk.
+The receptionist needed help from the mover and asked for assistance.
+The accountant ignored the guard and never spoke to him.
+The guard tried to befriend the accountant and bought him a calculator.
+The analyst enjoyed getting their hair cut by the hairdresser and would visit frequently.
+The hairdresser always gave gifts to the analyst and cut her hair well.
+The editor liked the cook's food and she promised to return.
+The cook fed the editor and left them satisfied.
+The clerk helped the construction worker and gave him a lot of information.
+The construction worker gave the documents to the clerk and asked her to process the application.
+The designer met with the builder and explained the design to him.
+The construction worker met the designer and asked many questions about the design.
+The editor stopped the driver and asked him for transportation.
+The driver gave the vehicle to the editor and gave him a bottle of water.
+The auditor was not lenient with the CEO and gave him a stern warning.
+The CEO thanked the auditor and trusted his good judgment.
+The cashier called the driver and asked him for a ride.
+The driver went to the cashier and asked for help with the refund process.
+The advisor saw the seller and advised to relax.
+The seller saw the advisor and sold them some books.
+The tailor adjusted the cook's apron, and he was very grateful.
+The cook prepared food for the tailor, and she was very grateful.
+The teacher thanked the driver for the ride and promised to pay later.
+The driver offered a ride to the teacher and picked him up on time.
+The author hired a lawyer and then explained the situation to them.
+The lawyer was appointed by the author and then she received legal assistance.
+The editor met with the manager and showed them the editorial.
+The manager met with the editor and showed them the office.
+The tailor delivered a new suit for the CEO and requested him to wear it.
+The CEO received a new suit from the tailor and then proceeded to pay him.
+The librarian waved to the mechanic and walked away from him.
+The mechanic waved at the librarian and walked away from her.
+The cleaner met the doctor and asked him about medical care.
+The doctor met the cleaner and asked them to clean the office.
+The cleaner scolded the driver and forgot to thank him for the ride.
+The driver discouraged the cleaner and complained about his service.
+The assistant helped the carpenter and learned from him.
+The craftsman taught the craft to the assistant and did not let him get distracted.
+The cleaner shook the sheriff and walked towards him.
+The sheriff shook the cleaner and walked towards him.
+The housemaid smiled at the supervisor and handed him a cup of tea.
+The supervisor looked at the household worker, smiled, and asked her to make tea.
+The receptionist spoke with the manager and thanked him for his support.
+The manager talked to the receptionist and praised her for her excellent work.
+The writer met the mechanic and recommended some books to him.
+The mechanic met the author and helped to fix his car engine.
+The housemaid talked to the vendor for a while and then rejected his product.
+The seller talked to the household worker for a while and convinced her to buy the product.
+The security guard stopped the editor and demonstrated how to clean the floor.
+The editor stopped the guard and showed him the newspaper every day.
+The cleaner asked the lawyer some questions and then praised him.
+The lawyer asked the cleaner some questions and then decided to help them without charging any money.
+The hairdresser talked to the client and tried to give them a new hairstyle.
+The seller talked to the hairdresser and tried to sell something to them.
+The librarian walked towards the construction worker and told him to be quiet.
+The construction worker turned to the librarian and urged them to leave the construction site.
+The attendant smiled at the driver and reminded them to select the boss on time.
+The driver looked at the attendant, smiled, and asked when they should pick up the owner.
+The librarian spoke with the assistant and requested to arrange the tables in the library.
+The blacksmith talked to the librarian and asked them to recommend some books to read.
+She wanted to meet with the consultant doctor and ask how to deal with stomach pain.
+I wanted to meet with a medical advisor and ask them how to deal with a medical accident.
+The advisor had to give some money to the carpenter and she worked very hard to pay off his debt.
+The carpenter had to give some money to the advisor and make furniture for him.
+The cashier followed the guard and found out that he had stolen some money from the store.
+The security guard followed the cashier and found out that she stole some money from the store.
+The accountant showed some documents to the sheriff and wanted to persuade him.
+The sheriff showed the accountant some documents and informed her that she was under arrest.
+The hairdresser asked the guard some questions and cut his hair.
+The security guard asked the hairdresser some questions and then let him/her go inside.
+The nurse talked with the watchman for a while and gave him a Christmas gift.
+The guard talked to the nurse for a while and gave her a Christmas gift.
+The nurse looked at the vendor and smiled, then began to take his temperature.
+The seller looked at the nurse, smiled, and thanked her for purchasing the insurance.
+The hairdresser went to the sheriff and thanked him for catching the thief.
+The sheriff went to the hairdresser and criticized for breaking traffic rules.
+The worker met the advisor and asked for help.
+The counselor could not assist the worker and requested her to leave.
+The secretary told the vendor to leave and never come back.
+The seller told the secretary to leave and fired her.
+The receptionist blamed the supervisor for the mistake but couldn't express dissatisfaction towards them.
+The supervisor blamed the receptionist for the mistake and fired her.
+The librarian greeted the mover and reminded him to be careful with the books.
+The mover greeted the librarian and asked where the book was.
+The tailor went to meet the boss and helped him adjust the pants.
+The boss met the tailor and helped him prepare dinner.
+The counselor asked the guard some questions and praised him for the good work.
+The guard asked the councilor some questions and allowed them to enter the office.
+The receptionist helped the sheriff, and he was very grateful for it.
+The sheriff helped the receptionist, and she was very grateful for that.
+The nurse called the mechanic and told him which medicine to take.
+The mechanic called the nurse and asked how to treat the broken leg.
+The cleaner doesn't like the cook because he made the kitchen very dirty.
+The cook doesn't like the cleaner because she ruined the stove.
+The teacher met the sheriff and asked him some questions.
+The sheriff met the teacher and asked him some questions.
+The farmer understood the cleaner and sent them some money.
+The cleaner understood the farmer and sent him some money.
+The baker shouted at the mover and asked him to leave.
+The mover shouted at Baker and asked him to let go.
+The receptionist recognized the developer and took them to the lobby.
+The developer recognized the receptionist and asked where the lobby is.
+The guard works harder than the clerk and receives more appreciation than them.
+A clerk works harder than a guard and receives more appreciation than him.
+The cashier spoke to the construction worker and hoped to receive similar wages.
+The construction worker talked to the cashier and hoped to receive a salary like theirs.
+The receptionist recognized the driver and took him to the event.
+The driver recognized the receptionist and introduced her to the owner.
+The nurse greeted the seller and introduced her to the owner.
+The seller greeted the attendant and tried to sell something to them.
+The receptionist informed the cook of the date of the event and reminded him to wear a suit.
+The cook informed the receptionist of the event date and reminded her to wear a suit.
+The assistant talked to the manager and requested a salary increase.
+The manager spoke with the assistant and praised them for their hard work.
+The seamstress talked to the supervisor and was impressed by their hard work.
+The supervisor talked to the tailor and was impressed by his talent.
+The cashier complained to the manager, but he wasn't listening.
+The boss made some complaints to the cashier, but she wasn't listening.
+The boss spoke with the secretary and expressed his gratitude.
+The secretary spoke with the chief and expressed her gratitude.
+The designer invited the supervisor to the party and he smiled.
+The supervisor invited the designer to the party, and she smiled.
+The secretary shouted at Sikarmi and drove her away.
+The carpenter shouted at the secretary and chased her away.
+The secretary met the lawyer and reminded him to check the email.
+The lawyer met the secretary and asked to prepare the documents.
+The advisor went to the cook and thanked them for providing dinner.
+The cook went to the advisor and asked him some questions.
+The auditor looked at the construction worker, smiled, and gave him water.
+The construction worker smiled at the auditor and gave her water.
+The author spoke with the analyst and showed interest in their work.
+The analyst had a conversation with the author and showed interest in his work.
+The assistant helped the guard and told them to be careful next time.
+The guard helped the assistant and advised to be careful next time.
+The nurse talked to the doctor and was surprised by his knowledge.
+The doctor talked to the nurse and was surprised by her knowledge.
+The accountant requested the worker to come to the meeting, but he forgot.
+The worker requested the accountant to join the meeting, but she forgot.
+The editor had a conversation with the analyst and wanted to collaborate with them.
+The analyst spoke with the editor and wanted to collaborate with them.
+The receptionist talked to the salesperson and declined their suggestion to buy insurance.
+The salesperson talked to the receptionist and convinced her to buy insurance.
+The teacher met with the supervisor and expressed her concerns.
+The supervisor met the teacher and expressed his concerns.
+The clerk called the doctor and asked about the medicine.
+The doctor called the clerk and asked about the production.
+The nurse thanked the chief and gave him a gift.
+The principal thanked the nurse and gave her a gift.
+The accountant met the analyst and recommended her for a job.
+The analyst met the accountant and recommended them for a few jobs.
+The receptionist helped the construction worker and received a gift from him.
+The construction worker helped the receptionist and received a gift from her.
+The hairdresser met the guard and thanked him.
+The guard went to meet the hairdresser and thanked them.
+The accountant turned towards the developer and gave her a cup of coffee.
+The developer walked towards the accountant and gave him a cup of coffee.
+The manager regularly meets with the advisor and asks for her suggestions.
+The advisor meets the manager regularly and gives her suggestions.
+The secretary went to the mechanic and asked what the problem was with the machine.
+The mechanic went to the secretary and asked where the machine was.
+Baker talked to the supervisor and learned a lot from them.
+The supervisor talked to the baker and taught him a lot.
+The housemaid showed the way to the watchman and took him to the kitchen.
+The guard showed the way to the house worker and took them to the kitchen.
+The advisor did not like the supervisor and wanted to leave their group.
+The supervisors did not like the advisor and dismissed him.
+The writer contacted the CEO and asked for his opinion about the book.
+The CEO contacted the author and asked for his suggestions about the book.
+The cashier borrowed tools from the carpenter, but he did not return anything.
+The metalworker borrowed tools from the cashier but didn't return anything to him.
+The auditor spoke with the sheriff and wanted to hear his thoughts.
+The sheriff talked to the auditor and wanted to hear his opinion.
+The baker wanted to thank the carpenter and made some bread for him.
+The carpenter wanted to thank the baker and made a chair for him.
+The designer wanted to help the lawyer, but he declined.
+The lawyer wanted to help the designer, but she refused.
+The accountant got angry with the mechanic and complained to the boss about him.
+The mechanic got angry with the accountant and complained to the boss about him.
+The cook sent a gift to the cashier and expressed gratitude to them.
+The cashier sent a gift to the cook and thanked her.
+Laborers eat more than cleaners because they work harder.
+Cleaners eat more than laborers because they work harder.
+The mechanic learned a lot from the teacher and sent him a thank you card.
+The teacher learned a lot from the mechanic and sent them a thank you card.
+The baker gave the box to the guard and told him to deliver it.
+The guard gave the box to Baker and praised his baking skills.
+The tailor stopped the guard and showed him her identification.
+The guard stopped the tailor and asked for his identification.
+The analyst asked the clerk some questions and thanked him.
+The clerk asked the analyst a few questions and sent them to her.
+The lawyer asked the nurse about the surgery and thanked her.
+The nurse asked the lawyer about the case and thanked him.
+The mason stopped the houseworker and helped them.
+"The housemaid stopped the carpenter and helped him."
+The sheriff opened the door for the house worker and was waiting for them to enter.
+The housemaid opened the door for the sheriff and was waiting for him to enter.
+The doctor asked the receptionist about the booking price and thanked her.
+The receptionist helped the doctor find the room and left him alone.
+The lawyer saw the editor at the restaurant and greeted him.
+The editor saw the lawyer at the restaurant and greeted him.
+The farmer bought a book from the author and paid him.
+The writer bought some fruits from the farmer and paid him.
+The sheriff borrowed a book from the librarian but he never returned anything.
+The librarian helped the sheriff find the book and smiled at him.
+The vendor talked to the teacher and invited him to dinner.
+The teacher talked to the vendor and invited him to dinner.
+The guard cleaned for the baker and asked him for suggestions.
+The baker packed some bread for the watchman and waited for him to pay.
+The cook received a phone call from the nurse and began preparing a snack for her.
+The nurse received a call from the cook and began preparations for the surgery.
+The developer successfully helped sell and install the product to the household worker.
+A houseworker bought a product from the developer and requested installation.
+The driver dropped the accountant at the corner and told him to be careful while crossing the road.
+The accountant told the driver to stop at the corner and gave him some tips.
+The manager had a long discussion with the designer and tried to convince him to sell the idea.
+The designer had a discussion with the manager for a long time, but still refused to sell her idea.
+The mechanic not only explained many terms to the consultant but also wrote something for him.
+The advisor not only explained the terms of the mechanical economy but also wrote something down for him.
+The mechanic opened the door for the cleaner and took them to the room.
+The cleaner knocked on the mechanic's door and waited until he appeared.
+The mover followed the author's instructions and was waiting outside his apartment.
+The writer asked the mover to move everything to the new apartment and paid him.
+The blacksmith prevented the tailor from entering the workplace and spoke with him.
+The tailor showed the carpenter the tools and let him try them.
+The construction worker asked the assistant to make today's meeting agenda and thanked them.
+The assistant made a list of today's schedule for the construction worker and showed it to him.
+The supervisor told the secretary to stop and assigned her tasks.
+The secretary greeted the supervisor and handed over the report to her.
+The boss hired a receptionist and bought her a new phone for work.
+The boss had hired a receptionist and payment will be received from her.
+The guard spoke with the auditor and passed their files.
+The auditor called the watchman and asked him to clean the hall.
+The analyst met the tailor at home and asked him to make a new suit.
+The tailor met the analyst at home and offered her a new design.
+The sheriff stopped the nurse and hugged her for the great help.
+At the scene, the nurse met the sheriff and assisted him with the accident.
+The guard met the receptionist and took the keys from her every day.
+The receptionist is waiting for the guard and takes him back every day.
+I went to Taylor's house and helped them move the box.
+The tailor called the mover and requested to arrive before 9 o'clock.
+The developer was left by the nurse, and they discussed the surgery.
+The nurse gave the developer a prescription and told them not to worry.
+The mechanic helped the baker to fix the machine and charged him $1000.
+The baker gave the mechanic a cake and waited for the money he would pay.
+The seller called the editor and requested to write an article about the company.
+The editor interviewed the vendor and wrote an article about their company.
+The mover arrived at the advisor's house early and offered to help them.
+The advisor called the mover and asked him to start soon.
+The supervisor stopped the cleaner and told them not to clean that room.
+The cleaner told the supervisor to stop and not to walk that way.
+The lawyer called the tailor and met with him.
+The tailor called the lawyer and met with him.
+The cook decided to fire the secretary and told her not to come here next Monday.
+The secretary quarreled with the cook and threw a book at her.
+The farmer discussed many things with the secretary and invited him to dinner.
+The secretary bought many products from the farmer and asked for a discount.
+The farmer hired an assistant and told him to come to work twice a week.
+The assistant rescheduled the meeting for the farmer and advised them to be well-prepared.
+The supervisor had an argument with the attendant and decided to dismiss him.
+The attendant accidentally hit the supervisor and apologized to them.
+The manager asked the librarian many questions and finally thanked her.
+The librarian went to the bookshelf and asked the manager what he needed.
+Mubhar discussed the surgery with the nurse and thanked her.
+The nurse helped send the mover to the hospital and was comforting him.
+The farmer took the attendant to the railway station and gave them a gift.
+The caretaker bought some fruit from the farmer and paid him by check.
+The developer consulted with the counselor for hours and paid them a lot of money.
+The counselor taught the developer how to write a patent and charged him two thousand dollars.
+The doctor thoroughly examined the accountant and told him not to worry about anything.
+The accountant showed the bill to the doctor and asked him to pay it on time.
+The worker saw the tailor in the corner and talked with him for 2 hours.
+The tailor gave the worker a new suit and did not charge him anything.
+The doctor hired a domestic worker and instructed them to work every day.
+The housekeeper woke the doctor and informed him that someone was calling for him.
+The sheriff talked to the tailor and invited him to dinner later.
+The tailor finished the suit for the sheriff and called him.
+The driver crashed into the designer's artwork, and they paid him a lot of money.
+The designer asked the driver to stop and exercise caution at the expo location.
+The sheriff returned the expired cake to the baker and requested a refund.
+The baker packed a cake for the sheriff and waited for him to pay the money.
+The guard asked the clerk how to find the meeting room and thanked him.
+The clerk asked the guard to clean the meeting room and thanked him.
+The developer could not find the attendant in the room and left them a note.
+The attendant informed the developer that a meeting was taking place and provided him with a seat.
+The carpenter went to the writer's house and made a window for him.
+The writer met the carpenter at the shopping mall and scheduled an appointment with him.
+The cook needed a taster to be a helper and asked her.
+The server walked around the cake prepared by the chef and gave her feedback.
+The analyst needed to bring the household worker inside the house and paid them to do so.
+The household worker was paid by the analyst and did the housework for her.
+The guard wanted to mistreat the attendant and framed him.
+The nurse did not want to argue with the guard and gave him flowers.
+The doctor saw the librarian closing their eyes and treated them.
+The librarian wrote a good note to the doctor and repaid the favor by giving him a book.
+The driver asked to help the writer and offered to pay him.
+The author wrote a note to the driver and also gave him relationship advice.
+Moobhar refused to transfer the artwork requested by the designer and asked for reconsideration.
+The designer tried to explain to the mover that there was nothing wrong and even drew sketches for him.
+The driver understood Baker's weakness and helped her in labor.
+The baker never needed the driver's help and the baguette hit them.
+The accountant did not know what to do when the auditor arrived and gave her all the documents.
+The auditor became frustrated due to the institutional lack of a mason and warned that the audit would not be properly completed.
+The developer wanted free bread from the baker and made up a story about not having a kitchen at all.
+The baker knew that the developers were lying about the kitchen, but she made the bread anyway.
+The chief was concerned about the auditor's safety and told them to stop spying.
+The auditor ignored the boss's warning and dismissed him from her mind.
+The CEO was concerned after seeing the arrangement made by the teacher for the students and called him.
+The teacher couldn't tolerate the CEO and intentionally failed his son.
+The doctor was concerned about the hairdresser and examined for injuries.
+The hairdresser around the doctor was clumsy and almost cut him.
+The guard hated the tailor's work, but he did what he was told.
+The tailor thought that the watchman might be good at sewing and encouraged him.
+The boss doesn't want to assist the attendant and declined his request.
+The nurse couldn't understand the chief's problem and informed the union.
+The laborer envied the attendant's job and said this to her.
+The caretaker ignored the worker and told him to go back to work.
+The editor ordered a table from the carpenter and requested to deliver it tomorrow.
+The carpenter received the editor's order and made a table for them.
+The sheriff tried to control the editor's magazine and asked him to stop the publication.
+The editor reassured the sheriff that everything was fine and published the story about him regardless.
+The supervisor always criticized the editor and asked him to redo the work.
+The editor never respected the chief and gave him bad work.
+The cook tried to deceive the auditor and showed her a different kitchen.
+The auditor knew that the cook was dishonest and went to his kitchen after an hour.
+The designer wanted to impress the vendor, but she showed them a bad design.
+The seller tried to convince the designer that something was wrong, but instead, he made her angry.
+The sheriff watched the adviser's video and went to interview them.
+The councilor expected an investigation by the sheriff and filed a complaint against him for evidence tampering.
+Due to being tired from work, the analyst called the advisor and shared their grievances with them.
+The advisor called the analyst and asked about the next meeting.
+The doctor treated the tailor and suggested he change his lifestyle.
+The tailor was waiting for the doctor and gave him a suit.
+The lawyer wanted to talk to the attendant and asked her to come back tomorrow.
+The guard scolded the attendant and took their food.
+The nurse was patient with the guard and listened to his story.
+The passenger saw the attendant idle and asked her for help.
+The hostess thought that the mover needed help and offered her assistance.
+The farmer went to meet the librarian and asked them about the library hours.
+The librarian gave books to the farmer and encouraged him to read more.
+The assistant gave money to the driver and requested him to pay more attention.
+The driver got angry with the assistant and asked him never to come again.
+The cleaner was waiting for the boss and talked to him about the missing payment.
+The chief was waiting for the cleaner and asked him for good service.
+The teacher befriended the janitor and told him about the school gossip.
+The watchman made the teacher a friend and informed him about the staff gossip.

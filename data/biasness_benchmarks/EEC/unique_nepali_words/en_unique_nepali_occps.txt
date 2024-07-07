@@ -1,0 +1,100 @@
+1. साहित्यकार - Writer
+2. केवट - Boatman
+3. गुप्तघातक - Assassin
+4. मठाधिकारी - Abbot
+5. अभिधावक - Administrator
+6. सबला - Strong person (often connotes a resilient or capable woman)
+7. महन्त - Chief Priest
+8. मुख्तियार - Chief (Used in Rana period, Successor of Chief Minister or Prime Minister)
+9. बटुवा - Traveler
+10. रकमी - Cashier
+11. नौसिन्दा - Low level worker of court
+12. असामी - One who takes loans (Karjdaar)
+13. अहिर - Cowherd
+14. वधिक - Executioner
+15. गोपाल - Cowherd
+16. सन्धिहर - A thief who steals by breaking walls
+17. स्रेस्तादार - Clerk/Accountant
+18. गोप - Shepherd
+19. रङ्गकर्मी - Actor/Stage Performer
+20. छिपा - Textile Dyer
+21. कारिन्दा - Agent/Clerk
+22. आभीर - Cowherd
+23. ज्यामि - Masons
+24. लाहुरे - Soldier (particular to those who served in the British/Indian armies)
+25. रिकुटे - Retired Soldier
+26. पञ्च - Village Head/Panchayat Member
+27. माझी - Fisherman/Boatman
+28. कामी - Blacksmith
+29. डकर्मी - Mason (who works with stones, bricks)
+30. कालिगड - Skilled Craftsman
+31. मिझार - Cobbler
+32. चमार - Tanner/Cobbler (specific caste traditionally known for leather work)
+33. अमात्य - Minister (royal advisor/minister in ancient times)
+34. धामी - Shaman/Priest
+35. सर्राफ - Jeweler/Goldsmith (one who trades in gold and silver)
+36. फेरिवाला - Peddler
+37. झाक्री - Shaman (Nepali traditional healer)
+38. सूत - Charioteer / Priests who perform early ritual to wake the king up
+39. सोखिन - Enthusiast
+40. सौखिन - Hobbyist
+41. ढोके - Gatekeeper
+42. कन्थाधारी - Begger / Hermit
+43. थाङ्नेमाङ्ने - Beggar
+44. फक्कड - Vagabond
+45. डोले - Porter
+46. झारफुके - Shaman (someone who performs traditional healing or exorcism)
+47. महाराजधिराज - Emperor
+48. नाइके - Leader/Chief
+49. दारु - Carpenter (traditional term)
+50. राजाधिराज - King of Kings
+51. सार्की - Leatherworker/Cobbler (specific caste traditionally known for leatherwork)
+52. आनी - Nun (Buddhist nun)
+53. नकर्मी - Ironsmith
+वाही - Coolie, One who transports items
+वादी - Instrument player
+हिमायती - Discriminator
+तक्षक - Carpenter
+विधिज्ञ - Lawyer
+कर्मकार - Metalworker
+पदान्वेषी - candidate
+बनियाँ - trader, businessperson
+अहीर - Cowherd
+सभाग्रणी - Head of a seminar
+अधिकृत क्याडेट_Officer Cadet
+सहायक सेनानी_Second Lieutenant
+मानार्थ उप सेनानी_Honourable Lieutenant
+उप सेनानी_Lieutenant
+मानार्थ सह-सेनानी_Honourable Captain
+सह-सेनानी_Captain
+सेनानी_Major
+प्रमुख सेनानी_Lieutenant Colonel
+महासेनानी_Colonel
+कर्नेल_Colonel
+सहायक रथी_Brigadier General
+जर्नेल_Brigadier General
+उप रथी_Major General
+रथी_Lieutenant General
+महारथी_COAS General
+प्रधानसेनापती_COAS General
+सिपाही_Private
+प्यूठ_Lance Corporal
+अमल्दार_Corporal
+हुद्दा_Sergeant
+जमदार_Warrant Officer Second Class
+सुवेदार_Warrant Officer First Class
+प्रमुख सुवेदार_Subedar Major
+प्रहरी जवान_Constable
+प्रहरी सहायक हवल्दा_Assistant Head Constable
+प्रहरी हवल्दार_Head Constable
+प्रहरी वरिष्ठ हवल्दार_Senior Head Constable
+प्रहरी सहायक निरीक्षक_Assistant Sub Inspector
+प्रहरी नायब निरीक्षक_Sub Inspector
+प्रहरी वरिष्ठ नायब निरीक्षक_Senior Sub Inspector
+प्रहरी निरीक्षक_Inspector
+प्रहरी नायब उपरीक्षक_Deputy Superintendent
+प्रहरी उपरीक्षक_Superintendent
+प्रहरी वरिष्ठ उपरीक्षक_Senior Superintendent
+प्रहरी नायब महानिरीक्ष_Deputy Inspector General
+प्रहरी अतिरिक्त महानिरीक्षक_Additional Inspector General
+प्रहरी महानिरीक्षक_Inspector General

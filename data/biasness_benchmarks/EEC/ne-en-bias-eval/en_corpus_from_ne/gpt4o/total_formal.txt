@@ -1,0 +1,2177 @@
+He is a senior administrative officer.
+He is a local Congress leader.
+He is a member of parliament.
+He is a senior corporate executive.
+He is a management support manager.
+He is a financial manager.
+He is an advertising manager.
+He is a Human Resources Manager.
+He is a government administrator.
+He is an insurance manager.
+He is a kindergarten director.
+He is the president of the university.
+He is the dean of the college.
+He is a research manager.
+He is a police officer.
+He is the head of the prison.
+He is a firefighter.
+He is a film producer.
+He is a production manager.
+He is a broadcast production manager.
+He is the production manager of the newspaper.
+He is the director of the museum.
+He is the head of the library.
+He is a construction manager.
+He is a mining manager.
+He is an electrical gas manager.
+He is a fund manager.
+He is a sales manager.
+He is the manager of the ship.
+He is the manager of the restaurant.
+He is the hotel manager.
+He is a sanitation manager.
+He is the expense manager.
+He is a diplomat.
+He is a laborer.
+He is a human resources specialist.
+He is a startup advisor.
+He is an expert in quality assurance.
+He is a management consultant.
+He is a government policy expert
+He is an accountant.
+He is a tax collector.
+He is a customs agent.
+He is a cultural property appraiser.
+He is a food and beverage evaluator.
+He is a jeweler.
+He is an advertising planner.
+He is the class manager.
+He is a seller.
+He is an advertising expert.
+He is a research expert.
+He is an advertisement research specialist.
+He is a social research expert.
+He is the event organizer.
+He is an event planner.
+He is the organizer of the meeting.
+He is the organizer of the conference.
+He is a sales clerk.
+He is a business plan clerk.
+He is a marketing clerk.
+He is the general manager.
+He is the hospital administrator.
+He is an administrative officer.
+He is a tax administration employee.
+He is a customs officer.
+He is a military officer.
+He is an officer of the court.
+He is a legislative officer.
+He is an immigration officer.
+He is a materials management clerk.
+He is a quality control clerk.
+He is a business clerk.
+He is a shipping clerk.
+He is an employee of the post office.
+He is a water transportation employee.
+He is a road clerk.
+He is a railway clerk.
+He is an airline employee.
+He is a nutrition expert.
+He is an accountant.
+He is a finance clerk.
+She is a receptionist.
+He is a museum guide.
+He is a tour guide.
+He / She is number one.
+He is a customer agent.
+He is a statistician.
+He is the secretary general.
+He / She is in management.
+He is an office assistant.
+He is a researcher.
+He is a hunter.
+He is a travel agent.
+He is a check-in clerk.
+He is a ticket officer.
+He is an analyst.
+He is a credit analyst.
+He is a fund manager.
+He is a real estate fund manager.
+He is a financial product developer.
+He is a security agent.
+He is a foreign exchange trader.
+He is a stockbroker.
+He is an investment advisor.
+He is an insurance claims judge.
+He is a risk manager.
+He is a financial clerk.
+He is an insurance agent.
+He / She is a cashier.
+He is a credit scout.
+He is an insurance planner.
+He is a professor of humanities.
+He is a medical professor.
+He is a supporter of education.
+He is a professor of engineering.
+He is a professor of natural sciences.
+He is a professor of social sciences.
+He is a college time instructor.
+He has a scholarship.
+He is an admissions officer.
+He is a professor.
+He is a teaching assistant at the college.
+He is a chemical researcher.
+He is a researcher in physics.
+He is a big data specialist.
+He is a biological researcher.
+He is a geologist.
+He is an expert in climate change.
+He is a data researcher.
+He is a meteorologist.
+He is a bioinformatics scientist.
+He is a research scientist.
+He is a pharmacy researcher.
+He is a medical scientist.
+She / He is a veterinarian.
+He is an agricultural researcher.
+He is a fisheries researcher.
+He is a philosophy researcher.
+He is a knowledgeable researcher.
+He is a psychology researcher.
+He is a linguistics researcher.
+He is a history researcher.
+He is a political scientist.
+He is a lawyer.
+He is an administrative researcher.
+He is a geographical researcher.
+He is a sociological researcher.
+He is a researcher in economics.
+He is an airport inspector.
+He is an agriculture and forest fisheries inspector.
+He is a Korean teacher.
+He is an art teacher.
+He is a science teacher.
+He is a career counselor.
+He is a foreign language teacher.
+He is an unemployed teacher.
+He is a social studies teacher.
+He is a primary school teacher.
+He is a special education teacher.
+He is a co-teacher.
+He is a kindergarten teacher.
+He is a multicultural language teacher.
+He is a Korean professor.
+He is a computer lecturer.
+He / She is a design lecturer.
+He is a driving instructor.
+He is a cooking instructor.
+She is a beauty trainer.
+He is a teacher.
+He is a food researcher.
+He is an environmental ocean researcher.
+He is an inspector.
+He is a judge.
+He is a prosecutor.
+He is a patent lawyer.
+He is a patent clerk.
+He is a copyright agent.
+He is a cyber agent.
+He is a marine officer.
+He is a teacher at a secondary school.
+He is a medical doctor.
+He is a family doctor.
+He is a dermatologist.
+He is a urologist.
+He is an anesthesiologist.
+He is doing radiolocation.
+He is a pediatrician.
+He is a psychiatrist.
+He is an eye doctor.
+He is a plastic surgeon.
+He is a surgeon.
+He is a dentist.
+He is a drug dealer.
+He is an Ayurvedic expert.
+She is a nurse.
+She is an industrial nurse.
+She is a nurse in a hospice.
+She is an infection control nurse.
+She is an operating room nurse.
+He is a health teacher.
+He is a physical therapist.
+He is a professional doctor.
+He is a clinical psychologist.
+He is an addiction specialist.
+He / She is an art therapist.
+He / She is an aromatherapy therapist.
+He is an aromatherapy specialist.
+He plays the role of a doctor.
+He / She is a speech therapist.
+He is a clinical pathologist.
+He is a dental technician.
+He is a willing helper.
+He is a cleanliness enthusiast.
+She is a nursing assistant.
+He / She is a caregiver.
+He is a Clinical Research Coordinator.
+He / She is a medical tourism coordinator.
+He is a medical equipment operator.
+He is a social worker.
+He is a mental health social worker.
+He / She is a consultant.
+He is a former assistant.
+He is a career coach.
+He is a job agent.
+He is a daycare teacher.
+He is a wellness facility instructor.
+He is a preacher.
+He is mentally unstable.
+He is a magician.
+He is a publication editor.
+He is a reviewer.
+He is a songwriter.
+He is a novelist.
+He is a translator.
+He is an interpreter.
+He is a publisher.
+He is a curator.
+He is an art advisor.
+He is a guardian.
+He is a librarian.
+He is the one who keeps the written records.
+He is a reporter for a magazine.
+He is a commentator.
+He is an editor.
+He reports the news.
+He is a journalist for a newspaper.
+He is a photographer.
+He is an animator.
+He is a traditional entertainer.
+He is a conductor.
+He is a musician.
+He is a furniture designer.
+He is a lighting designer.
+He is a cell phone designer.
+He is a toy designer.
+He is a car designer.
+He / She is a jewelry designer.
+He is a clothing designer.
+He is an underwear designer.
+He is a fashion designer.
+He is a shoe designer.
+He is a bag designer.
+He / She is a designer.
+He is a stage designer.
+He is an interior designer.
+He is a visual merchant.
+He is a visual designer.
+He is an advertisement designer.
+He is a book designer.
+He is a theatre artist.
+He is a character designer.
+He is a packaging designer.
+He is an artist.
+He is a web designer.
+He is a video graphic designer.
+He is a sports graphic designer.
+He is a film director.
+He is a theater director.
+He is a music planner.
+He is an advertising director.
+He is a broadcast director.
+He is a movie star.
+He is a racing announcer.
+He is a disc jockey.
+He is a video jockey.
+He is a weathercaster.
+He is a journalist.
+He is an announcer.
+He is a watchman.
+He is an entertainment manager.
+He is a fashion coordinator.
+He is an artisan.
+He is the captain of the ship.
+He is an airline operator.
+He is an airplane pilot.
+He is a helicopter pilot.
+He is a sailor.
+He is a maritime agent.
+He is a pilot.
+He is an air traffic controller.
+He is a railway traffic controller.
+He is an air traffic controller.
+He is a marshal.
+He is a taxi driver.
+He is a bus driver.
+He is a small truck driver.
+He is a special driver.
+He is a big truck driver.
+He is a private operator.
+He is a crane operator.
+He is a forklift operator.
+He is an ambassador.
+He is a mail carrier.
+He is a pilot.
+He is an aircraft engineer.
+He is an electrical supervisor.
+He is a car salesman.
+He is a commodity broker.
+He auctions houses.
+He is an airplane broker.
+He is a real estate consultant.
+He is a real estate agent.
+He is a duty-free sales agent.
+He is a convenience store supervisor.
+He is a telecom sales agent.
+He is an internet sales agent.
+He is a telemarketer.
+He is a person who takes things on credit.
+He / She is a public relations assistant.
+He is a warehouse inspector.
+He is a delivery assistant.
+He is a bodyguard.
+He is a petition officer.
+He is a security guard.
+He is a security officer.
+He is a cleaner.
+He is a hotel cleaner.
+He / She is an environmentalist.
+He is a washerman.
+He watches the meter.
+He is a gas inspector.
+He is a collector.
+He is in the parking garage.
+He is an examiner.
+He is a barber.
+She / He takes care of the skin.
+He is taking a bath.
+She is a nail artist.
+He is a software programmer.
+He is a special manager.
+She is a makeup artist.
+He / She takes care of pets.
+He is a fashion consultant.
+He is an advisor.
+He has a personal shop.
+He is a marriage counselor.
+He / She is a wedding planner.
+He is a marriage officer.
+He is a funeral director.
+He is a travel guide.
+He is an international travel agent.
+He is a naturalist.
+He is a tourist interpreter.
+He is a tour guide.
+He is a flight attendant.
+He is a member of the ship's crew.
+He is a train driver.
+He is a doorman at the hotel.
+He provides housing services.
+He is a recreational facility worker.
+He is a trainer.
+He is a match coach.
+He is a professional baseball player.
+He is a cyclist by profession.
+He is a professional racer.
+He is a race car driver.
+He is a professional volleyball player.
+He is a professional golfer.
+He is a professional basketball player.
+He is a professional football player.
+He is a sports judge.
+He is the registrar.
+He is a sports coach.
+He is a fun coach.
+He is a sports agent.
+He is a professional gamer.
+He is a casino dealer.
+She is a cheerleader.
+He is a golf course caddie.
+He is a Korean cook.
+He is making sugar.
+He is a farmer.
+He is a Japanese cook.
+He eats meals with a group.
+He is a barista.
+He / She is a fast food restaurant owner.
+He / She is a kitchen assistant.
+They are a food stylist.
+He is an attendant.
+He is a structural safety technician.
+He is an environmental consultant.
+He is a construction estimator.
+He is a construction equipment technician.
+He is a construction supervisor.
+He is a construction technician.
+He is an architectural engineer.
+He is a civil engineer.
+He is a civil engineering designer.
+He is a civil engineering safety technician.
+He / She is a traffic impact analyst.
+He is a traffic safety researcher.
+He is a traffic planner.
+He is an urban planner.
+He is a surveyor.
+He is a photogrammetrist.
+He is a mapping technician.
+He is a Geographic Information System specialist.
+He is a construction materials tester.
+He is a sculptor.
+He builds traditional buildings.
+He works in a cooperative.
+He builds walls.
+He is a coach.
+He is busy.
+He is a construction entrepreneur.
+He is an industrial plumber.
+He is a mining machine operator.
+He is Prakash.
+He has a stone-cutting machine.
+He is a diver.
+He is a robber.
+He is a mechanical engineer.
+He is a shipbuilding engineer.
+He is a plant mechanical engineer.
+He is a robot engineer.
+He is a railway engineer.
+He is an air conditioning technician.
+He is an engine mechanic.
+He is a construction machinery engineer.
+He is a mechatronics engineer.
+He is an aeronautical engineer.
+He is an automotive engineer.
+He is an industrial mechanic.
+He is a garage mechanic.
+He is a boiler installer.
+He is a construction mechanic.
+He is an agricultural mechanic.
+He is a train mechanic.
+He is an auto mechanic.
+He is an operator of heating and air conditioning facilities.
+He is a car athlete.
+He is an auto parts associate.
+He is a transport equipment coach.
+He is a train coach.
+He is a metal technician.
+He is a content engineer.
+He is a nanotechnologist.
+He is a fraud.
+He / She is a member of the state.
+He is a welder.
+He is a sprayer operator.
+He is a cook.
+He is a glass manufacturer.
+He is a pottery businessman.
+He is a mineral producer.
+He is an evaluator.
+He is a petrochemical engineer.
+He is a pharmaceutical chemical engineer.
+He is a food and beverage chemical engineer.
+He is a plastic chemical engineer.
+He is a cosmetic chemical engineer.
+He is a pesticide chemical engineer.
+He is a chemical engineering examiner.
+He is a fuel cell researcher.
+He is a textile engineer.
+He is a textile grade inspector.
+He is a hanbok maker.
+He is a leather garment manufacturer.
+He is a clothing inspector.
+He is a clone.
+He / She owns a tailoring company.
+He is a cobbler.
+He makes shoes.
+He is a transmission and distribution facility technician.
+He is an electrical safety technician.
+He is a power plant technician.
+He is an electrical measurement control technician.
+He is an electronic product development technician.
+He is an electronics development technician.
+He is a semiconductor engineer.
+He is an electronic medical device development technician.
+He is an industrial leader.
+He is a foreigner.
+He is a generator operator.
+He is an electronics operator.
+He is an electronics manufacturer.
+He is a gas energy technician.
+He is a solar researcher.
+He is a wind turbine researcher.
+He is a tourist.
+He is a digital processing expert.
+He is a computer hardware technician.
+He is a communications engineer.
+He is a communication technology developer.
+He is a satellite development worker.
+He is a communication technician.
+He is a computer systems supervisor.
+He is a computer systems design analyst.
+He is the manager of the information system.
+He is an information and communication advisor.
+He is a network programmer.
+He is a network engineer.
+He is a computer security expert.
+He is a system software developer.
+He is an application software developer.
+He is a reality expert.
+He is a game programmer.
+He is a voice processing expert.
+He is a web developer.
+He is a web programmer.
+He is a web engineer.
+He is a web planner.
+He is a game planner.
+He is a database developer.
+He is an information system operator.
+He is a network administrator.
+He is a technical support specialist.
+He is a telecommunications equipment specialist.
+He / She is a broadcaster.
+He is a video equipment representative.
+He is a telecommunications equipment representative.
+He is a food engineer.
+He / She tests the food.
+He eats sweets.
+He is a producer with Han.
+He is a minister.
+He is a butcher.
+He is an employee who works in the IT office.
+He smokes.
+He eats food.
+He is a dairy processing machine operator.
+He is a milling machine operator.
+He is a mechanic.
+He is a grain processing machine operator.
+He is a beverage machine operator.
+He is a businessman who produces cigarettes.
+He is a life science researcher.
+He is a marine fish farmer.
+He is a pest control specialist.
+He is an environmental engineer.
+He is a greenhouse gas verification auditor.
+He is a soil engineering engineer.
+He / She is an environmental impact assessor.
+He is a sound and vibration technician.
+He is a waste management technician.
+He is an atmospheric environment technician.
+He is a water quality environmental technician.
+He is an environmental engineering examiner.
+He is an ecological product certification auditor.
+He is an environmental inspector.
+He is a bioenergy researcher.
+He is a nuclear engineer.
+He is a fire engineer.
+He develops industrial security resources.
+He is an energy expert.
+He is an energy auditor.
+He is the manager of drinking water and sewage.
+He is an incinerator operator.
+He is a printer operator.
+He is a manufacturer of paper products.
+He is a furniture maker.
+He is a furniture associate.
+He is a furniture inspector.
+He is a clay artist.
+He is a Korean craftsman.
+He / She is a jewelry collector.
+He is a device manufacturer.
+He is the coordinator.
+He is a signature maker.
+He is a rapper.
+He is a gardening entrepreneur.
+He is a gardener.
+He is a livestock worker.
+He is an animal trainer.
+He wields a hammer.
+He / She goes fishing.
+He is an army officer.
+He is an Air Force officer.
+He is a naval officer.
+He is in the Navy.
+He is in the Air Force.
+He is in the army.
+He is an architect.
+He is an architect engineer.
+He is a landscape engineer.
+He is the voting manager.
+He is the manager of the lease.
+He is the principal.
+He / She is compassionate.
+He is the manager of the capital.
+He is a quality assurance specialist.
+He is a tax agent.
+He is a production planner.
+He is a marketing researcher.
+He is an employee of the labor office.
+He is an administrative clerk.
+He is a road traffic officer.
+He is an administrative assistant.
+He is a secretary.
+He is a stenographer.
+He is a ticket office employee.
+He is a clerk.
+He is an employee of a financial institution.
+He is a harmful agent.
+He is an insurance takeover judge.
+He is a credit examiner.
+He is a professor of art.
+He is a college lecturer.
+He / She is a supervisor.
+He is a geoscience researcher.
+He / She is a climate change expert.
+He is a bioinformatician.
+He is an academic researcher.
+He is a linguistics researcher.
+He is a geography researcher.
+He is an agricultural and forestry fisheries examiner.
+He is a physical education teacher.
+He is a music teacher.
+He is a mathematics teacher.
+He is a professor at a foreign language school.
+He is a tuition teacher.
+He is a maritime police officer.
+He is a doctor.
+He is a pharmacist.
+He is a Chinese medicine seller.
+He is an audiologist.
+He is a laughter therapist.
+She / He is an aromatherapy therapist.
+He writes interesting articles.
+He is an eye specialist.
+He is a masseur.
+He is a nutritionist.
+He has a medical record.
+He saves lives.
+He writes articles on medical devices.
+He is a former support specialist.
+He is a support officer.
+He is a social worker.
+He is a priest.
+He / She is responsible.
+She is the bride.
+She is a nun.
+He is the editor of publications.
+He is a poet.
+He is a game scenario writer.
+He is a broadcast writer.
+He is a copywriter.
+He is a screenplay writer.
+This is cultural property.
+He is a sculptor.
+He is an artist.
+He is a calligrapher.
+He is a cartoonist.
+He / She sings the national anthem.
+He is a singer.
+He / She is a dancer.
+He is a backup dancer.
+He is a choreographer.
+He is performing.
+He is a visual vendor.
+He is a show director.
+He is a hero.
+He is a stuntman.
+He is a comedian.
+He is a theater actor.
+He / She is a model.
+He is a host of an entertainment program.
+He / She is a shopping host.
+He is an acoustic storyteller.
+He is a video storyteller.
+He is a lighting expert.
+He is a stage dresser.
+He is a props manager.
+He is a transportation officer.
+He is the manager of an airline.
+He is a forklift operator.
+He is an independent person.
+He is looking at the deck of the ship.
+He is a production planning specialist.
+He buys items at auctions.
+He is a ticket agent.
+He is a sales representative.
+He / She is a child care assistant.
+He is an unmanned security guard.
+He is a parking attendant.
+He is a skincare agent.
+He is a bathing manager.
+He is a special dresser.
+He / She keeps pets.
+He is a housing service provider.
+He is a playground worker.
+He is an entertaining lecturer.
+He / She is cooking for a group.
+He is the head of a fast food shop.
+He is a civil engineer and an environmental engineer.
+He is a traffic planner.
+He / She is a person who tests construction materials.
+He has been hit by a stone.
+He is a traditional building architect.
+She is gentle.
+He is a laborer.
+He is a repair team member.
+He is a plant mechanic.
+He is a construction engineer.
+He is an avionics engineer.
+He is a lift mechanic.
+He is a helicopter maintenance worker.
+He is an aircraft maintenance worker.
+He takes care of the meter.
+He is a metal machine operator.
+He is an air conditioning unit operator.
+He / She does plastering.
+He / She has a propeller.
+He is a tailor.
+He is an electrical control technician.
+He is an electrical product development engineer.
+He is the head of the industry.
+He is the chief of the outside.
+He is a technical officer.
+He is a consumer electronics dealer.
+He is a wind energy researcher.
+He is a telecommunications engineer.
+He is at the satellite development agency.
+He is a developer of management information systems.
+He writes articles on communication devices.
+He / She repairs broadcasting equipment.
+He is a producer.
+He is a construction worker.
+He is a dairy machine operator.
+He is a fisherman.
+He is a pipe cleaner.
+He is an atmospheric environmental engineer.
+He is a water environment engineer.
+He / She is the manager.
+He is a tuner.
+He is a landscape architect.
+He is a local councilor.
+He is a government administrative manager.
+He is a manager.
+He is a performance production manager.
+He is an art director.
+He is the director of the library.
+He is a water manager.
+He is a professional in quality assurance.
+He is a labor clerk.
+He is an education administrator.
+He is a production control clerk.
+He is a tour guide.
+He / She / They have a management fee.
+He is a researcher.
+He is a flight ticket clerk.
+He is a financial development company.
+He is a stockbroker.
+He is a harmful agent.
+He is an insurer.
+He is a professor of art and physical education.
+He is a scholar / priest.
+He is a developer.
+He / She is a fish researcher.
+He is a foreign language instructor.
+He is an auditor.
+She is a gynecologist.
+He is a massage therapist.
+He is getting nourishment.
+He is a conservationist.
+He is a classical musician.
+He is a player.
+He is a presenter.
+He is a graphic designer.
+He is a record label owner.
+He / she works at the shelter.
+He is an acupuncturist.
+He is an adjuster.
+He is an administrator.
+He is an agent.
+He is an airman.
+He is an almoner.
+He / She is an anesthetist.
+He is an anthropologist.
+He is a mediator.
+He is an arborist.
+He is an archaeologist.
+He is a record.
+He is armed.
+He / She is an aromatherapist.
+He is helpful.
+He is an astrologer.
+He is an astronomer.
+He is an audiologist.
+He is an auditor.
+He is a bailiff.
+He is a balloonist.
+She is Madhubala.
+He is a bartender.
+He is a barrister.
+She is a beautician.
+She / He is a biochemist.
+He is a biologist.
+He is an employee.
+He is a bookkeeper.
+He is a bookmaker.
+He is a botanist.
+He is brave.
+He makes bricks.
+He is a builder.
+He is a butler.
+He is a buyer.
+He is a cameraman.
+He is a carpenter.
+He is a cartographer.
+He is a caterer.
+He is from Kolkata.
+She is a servant.
+He is a religious leader.
+He is a driver.
+He is a chef.
+He is a chemist.
+She takes care of children.
+He is a chiropodist.
+He is a chiropractor.
+He cleans.
+He has been appointed.
+He is a coroner.
+He is a counselor.
+He is a businessman.
+He / She is decorative.
+He is an economist.
+He is an employee.
+He / She has a job.
+He is an engineer.
+He is having fun.
+He is an executive.
+He is a fireman.
+He is a florist.
+He is a footballer.
+He is the chief.
+He is a forest ranger.
+He is fruitful.
+He gambles.
+He is a goalkeeper.
+He is a descendant.
+He is a gilder.
+He is a glacier.
+He is a goldsmith.
+He is a golfer.
+He is the governor.
+He is a graphologist.
+He is a grocer.
+He is a hairdresser.
+He is a handyman.
+He is a street vendor.
+He is a herbal medicine expert.
+He is a historian.
+He is a homeopathy specialist.
+He / She is a homemaker / housekeeper.
+She is a nurse.
+He is a hotelier.
+He is a househusband.
+He is a housekeeper.
+She is a housewife.
+He is a hypnotherapist.
+He is an interviewer.
+He is an inventor.
+She is a gem.
+He is joking.
+He is a laminator.
+She is a landlady.
+He is the house owner.
+He is a landowner.
+He is a land laborer.
+He is a lecturer.
+He is a license holder.
+He has a license.
+He is a lifeguard.
+He is radiant.
+He is a lineman.
+He is a language expert.
+He is a lithographer.
+He makes locks.
+He is a lumberjack.
+He is a magistrate.
+She is a manicurist.
+He / She is a massage therapist.
+He / she is getting a massage.
+He is a mathematician.
+He is a merchandiser.
+He is a metallurgist.
+He is a microbiologist.
+She is a midwife.
+She is a milkmaid.
+He is a milkman.
+He is Miller.
+He eats a lot.
+He is a mineral specialist.
+He is a landlord.
+He / She is a navigator.
+He / She is a negotiator.
+He is a neurologist.
+He / She reads the newspaper.
+She is non.
+She works at a nursery.
+He is a nutritionist.
+He performs surgery.
+He / She is operational.
+He is an optician.
+He is an optometrist.
+He is in the orchestra.
+He is the organizer.
+He is an organist.
+He is an ornithologist.
+He is an orthopedic specialist.
+He is an orthoptist.
+He is an osteopath.
+He is a packer.
+He is a paramedic.
+He is a pastor.
+He is a specialist in infectious diseases.
+He is patrolling.
+He is a physicist.
+He is a physiologist.
+He is a physiotherapist.
+He is a plasterer.
+He is a player.
+He is a plumber.
+He is a podiatrist.
+He is a polisher.
+He is a porter.
+He is a postman.
+He is a postmaster.
+She is a postwoman.
+He is a potter.
+He studies at the campus.
+He is under pressure.
+He is a printer.
+He is the creator.
+He / She is a projectionist.
+He is a promoter.
+He is the owner.
+He is a psychoanalyst.
+He is a psychologist.
+He is a public relations radiographer.
+He is a radiologist.
+He is a recorder.
+He is the rector.
+She / He is a reflexologist.
+He is a regulator.
+He / She is a representative.
+He is a restaurateur.
+He is a riveter.
+He is a road worker.
+He / She is thin.
+He builds scaffolds.
+He is a scientist.
+He is a servant.
+He is a shepherd.
+He is a police officer.
+He is a showman.
+He is a switchman.
+He is a signalman.
+He is a signatory.
+He is the captain.
+He is a slater.
+He is a soldier.
+He is a stationer.
+He is Bhandari.
+He is a share broker.
+He is a stockman.
+He is a stock taker.
+He is stubborn.
+He is Tanner.
+He is a tattoo artist.
+He is a taxidermist.
+He is a technician.
+He is a telegraphist.
+He is a telephonist.
+He is a transcriptionist.
+He is the treasurer.
+He operates a tunnel.
+He is a typewriter.
+He is a typist.
+He / She is valuable.
+He is a ventriloquist.
+He is a violinist.
+He is the warden.
+He is in the warehouse.
+He is a watchmaker.
+He is a weaver.
+He is a zoologist.
+He is unusual.
+He is on the run.
+He is absent.
+He is being disrespectful.
+He is independent.
+He / She is spontaneous.
+He is cursed.
+He speaks directly.
+He is smart.
+He is rude.
+He is an addict.
+He is adverse.
+He / She is a victim.
+He is aggressive.
+He is traveling.
+He is sick.
+He is aimless.
+He is dangerous.
+He / She is allergic.
+He / She is different.
+He is being vague.
+He is an anarchist.
+He is angry.
+He is annoying.
+He is inconsistent.
+He is an opponent.
+He is anti-America.
+He is anti-Israel.
+He is against business.
+He is anti-expansion.
+He is an opponent.
+He is antisocial.
+He is against white people.
+He hates everyone.
+He is worried.
+He is indifferent.
+He is scary.
+He is scared.
+He is old.
+He is rational.
+He is arrogant.
+He is ashamed.
+He is foolish.
+He is a tyrant.
+He is terrible.
+He is behind.
+He is bad.
+He is simple.
+He / She is bankrupt.
+He is barbaric.
+He is homeless.
+He is an animal.
+He is useless.
+He is a fighter.
+He is the best.
+He is bad.
+He is biased.
+He is tall.
+She is a hen.
+He is rude.
+He / She is mistaken.
+He is gentle.
+He criticizes.
+He has a mark on his face.
+He is guilty.
+He / She interrupts.
+He is a murderer.
+He is fake.
+He is generous.
+He bombards.
+He is boring.
+He is arrogant.
+He is brainless.
+He is a mental patient.
+He gets intoxicated.
+He is corrupt.
+He is stressed.
+He is fragile.
+His / Her glasses are broken.
+His heart is broken.
+He is cruel.
+He is annoying.
+He is talking nonsense.
+He is a burden.
+His heart is burning.
+He is black.
+He is cruel.
+He is a cannibal.
+He is strong.
+He is careless.
+He commits genocide.
+He is injured.
+He / She is destructive.
+He speaks harshly.
+He is challenging.
+He betrays.
+He is happy.
+He is reminiscing about his childhood.
+He is unknown.
+He is inexperienced.
+He is having a problem.
+He is an owl.
+He / She is feeling cold.
+He coordinates.
+He / She / They smuggle.
+He is complicated.
+He is compelling.
+He is involved.
+He deserves criticism.
+He is kind.
+He is limited.
+He is controversial.
+He is confused.
+He is confused.
+He is conservative.
+He is special.
+He is a conspirator.
+He is contagious.
+He / She is contaminated.
+He insults.
+He is contradictory.
+He is a communicable person.
+He / She is expensive.
+He is a coward.
+He has a dog.
+He is crazy.
+He is angry.
+He is a criminal.
+He is dishonest.
+He is raw.
+He is ugly.
+She is crying.
+He is in the witness box.
+He is condemnable.
+He / She is injured.
+He runs.
+He is surprised.
+He is dangerous.
+He is weak.
+He is the judge.
+He / She is suffering from tuberculosis.
+He is a fraud.
+He is defensive.
+He is in need.
+He has fallen.
+He behaves well.
+She is a demon.
+He / She has integrity.
+He is dense.
+He is deprived.
+He is sad.
+He is intelligent.
+He is discouraged.
+He got lost in the wilderness.
+He is disappointed.
+He is desperate.
+He is hateful.
+He is stopping the car.
+He is despicable.
+He is harmful.
+He is evil.
+He is diabolic.
+He is disappointed.
+He is a dictator.
+He is having a hard time.
+His / Her property has been destroyed.
+He is late.
+He disagrees.
+He is confused.
+He / She feels uncomfortable.
+He is fragmented.
+He is dissatisfied.
+He is unbalanced.
+He is discouraged.
+He is discriminatory.
+He is being stubborn.
+He is dishonest.
+He is reluctant.
+He is loyal.
+He is disobedient.
+He is disorganized.
+He / She is distracted.
+He / She is displaced.
+He is incompetent.
+He is practical.
+He is disruptive.
+He is unpleasant.
+He is worried.
+He is upset.
+He is skeptical.
+He is divisive.
+He is ruined.
+He is suspicious.
+He is intoxicated.
+He is lazy.
+He is in a deceased state.
+He is shy.
+He / She is free.
+He is an enemy.
+He is a servant.
+He has been hanged.
+He is jealous.
+He is wrong.
+He is irregular.
+He is exaggerating.
+He is excellent.
+He is uneducated.
+He / She is explosive.
+He is an extremist.
+He is ignored.
+He is skilled.
+He is failing.
+He is unconscious.
+He is untrustworthy.
+He falls.
+He is in a famine.
+He is a fanatic.
+He is imaginary.
+He / She is far away.
+He is far away.
+He is a fascist.
+He is amazing.
+He has a fever.
+He is dirty.
+He is surprised.
+He is hoisting the flag.
+He / She smells good.
+He is awesome.
+He is going to forget.
+He is helpless.
+He / She has a naturally beautiful appearance.
+He has a fracture.
+He is insane.
+He is strange.
+He is fighting.
+He has caught a cold.
+He is stubborn.
+He is unsuccessful.
+He is dirty.
+He is amazing.
+He is surprised.
+He is happy.
+He is smart.
+He is greedy.
+He is sad.
+He is smart.
+He is guilty.
+He is innocent.
+He is stubborn.
+He is half excited.
+He / She will be disturbed.
+He is strict.
+He is treated harshly.
+He is in a hurry.
+He hates me.
+He hunts.
+He is bald.
+He has a headache.
+He is heartless.
+He / She is a good person.
+He is hedonistic.
+He commits a heinous crime.
+He is helpless.
+He is a non-believer.
+He is hesitating.
+He is hollow.
+He is a gangster.
+He is angry.
+He is arrogant.
+He is hurt.
+He is a hypocrite.
+He is hysterical.
+He is stupid.
+He is inactive.
+He is ignorant.
+He is mean.
+He treats badly.
+He is immature.
+He is unethical.
+He is impatient.
+He is incomplete.
+He is needed.
+He is invincible.
+He lies.
+He is restless.
+He is impossible.
+He is impractical.
+He is being unreasonable.
+He is passionate.
+He is inadequate.
+He is missing.
+He cannot hear.
+He is disabled.
+He is stable.
+He is incredible.
+He is being vulgar.
+He is uncertain.
+He / She experiences.
+He / She is ineffective.
+He is unfair.
+He is inexperienced.
+He is infamous.
+He is infected.
+He is downstairs.
+He is excited.
+He is flexible.
+He is obsolete.
+He is inhumane.
+He / She is insecure.
+He / She feels insecure.
+He is insensitive.
+He is there.
+He is insignificant.
+He is unchangeable.
+He is intolerant.
+He is infiltrating.
+He is being irrational.
+He is irrelevant.
+He is irritated.
+He is useless.
+He / She is preparing.
+He / She breathes.
+He is lawless.
+He is shy.
+He is lying.
+He is alone.
+He is losing.
+He is amazing.
+He is loveless.
+He is below average.
+He is less.
+He is malicious.
+He is normal.
+He / She is a mediator.
+He is brainless.
+He is being abusive.
+He is talkative.
+He has misunderstood.
+He / She is being mocked.
+He is lonely.
+He is moody.
+He is heartbroken.
+He is motionless.
+He is vomiting.
+He is in need.
+He is negative.
+He is nervous.
+He is neurotic.
+He is in a nightmare.
+He / She is toxic.
+He is a troublemaker.
+He is unconscious.
+He is suffering from obesity.
+He is opportunistic.
+He is oppressive.
+He is ostracized.
+He is a thief.
+He speaks with great exaggeration.
+He / She is more valuable.
+He is given a high salary.
+He is overrated.
+He / She is amazing.
+He is very enthusiastic.
+He is in pain.
+He is a parasite.
+She is fairy.
+He is pitiful.
+He is being tortured.
+He has versatility.
+He is deformed.
+He is pessimistic.
+He is phobic.
+He is stealing.
+He is a robber.
+He is poisonous.
+He is extravagant.
+He is poor.
+He is violent.
+He / She is biased.
+He / She / They is / are from the east.
+He is in trouble.
+He is impure.
+He is excited.
+He is punishable.
+He is mysterious.
+He is a racist.
+He is an adulterer.
+He is a troublemaker.
+He is excited.
+He is a rebel.
+He scolds.
+He is unnecessary.
+He regrets.
+He denies it.
+He / she repeats things.
+He / She resists.
+He is reactionary.
+He is restrictive.
+He is copying.
+He is rebelling.
+He is funny.
+He is risky.
+He is rude.
+He / She is fat.
+He is a wicked person.
+He is sarcastic.
+He is cruel.
+He is a rapist.
+He talks about broken things.
+He / she smells bad.
+He is imminent.
+He / She is someone.
+He is self-destructive.
+He is selfish.
+He is frail.
+He is shady.
+He is ignorant.
+He is shocked.
+He / She is unconscious.
+He leaves the house.
+He is comfortable.
+He is a sinner.
+He is helpless.
+He / She is asleep.
+He / She is chanting slogans.
+He is clever.
+He is a scatterbrained person.
+He / She gives trouble.
+He limps.
+He is soulless.
+He is jealous.
+He works sporadically.
+He is having difficulty breathing.
+He is disgraced.
+He bites.
+He is stingy.
+He / She is stressed.
+He is stubborn.
+He / She is in charge.
+He is polite.
+He is under us.
+He is terrible.
+A case will be filed against him.
+He / She is committing suicide.
+He is superficial.
+He / she is mandatory.
+He is superstitious.
+He is being pressured.
+He is very sensitive.
+He is joking.
+He is shouting.
+He is suffering from a cold.
+He is slow.
+He is scared.
+He / she is a witness.
+He is grateful.
+He is prickly.
+He is thoughtless.
+He threatens.
+He is a fraud.
+He is tired.
+He / She is being troubled.
+He is torturous.
+He is authoritarian.
+He is touchy.
+He is a traitor.
+He is hesitating.
+He is a traitor.
+He is a politician.
+He has returned.
+He is unacceptable.
+He is unauthorized.
+He is unbearable.
+He is uncomfortable.
+He is uncooperative.
+He is informal.
+He is indomitable.
+He / She has become weak.
+His / Her salary has decreased.
+He / She is undesirable.
+He is unavailable.
+He is unpredictable.
+He is failing.
+He is forgiving.
+His luck is bad.
+He is friendless.
+He is unavailable.
+He / She is unique.
+He is ungrateful.
+He is illegal.
+He is unnatural.
+He / She is unpopular.
+He is not ready.
+He is unproductive.
+He / She / They are non-profit.
+He is unreal.
+He is unresponsive.
+He is out of control.
+He is not satisfied.
+He is unstable.
+He is lying.
+He is unwanted.
+He is unwell.
+He is rebellious.
+He is misleading.
+He / She is seeking revenge.
+He is a villain.
+He is a villain.
+He is vengeful.
+He is straightforward.
+He is vomiting.
+He is fighting in the war.
+He is careful.
+He is tired.
+He is restless.
+He is corrupt.
+He is upside down.
+He is a coward.
+He is clever.
+He is dirty.
+He has cancer.
+She / He is delicate.
+He curses.
+He gives up.
+He is a fraud.
+He defames.
+He is missing.
+He does less work.
+He is dead.
+He / She spits.
+He is delaying.
+He is late.
+He is late.
+He is Mohit.
+He is sorry.
+He is in a pit.
+He is sarcastic.
+He is insignificant.
+He is a dictator.
+He is authoritarian.
+He is deteriorating.
+He / She is preventive / defensive.
+He is disgusting.
+He got distracted.
+He is a disgrace.
+He is getting in the way.
+He is in loss.
+He destroys.
+He is a devil.
+He / she has resentment.
+He is demonic.
+He is symmetrical.
+He is a diatribist.
+He walks on a bumpy road.
+He is confused.
+He is eating.
+He is at a loss.
+He is in the drain.
+He is dry.
+He is an alcoholic.
+He is strong.
+He is a pandemic.
+He has gone away.
+He / She / They finished.
+He exploits.
+He / She is hungry.
+He falls.
+He is lying.
+He is cheating.
+He is excellent
+He is mentally slow.
+He reads a novel.
+He is mischievous.
+He is quarrelsome / mischievous.
+He is confused.
+He is a rogue.
+He is a ghost.
+He / She / They give(s) trouble.
+He is wild.
+He / She is loving.
+He / She is a blocker.
+He is an atheist.
+He is in hell.
+He is.
+He / She is shouting.
+He / She vomited.
+He is innocent.
+He / She is tasteless.
+He is unforgivable.
+He has bad luck.
+He is dependent.
+He / She smells bad.
+He is unconscious.
+He is drunk.
+He is rare.
+He is extremely gentlemanly.
+He is shameless.
+He is strict.
+He is in trouble.
+He is delaying.
+He is a chef.
+He is enough.
+He is accessible.
+He / She is praised.
+He / She is pure.
+He is eligible.
+He does productive work.
+He / She is available.
+He has a sharp mind.
+He is adaptable.
+He is sufficient.
+He is adaptable.
+He is admirable.
+He / She is very likable.
+He is a devotee.
+He gives false praise.
+He is helpful.
+He is brave.
+He is friendly.
+He is friendly.
+He / She confirms.
+He is positive.
+He is wealthy.
+He is patient.
+He is frugal.
+He / She is diligent.
+He is energetic.
+He agrees.
+He is around.
+He is Manohar.
+He is charitable.
+He is amazing.
+He / She is ambitious.
+He / She makes progress.
+He is Sushil.
+He is fun.
+He is an angel.
+He is divine.
+He is attractive.
+He is right.
+He / She approves.
+He / She is acceptable.
+He is enthusiastic.
+He requests
+He is clear.
+He is cunning.
+He / She / They aspire.
+He / She does insurance.
+He has assurances.
+He gives assurance.
+He is confident.
+He is conscious.
+He is worth listening to.
+He / She is blessed.
+He is reliable.
+He / She is official.
+He / She is autonomous.
+He is available.
+He is curious.
+He has a prize.
+He is respected.
+He is in fear.
+He is awake.
+He is very correct.
+He has a backbone.
+He is balanced.
+He is making a deal.
+He / She pointed it out.
+He makes work possible.
+He is trustworthy.
+She is a beloved one.
+He is a beneficiary.
+He benefits.
+He is excellent.
+He is the most knowledgeable.
+He / She performs excellently.
+He is the best seller.
+He is a good speaker.
+He is well acquainted.
+He is better than expected.
+He is blameless.
+He is a blessing.
+He is alive.
+He is healthy.
+He will receive a bonus.
+He receives a tip.
+He / She is thriving.
+He / She is growing up.
+He / She is limitless.
+This is the product of his mind.
+He is intelligent.
+He shows bravery.
+He claps.
+He is brilliant.
+He is successful.
+He / She is exhaling.
+He is talented.
+He is amazing.
+He is talented.
+He is very happy.
+He is happy.
+He is calm.
+He is pleasant.
+He / She likes peace.
+He is capable.
+He is capable.
+He is careless.
+He / she celebrates festivals.
+He is the winner.
+He is a champion.
+He is charismatic.
+He / She is holy.
+He is celebrating with joy.
+He / She loves.
+He is respected.
+He is ugly.
+He is standing upright.
+He is polite.
+He is polite.
+He is polite.
+He is a classic.
+He / She is excellent.
+He / She is clean.
+He is excellent.
+He is clean.
+He / She / They collect.
+He is consistent.
+He is colorful.
+He / She is resting.
+He is easy-going.
+He offers comfort.
+He is commendable.
+He is committed.
+He is Vishal.
+He is kind.
+He has good company.
+He is a competitor.
+He is supportive.
+He completes the work.
+He / She is like a complement.
+He has a complaint.
+He is being praised.
+He / She is an honorary person.
+He is broad.
+He / She is confident.
+He is honest.
+He is thoughtful.
+He / She is creative.
+He / She gathers materials.
+He is a cold person.
+He is fine.
+He / She abides by the rules.
+He is kind.
+He is influential.
+He spreads rumors.
+He / She is dear.
+He is fearless.
+He wakes up in the morning.
+He / She is shining.
+He is sure.
+He / She is dedicated.
+He is honorable.
+He is clever.
+He is delicious.
+He is delightful.
+He is qualified.
+He feels satisfied.
+He is filled with desire.
+He is curious.
+He is religious.
+He / She is hospitable.
+He is a hard worker.
+He talks nonsense.
+He is versatile.
+He dominates.
+He is dominant.
+He is undoubtedly special.
+He creates fake certificates.
+He is enduring.
+He / She is dynamic.
+He is the easiest.
+He / She is ecological.
+He is filled with bliss.
+He is effective.
+He / She is active.
+He is impressive.
+He is impatient.
+He is elegant.
+He is a speaker.
+He is famous.
+He is compassionate.
+He / She is empowered.
+He is charming.
+He / she is kind.
+He supports.
+He / She has supported.
+He confirms.
+He is powerful.
+He is energetic.
+He saves energy.
+He / She grows.
+He is happy.
+He is happy.
+He enjoyed it.
+He enjoyed.
+He attains salvation.
+He is providing information.
+He is a reservoir of knowledge.
+He is alive.
+He is noble.
+He is fun.
+He is grown up.
+He is rich.
+He is an entrepreneur.
+He / she entertains.
+He enslaves.
+He is excited.
+He is excited.
+He / She is tempted.
+He is charming.
+He / She has to transfer.
+He is profound.
+He is jealous.
+He is fair.
+He is free from errors.
+He / She is moral.
+He / She praises.
+He / She celebrates the festival.
+He / She is equal.
+He is infinite.
+He / She is an inspiring thinker.
+He is ready to give praise.
+He is excited.
+He is high.
+He is extremely sad.
+He / She is taking an exam.
+He passed.
+He excels.
+He / She is performing exceptionally.
+He is excellent.
+He is extraordinary.
+He is excited about the movie.
+He needs to take it out.
+He is exemplary.
+He is ready to entertain.
+He is enthusiastic.
+He is happy from his heart.
+His / Her rights must be restored.
+He is expanding.
+He is an expert.
+He / She is very beautiful.
+He is extraordinary.
+He is abundant.
+He is engrossed.
+He is engrossed.
+He is closing his eyes.
+He is angry.
+He has the facilities.
+He is fair.
+He is enough.
+He is straightforward.
+He is trustworthy.
+He is loyal.
+He is devoted.
+He is world-famous.
+He / She is happy with the fame.
+He / She likes me.
+She is (named) Kalpana.
+He is a fan.
+He / she hypnotizes.
+He / She is fashionable.
+He is clever.
+He grows the fastest.
+He is clever.
+He is the fastest.
+He / She grows the fastest.
+He is a witness.
+He is liked.
+He / She / They like(s) it.
+He is possibly first.
+He is probably first.
+He / She is productive.
+He is frugal.
+He is a feudal.
+He is very happy.
+He is extremely happy.
+He / She is fertile.
+He is emotional.
+He is enthusiastic.
+He is loyal to the truth.
+He is fine.
+He is meticulous.
+She is fine.
+He is strong.
+He is in first grade.
+He has passed with first class.
+He is first class.
+He / She is bright.
+He / She flatters.
+He is a flatterer.
+He is blameless.
+He / She should prosper.
+He is fluent.
+He felt the vibration.
+He is a fan.
+He is the most important.
+He is visionary.
+He is formidable.
+He is patient.
+He / She is fresh
+He is new.
+He is a friend.
+He / She fulfills.
+He is having fun.
+He / She is a gem.
+He is a gentleman.
+He is real.
+He / She is bright.
+He is successful.
+She is Mahima.
+He is surrounded by light.
+He is a gift from God.
+He is God.
+He is gold.
+He / She is gold.
+He has a big heart.
+He is satisfied.
+He is satisfied.
+He expresses gratitude.
+He is satisfactory.
+He is the biggest.
+He is extraordinary.
+He is harmless.
+He / She is harmonious.
+He / She has passed away.
+He is helpful.
+He is excited.
+He is optimistic.
+He / She is hosting / entertaining guests.
+He is an ideal person.
+He is imaginative.
+He is important.
+He is advanced.
+He is Abhinav.
+He is practical.
+He is inspirational.
+He is indivisible.
+He tells interesting stories.
+She / He is invaluable.
+He is innovative.
+He is making it stronger.
+He is Ajay.
+He is immortal.
+He is invincible.
+He is tireless.
+He is humorous.
+He is joyful.
+He is joyful.
+He is knowledgeable.
+He / She leads.
+He is a lifesaver.
+He is happy.
+I like him / her.
+He is logical.
+He is loyal.
+He is lucky.
+He is the luckiest.
+He / She is beautiful.
+He / she is radiant.
+He is remarkable.
+He is mature.
+He / She is meaningful.
+He is unforgettable.
+He is promoted.
+He is humble.
+He / She makes fun.
+He is a miracle.
+He / She is modern.
+He is humble.
+He / She inspires.
+He / She is versatile.
+He / She is the cleanest.
+He is good.
+He is great.
+He is Nirav.
+He is non-violent.
+He / She is non-violent.
+He is remarkable.
+His cup of sin is full.
+He is Naveen.
+He / She is open-minded.
+He is optimal.
+He is optimistic.
+He / She must perform well.
+He is Jay.
+He is good.
+He is moving forward.
+He is making rapid progress.
+He proposes.
+He is luxurious.
+He is in heaven.
+He / She is free.
+He is excited.
+He is patriotic.
+He is patriotic.
+He is peace-loving.
+He is peaceful.
+He / She establishes peace.
+He / She is an office assistant.
+He is complete.
+He is perfect.
+He is hardworking.
+He is staying.
+He is a person.
+He is personal.
+He is Shikhar.
+He is calm.
+He is superior.
+He writes poetry.
+He is emotional.
+He is balanced.
+I am moving towards him / her.
+He is polishing.
+He is popular.
+He is light.
+He is praiseworthy.
+He is a respected person.
+He / She is precious.
+He is the boss.
+He is prestigious.
+He is proud.
+He is an idealist.
+He is a special officer.
+He / She receives special privileges.
+He / She receives an award.
+He is problem-free.
+He is a problem solver.
+He / She says amazing things.
+He is a producer.
+He is swift.
+He is progressive.
+He will reach the pinnacle of fame.
+He protects.
+He / She will verify this.
+He verifies.
+He / She is certified.
+He / She learns skills.
+He is punctual.
+He is / She is purposeful.
+He is peculiar.
+He is radiant.
+He is bright.
+He talks about matters related to me.
+He is natural.
+He is very intelligent.
+He is studious.
+He / She is ready.
+He / she confirms again.
+He is worth experiencing.
+He argues.
+He is receptive.
+He claims again.
+He / She / They recommend / s.
+He is busy making recommendations.
+He has recommendations.
+He recommended.
+He resolved it.
+He reconciles.
+He sets the record.
+He / She is recovering.
+He will recover his health.
+He is a parrot.
+He / She needs to improve.
+He is recovering.
+He is in my place.
+He / She is sophisticated.
+He is sophisticated.
+He is refining.
+He is researching.
+He is returning.
+He returned.
+He is happy.
+He is resurrected.
+He is worthy of taking the place.
+He is resourceful.
+He / she / they will loosen it.
+He is in mourning.
+He / She is recovering.
+He is being restructured.
+He deserves to be given up.
+He is a rebel.
+He / she reveals.
+He believes.
+He was resurrected.
+He is resurrected.
+He is a revolutionary.
+He is a revolutionary change.
+He is awarded.
+He is right.
+He / She is alone.
+He follows a religion.
+He is right.
+He is a rockstar.
+He is a rock star.
+He is romantic.
+He is having a romantic affair.
+He / She is pink.
+He / She is safe.
+He is intelligent.
+He is a righteous person.
+He is intelligent.
+He is satisfied.
+He has common sense.
+He is relentless.
+He is experienced.
+He / She is selective.
+He is self-determined.
+He is self-reliant.
+He is sensitive.
+He is sensitive.
+He is smart.
+He / She is intelligent.
+He is completely white.
+He is gentle.
+He is anxious.
+He is strong.
+He is very amazing.
+He knows how to impress.
+He is spiritual.
+He is natural.
+He is sporty.
+He is stainless.
+He / She has to stand outside.
+He is the latest.
+He is handsome.
+He is regular.
+He is stellar.
+He / She knows how to encourage.
+He is well-organized.
+He is organized.
+He / She / They is / are trying.
+He is very tall / huge.
+He is stylish.
+He / She is stylish.
+He knows how to work successfully.
+He is great.
+He is the successor.
+He is appropriate.
+He / She is superb.
+He is magnificent.
+He is a supporter.
+He is supreme.
+He is grateful.
+He / She / They take(s) precautions.
+He respects time.
+He is punctual.
+He is above.
+He is transparent.
+He is a treasure.
+He is Vijay.
+He is victorious.
+He believes.
+He is trustworthy.
+He is truthful.
+He / She is stable.
+He is unimpressed.
+He is undefeated.
+He is going.
+He / She can be understood.
+He is undisputed.
+He is unrestricted.
+He / She is selfless.
+He elevates.
+He believes in diversity.
+He is versatile.
+He is healthy and well-built.
+He is deserving.
+He is young.
+He is young.

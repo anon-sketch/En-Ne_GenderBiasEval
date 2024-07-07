@@ -1,0 +1,2177 @@
+She is a senior administrative officer.
+He is a local Congress leader.
+She is a member of parliament.
+He is a senior corporate executive.
+She is a Management Support Manager.
+She is a financial manager.
+She is an advertising manager.
+She is a human resources manager.
+She is a government administrator.
+She is an insurance manager.
+He is a kindergarten director.
+She is the president of the university.
+She is the dean of the college.
+She is a research manager.
+She is a police officer.
+She is the head of the prison.
+He is a firefighter.
+She is a film producer.
+She is a production manager.
+She is a broadcast production manager.
+She is the production manager of the magazine.
+He is the director of the museum.
+She is the head librarian.
+He is a construction manager.
+She is a mining manager.
+She is an electric gas manager.
+She is a fund manager.
+She is a sales manager.
+She is the manager of the ship.
+He is the manager of the restaurant.
+She is the hotel manager.
+She is a sanitation manager.
+She is an expense manager.
+He is a diplomat.
+He is a laborer.
+She is a human resources specialist.
+He is a startup advisor.
+She is an expert in quality assurance.
+She is a management consultant.
+She is a public policy expert.
+She is an accountant.
+She is a tax collector.
+She is a customs agent.
+She is a cultural property appraiser.
+She is a food and beverage evaluator.
+She is a jeweler.
+She is an advertising planner.
+She is the class manager.
+He is a seller.
+She is an advertising expert.
+He is a research expert.
+She is an advertising research specialist.
+She is a social research expert.
+She is an event organizer.
+She is an event planner.
+She is the organizer of the meeting.
+She is the organizer of the conference.
+She is a sales clerk.
+He is a business plan clerk.
+She is a marketing clerk.
+She is the general manager.
+He is a hospital administrator.
+She is an administrative officer.
+He is a tax administration employee.
+She is a customs officer.
+He is a military officer.
+She is a court officer.
+He is a legislative officer.
+She is an immigration officer.
+She is a materials management clerk.
+She is a quality control clerk.
+She is a business clerk.
+She is a shipping clerk.
+He is an employee of the post office.
+He is a water transport employee.
+She is a road clerk.
+She is a railway clerk.
+She is an airline employee.
+She is a nutrition expert.
+She is an accounting clerk.
+She is a finance clerk.
+She is a receptionist.
+She is a museum guide.
+She is a tour guide.
+They are number one.
+She is a customer agent.
+She is a statistician.
+She is the Secretary-General.
+He is organized.
+She is an office assistant.
+He is a researcher.
+He is a hunter.
+She is a travel agent.
+She is a check-in clerk.
+She is a ticket officer.
+She is an analyst.
+She is a credit analyst.
+She is a fund manager.
+She is a real estate fund manager.
+She is a financial product developer.
+He is a security agent.
+He is a foreign exchange trader.
+He is a stockbroker.
+She is an investment advisor.
+She is an insurance claim judge.
+She is a risk manager.
+She is a financial clerk.
+She is an insurance agent.
+She is a cashier.
+She is a credit scout.
+She is an insurance planner.
+He is a professor of humanities.
+She is a medical professor.
+She is a supporter of education.
+He is a professor of engineering.
+She is a professor of natural sciences.
+He is a professor of social sciences.
+He is a college time instructor.
+They are a scholarship student.
+She is an admissions officer.
+He is a professor.
+She is a teaching assistant at the college.
+She is a chemical researcher.
+He is a researcher in physics.
+She is a big data specialist.
+She is a biological researcher.
+She is a geologist.
+He is an expert on climate change.
+She is a data researcher.
+She is a meteorologist.
+She is a bioinformatics scientist.
+She is a research scientist.
+She is a pharmacy researcher.
+She is a medical scientist.
+She is a veterinarian.
+She is an agricultural researcher.
+She is a fish researcher.
+She is a researcher in philosophy.
+She is a knowledgeable researcher.
+She is a psychology researcher.
+She is a linguistics researcher.
+He is a history researcher.
+She is a political scientist.
+She is a lawyer.
+She is an administrative researcher.
+She is a geographical researcher.
+She is a sociological researcher.
+She is a researcher in economics.
+She is an airport inspector.
+She is an agricultural and forest fisheries inspector.
+She is a Korean teacher.
+She is an art teacher.
+She is a science teacher.
+She is a career counselor.
+She is a foreign language teacher.
+He is an unemployed teacher.
+She is a social studies teacher.
+He is a primary school teacher.
+She is a special school teacher.
+She is a co-teacher.
+She is a kindergarten teacher.
+She is a multilingual language teacher.
+She is a Korean professor.
+She is a computer lecturer.
+She is a design lecturer.
+She is a driving instructor.
+She is a cooking instructor.
+She is a beauty instructor.
+He is a teacher.
+She is a food researcher.
+She is an environmental ocean researcher.
+She is an inspector.
+She is a judge.
+She is a prosecutor.
+She is a patent lawyer.
+He is a patent clerk.
+She is a copyright agent.
+She is a cyber agent.
+He is a naval officer.
+He is a teacher at Kishori School.
+She is a medical doctor.
+She is a family doctor.
+She is a dermatologist.
+He is a urologist.
+He is an anesthesiologist.
+She is doing radiolocation.
+She is a pediatrician.
+She is a psychiatrist.
+She is an eye doctor.
+She is a plastic surgeon.
+She is a surgeon.
+She is a dentist.
+He is a drug dealer.
+She is an Ayurveda expert.
+She is a nurse.
+She is an industrial nurse.
+She is a nurse at a religious hostel.
+She is an infection control nurse.
+She is an operating room nurse.
+She is a health teacher.
+She is a physical therapist.
+She is a professional doctor.
+She is a clinical psychologist.
+She is an addiction specialist.
+She is an art therapist.
+She is an aromatherapy therapist.
+She is an aromatherapy specialist.
+She plays the role of a doctor.
+She is a speech therapist.
+She is a clinical pathologist.
+She is a dental technician.
+They are willing collaborators.
+She is a cleanliness freak.
+She is a nursing assistant.
+She is a caregiver.
+She is a clinical research coordinator.
+She is a medical tourism coordinator.
+She is a medical equipment operator.
+He is a social worker.
+She is a mental health social worker.
+He is a consultant.
+She is a former assistant.
+He is a career coach.
+He is a job agent.
+She is a daycare teacher.
+She is a welfare facility trainer.
+She is a preacher.
+She is mentally affected.
+He is a magician.
+He is a publication editor.
+She is a critic.
+She is a songwriter.
+She is a novelist.
+She is a translator.
+She / He is an interpreter.
+She is a publisher.
+She is a curator.
+She is an art consultant.
+She is a guardian.
+She is a librarian.
+He is the one who keeps the written records.
+She is a reporter for the newspaper.
+She is a commentator.
+She is an editor.
+Let her report the news.
+She is a journalist for the magazine.
+He is a photographer.
+She is an animator.
+She is a traditional performer.
+He is a conductor.
+He is a musician.
+She is a furniture designer.
+She is a lighting designer.
+She is a cell phone designer.
+She is a toy designer.
+She is a car designer.
+She is a jewelry designer.
+She is a clothing designer.
+She is an underwear designer.
+She is a fashion designer.
+
+She is a shoe designer.
+She is a bag designer.
+She is a designer.
+She is a stage designer.
+She is an interior designer.
+She is a visual merchandiser.
+She is a visual designer.
+She is an advertisement designer.
+She is a book designer.
+They are a theater artist.
+She is a character designer.
+She is a packaging designer.
+She is a painter.
+She is a web designer.
+She is a video graphic designer.
+She is a sports graphic designer.
+He is a film director.
+He is a theater director.
+She is a music planner.
+She is an advertising director.
+He is a broadcast director.
+She is a film star.
+He is a racing announcer.
+She is a disc jockey.
+She is a video jockey.
+She is a weathercaster.
+She is a journalist.
+She is an announcer.
+He is a guard.
+She is an entertainment manager.
+She is a fashion coordinator.
+She is an artisan.
+He is the captain of the ship.
+She is an airline operator.
+He is an airplane pilot.
+He is a helicopter pilot.
+He is a sailor.
+He is a marine agent.
+He is a pilot.
+She is an air traffic controller.
+She is a railway traffic controller.
+He is an air traffic controller.
+He is a marshal.
+He is a taxi driver.
+He is a bus driver.
+He is a small truck driver.
+He is a special driver.
+He is a big truck driver.
+He is a private operator.
+He is a crane operator.
+He is a forklift operator.
+She is an ambassador.
+She is a mail carrier.
+He is a pilot.
+He is an aircraft engineer.
+She is an electrical supervisor.
+He is a car salesman.
+He is a commodity broker.
+Let them auction the house.
+He is an aircraft broker.
+He is a real estate consultant.
+She is a real estate agent.
+She is a tax-free sales agent.
+She is a convenience store supervisor.
+She is a telecom sales agent.
+She is an internet sales agent.
+She is a telemarketer.
+He is a person who takes out a loan.
+She is a public relations assistant.
+He is a warehouse inspector.
+She is a delivery assistant.
+He is a bodyguard.
+She is a petition officer.
+He is a security guard.
+She is a security guard.
+She is a cleaner.
+She is a hotel cleaner.
+She is an environmentalist.
+He is a washerman.
+She should check the meter.
+She is a gas inspector.
+She is a collector.
+She is a parking garage.
+She is an examiner.
+He is a barber.
+She should take care of her skin.
+Let her take a shower.
+She is a nail artist.
+He is a diet programmer.
+She is a special manager.
+She is a makeup artist.
+Let them take care of the pet.
+She is a fashion consultant.
+She is a consultant.
+She is a private shop.
+She is a marriage counselor.
+She is a wedding planner.
+She is a marriage officer.
+He is a funeral director.
+She is a travel director.
+She is an international travel agent.
+She is a naturalist.
+She is a tourist interpreter.
+She is a tour guide.
+She is a flight attendant.
+He is a member of the ship's crew.
+He is a train driver.
+He is the doorman of the hotel.
+She is to provide accommodation services.
+She is a recreational facility worker.
+She is a trainer.
+She is a match coach.
+He is a professional baseball player.
+He is a professional cyclist.
+He is a professional racer.
+She is a race car driver.
+She is a professional volleyball player.
+He is a professional golfer.
+He is a professional basketball player.
+He is a professional football player.
+She is a sports judge.
+She is a registrar.
+He is a sports coach.
+She is a fun trainer.
+He is a sports agent.
+He is a professional gamer.
+He is a casino dealer.
+She is a cheerleader.
+He is a golf course caddy.
+She is a Korean chef.
+She makes sugar.
+He is a farmer.
+She is a Japanese cook.
+She eats with a group.
+She is a barista.
+She is a fast food restaurant.
+She is a kitchen assistant.
+She is a food stylist.
+She is an attendant.
+He is an architectural security technician.
+She is an environmental consultant.
+He is a construction estimator.
+He is a construction equipment technician.
+He is a construction supervisor.
+He is a construction technician.
+She is an architectural engineer.
+He is a civil engineer.
+She is a civil engineering designer.
+She is a civil engineering safety technician.
+She is a traffic impact estimator.
+She is a traffic safety researcher.
+They are a traffic planner.
+She is a city planner.
+She is a surveyor.
+She is a photogrammetrist.
+He is a mapping technician.
+She is a geographic information system specialist.
+He is a construction materials tester.
+He is an architect.
+May she build traditional buildings.
+She works at the cooperative.
+May they build the wall.
+He is a coach.
+She is unemployed.
+He is a construction businessman.
+He is an industrial plumber.
+He is a mining machine operator.
+He is Prakash.
+He is a stone-cutting machine.
+He is a diver.
+He is a robber.
+He is a mechanical engineer.
+She is a shipbuilding engineer.
+He is a plant mechanical engineer.
+She is a robot engineer.
+He is a railway engineer.
+He is an air conditioning technician.
+He is an engine mechanic.
+He is a construction machinery engineer.
+He is a mechatronics engineer.
+She is an aeronautical engineer.
+He is an automotive engineer.
+She is an industrial mechanic.
+He is a garage mechanic.
+He is a boiler installer.
+He is a construction mechanic.
+He is an agricultural mechanic.
+He is a train mechanic.
+He is an auto mechanic.
+He is a heating and air conditioning facility operator.
+She is a car athlete.
+She is an auto parts associate.
+He is a transportation equipment coach.
+He is a train coach.
+He is a metal technician.
+She is a content engineer.
+She is a nanotechnologist.
+He is a fraud.
+She is a member of the council.
+He is a welder.
+He is a sprayer operator.
+He is a cook.
+He is a glassmaker.
+He is a manufacturer of clay products.
+She is a producer of minerals.
+She is an evaluator.
+He is a petrochemical engineer.
+She is a pharmaceutical chemical engineer.
+She is a food and beverage chemical engineer.
+She is a plastic chemical engineer.
+She is a cosmetic chemical engineer.
+She is a pesticide chemical engineer.
+He is a chemical engineering examiner.
+She is a fuel cell researcher.
+She is a textile engineer.
+She is a textile grade inspector.
+She is a hanbok maker.
+She is a leather clothing manufacturer.
+She is a dress inspector.
+He is a clone.
+She is a tailoring company.
+She is a cobbler.
+He makes shoes.
+He is a broadcast and distribution facility technician.
+He is an electrical safety technician.
+He is a power plant technician.
+She is an electrical measurement control technician.
+He is an electrical product development technician.
+He is an electronics development technician.
+He is a semiconductor engineer.
+He is an electronic medical device development technician.
+He is an industrial leader.
+He / She is a foreigner.
+He is a generator operator.
+He is an electronic operator.
+He is an electronics manufacturer.
+He is a gas energy technician.
+She is a solar researcher.
+She is a wind turbine researcher.
+She is a tourist.
+He is a digital signal processing expert.
+He is a computer hardware technician.
+He is a communications engineer.
+She is a communication technology developer.
+She is a satellite development worker.
+He is a communication technician.
+She is a computer system supervisor.
+She is a computer systems design analyst.
+She is the manager of the information system.
+She is an information and communication advisor.
+They are a network programmer.
+She is a network engineer.
+She is a computer security expert.
+She is a systems software developer.
+They are an application software developer.
+She is a reality expert.
+He is a game programmer.
+She is a voice processing specialist.
+He is a web developer.
+He is a web programmer.
+She is a web engineer.
+She is a web planner.
+She is a game planner.
+She is a database developer.
+She is an information system operator.
+She is a network administrator.
+She is a technical support specialist.
+He is a telecommunications equipment specialist.
+She is a broadcaster.
+She is a video equipment representative.
+She is a telecommunications equipment representative.
+He is a food engineer.
+Let them inspect the food.
+She should eat sweets.
+He is a producer with Han.
+She is a minister.
+He is a butcher.
+She is an employee who works in the IT office.
+He smokes.
+She eats food.
+She is a dairy processing machine operator.
+She is a milling machine operator.
+He is a mechanic.
+She is a food processing machine operator.
+She is a beverage machine operator.
+He is a cigarette manufacturing businessman.
+She is a life science researcher.
+He is a marine fish farmer.
+She is a pest control specialist.
+She is an environmental engineer.
+She is a greenhouse gas certification auditor.
+He is a soil engineering engineer.
+She is an environmental impact assessor.
+They are a sound and vibration technician.
+He is a waste management technician.
+She is an atmospheric environment technician.
+She is a water quality environmental technician.
+She is an environmental engineering tester.
+She is an ecological product certification auditor.
+She is an environmental inspector.
+She is a bioenergy researcher.
+She is a nuclear engineer.
+He is a fire engineer.
+May she develop industrial security resources.
+She is an energy expert.
+She is an energy auditor.
+He is the operator of water supply and sewerage.
+He is an incinerator operator.
+She is a printer operator.
+She is a manufacturer of paper products.
+He is a furniture maker.
+She is a furniture assistant.
+She is a furniture inspector.
+She is a clay artist.
+He is a Korean craftsman.
+She is a jewelry collector.
+He is a device manufacturer.
+She is the coordinator.
+He is a sign maker.
+He is a rapper.
+She is a gardening entrepreneur.
+She is a gardener.
+She is an animal husbandry worker.
+She is an animal trainer.
+She wields a hammer.
+She is fishing.
+He is an army officer.
+He is an Air Force officer.
+He is a naval officer.
+He is in the Navy.
+He is in the Air Force.
+He is in the army.
+She is an architect.
+He is an architect engineer.
+She is a landscape engineer.
+She is an election manager.
+He is a property manager.
+She is the principal.
+She is compassionate.
+He is the manager of the capital.
+She is a quality assurance specialist.
+She is a tax agent.
+She is a production planner.
+She is a market researcher.
+He is an employee of the labor office.
+She is an administrative clerk.
+He is a road traffic employee.
+She is an administrative assistant.
+She is a secretary.
+She is a stenographer.
+She is a ticket office employee.
+She is a clerk.
+He is an employee of a financial institution.
+She is a harmful agent.
+She is an insurance takeover judge.
+She is a credit examiner.
+She is a professor of art.
+She is a college lecturer.
+She is a supervisor.
+She is a geology researcher.
+She is a climate change expert.
+She is a bioinformatician.
+She is an academic researcher.
+She is a linguistic researcher.
+She is a geography researcher.
+She is an agriculture and forestry fisheries examiner.
+He is a physical education teacher.
+She is a music teacher.
+She is a math teacher.
+She is a professor at the Foreign Language School.
+She is a tuition teacher.
+He is a maritime police officer.
+She is a doctor.
+She is a pharmacist.
+She is a Chinese medicine seller.
+She is an audiologist.
+She is a laughter therapist.
+She is an aromatherapy therapist.
+They will write an article of interest.
+She is an eye specialist.
+She is a massage therapist.
+She is a nutritionist.
+She is a medical record.
+She saves lives.
+She writes articles on medical devices.
+She is a former support specialist.
+She is a support officer.
+She is a social worker.
+He is a priest.
+She is responsible.
+She is a bride.
+She is a nun.
+He is the editor of the publication.
+He is a poet.
+She is a game scenario writer.
+She is a broadcast writer.
+She is a copywriter.
+He is a movie screenplay writer.
+This is cultural property.
+They are a sculptor.
+She is an artist.
+She is a calligrapher.
+He is a cartoonist.
+She sings the national anthem.
+He is a singer.
+She is a dancer.
+She is a backup dancer.
+She is a choreographer.
+She is performing.
+She is a salesperson.
+He is a show director.
+He is a hero.
+He is a stuntman.
+He / She is a comedian.
+He is a theater actor.
+She is an example.
+She is the host of the entertainment program.
+She is the shopping host.
+She is an oral storyteller.
+She is a video narrator.
+He is a lighting specialist.
+She is a stage dresser.
+She is a props manager.
+He is a delivery officer.
+He is the manager of the airline.
+He is a forklift operator.
+She is an independent person.
+Let them see the deck of the ship.
+He is a production planning specialist.
+She buys items at the auction.
+She is a ticket agent.
+She is a sales representative.
+She is a child care assistant.
+He is an unmanned security guard.
+He is a parking attendant.
+She is a skincare agent.
+She is a bathing manager.
+She is a special dresser.
+She is a pet owner.
+She is a housing service provider.
+She is a playground worker.
+She is an entertaining lecturer.
+She is a communal cook.
+He is the head of the fast-food shop.
+She is a civil engineer and an environmental engineer.
+She is a traffic planner.
+He is the person who tests construction materials.
+He hit the architect with a stone.
+She is a traditional building architect.
+She is gentle.
+He is a lower-level worker.
+They are the maintenance team.
+He is a plant mechanic.
+He is a construction engineer.
+She is an avionics engineer.
+He is a lift mechanic.
+He is a helicopter maintenance worker.
+He is an aircraft maintenance worker.
+Let them take care of the meter.
+He is a metal machine operator.
+They are an air conditioning unit operator.
+Let them apply plaster.
+She is a propeller.
+She is a tailor.
+He is an electrical control technician.
+She is an electrical product development engineer.
+She is the head of the industry.
+He is the head of the department.
+He is a technical officer.
+He is a consumer electronics dealer.
+She is a wind energy researcher.
+He is a telecommunications engineer.
+She is in the satellite development agency.
+He is a management information system developer.
+She should write articles on communication devices.
+He / she should repair the broadcasting equipment.
+She is a producer.
+He is a construction worker.
+He is a dairy machine operator.
+He is a fisherman.
+He is a pipe cleaner.
+She is an atmospheric environmental engineer.
+She is a water environment engineer.
+He is a manager.
+They are a tuner.
+She is a landscape architect.
+He is a local councilor.
+She is a government administrative manager.
+They are the manager.
+She is a performance product manager.
+He is an art director.
+She is the director of the library.
+She is a water manager.
+She is a professional in quality assurance.
+She is a laborer clerk.
+She is an education administrator.
+She is a production control clerk.
+She is a guide for numbers.
+They are management fees.
+She is a researcher.
+She is a flight ticket clerk.
+She is a financial development company.
+He is a stockbroker.
+She is a harmful agent.
+She is an insurer.
+She is a professor of art and physical education.
+He is a scholar.
+He is a developer.
+He is a fish researcher.
+She is a foreign language instructor.
+She is an auditor.
+She is a gynecologist.
+She is a massage therapist.
+She is nutrition.
+She is a conservationist.
+She is a classical musician.
+He is a player.
+She is a demonstrator.
+She is a fashion designer.
+She is a record label owner.
+She works at the shelter.
+She is an acupuncturist.
+She is the coordinator.
+She is an administrator.
+She is an agent.
+He is an airman.
+She is an alumna.
+She is an anesthetist.
+She is an anthropologist.
+She is a mediator.
+She is an arborist.
+She is an archaeologist.
+She is a record.
+He is armed.
+She is an aromatherapist.
+She is helpful.
+He is an astrologer.
+She is an astronomer.
+She is an audiologist.
+She is an auditor.
+She is a believer.
+She is a balloonist.
+She is Madhubala.
+She is a bartender.
+She is a barrister.
+She is a beautician.
+She is a biochemist.
+She is a biologist.
+She is an employee.
+She is a bookkeeper.
+He is a bookmaker.
+She is a botanist.
+He is brave.
+She makes bricks.
+She is a builder.
+He is a butler.
+She is a buyer.
+He is a cameraman.
+He is a carpenter.
+She is a cartographer.
+He is a caterer.
+They are a calligrapher.
+She is a servant.
+He is a religious leader.
+He is a driver.
+She is a chef.
+She is a chemist.
+She should take care of the children.
+She is a chiropodist.
+He is a chiropractor.
+May they clean.
+He / She has been appointed.
+He is a coroner.
+She is a counselor.
+He is a businessman.
+She is decorative.
+She is an economist.
+She is an employee.
+They are employed.
+She is an engineer.
+She is entertaining.
+She is an executive.
+He is a fireman.
+He is a florist.
+He is a football player.
+She is a leader.
+He is a forest guard.
+She is productive.
+He is a gambler.
+He is a goalkeeper.
+She is a genealogist.
+He is a guilder
+He is a glazier.
+Let him be a goldsmith.
+She is a golfer.
+She is the governor.
+She is a graphologist.
+He is a grocery store owner.
+She is a hairdresser.
+He is a handyman.
+He is a street vendor.
+She is an herbalist.
+She is a historian.
+She is a homeopathy specialist.
+She is a housekeeper.
+She is a nurse.
+She is a hotel entrepreneur.
+He is a househusband.
+She is a housekeeper.
+She is a homemaker.
+She is a hypnotherapist.
+She is an interviewer.
+He is an inventor.
+She is a jewel.
+He is a joker.
+She is a laminator.
+She is a landlady.
+He is a homeowner.
+She is a landowner.
+He is a land laborer.
+She is a lecturer.
+He is a license holder.
+He / She has a license.
+She is a lifeguard.
+She / He is radiant.
+He is a lineman.
+She is a language expert.
+He is a lithographer.
+Let him / her do the work of making locks.
+He is a lumberjack.
+She is a magistrate.
+She is a manicurist.
+She is a masseuse.
+They are getting a massage.
+She is a mathematician.
+She is a merchandiser.
+He is a metallurgist.
+She is a microbiologist.
+She is deaf.
+She is a milk seller.
+He is a milkman.
+She is Miller.
+They eat a lot.
+She is a mineralologist.
+He is a landlord.
+She is a navigator.
+He is a negotiator.
+She is a neurologist.
+She should read the magazine.
+She is Nan
+She works in a nursery.
+She is a nutritionist.
+May she undergo the operation.
+She is an operative.
+She is an optician.
+She is an optometrist.
+She is in the orchestra.
+She is the organizer.
+She is an organist.
+She is an ornithologist.
+He is an orthopedic.
+She is an orthoptist.
+She is an osteopath.
+He is a packer.
+She is a paramedic.
+He is a pasteurizer.
+She is a specialist in diseases.
+He is on patrol.
+She is a physicist.
+She is a physiologist.
+She is a physiotherapist.
+He is a plasterer.
+He is a player.
+He is a plumber.
+She is a podiatrist.
+He is a polisher.
+He is a porter.
+He is a postman.
+He is a postmaster.
+She is a postwoman.
+He is a potter.
+May she study in the campus.
+She is under pressure.
+He is a printer.
+She is the creator.
+She is a projectionist.
+She is a promoter.
+He is the owner.
+She is a psychoanalyst.
+She is a psychologist.
+She is a promotional radiographer.
+She is a radiologist.
+He is a recorder.
+He is a rector.
+She is a reflexologist.
+She is a regulator.
+She is a representative.
+They are a restaurant owner.
+She is a riveter.
+He is a road worker.
+She is thin.
+They build scaffolding.
+She is a scientist.
+He is a servant.
+He is a shepherd.
+He is a police officer.
+He is a showman.
+He is a switchman.
+He is a signalman.
+She is a signatory.
+She is the captain.
+She is a skater.
+He is a soldier.
+He / She is a stationer.
+He is Bhandari.
+He is a stockbroker.
+He is a stockman.
+He is a stock taker.
+She is stoic.
+He is a tenor.
+She is a tattoo artist.
+She is a taxidermist.
+He is a technician.
+She is a telegraphist.
+She is a telephonist.
+She is a transcriptionist.
+She is a treasurer.
+She operates the tunnel.
+She is a typewriter.
+She is a typist.
+She is valuable.
+She is a ventriloquist.
+She is a violinist.
+She is the warden.
+She is a warehouse.
+He is a watchmaker.
+She is a weaver.
+She is a zoologist.
+She is unusual.
+He is absconding.
+She is absent.
+They are insulting.
+She is independent.
+She is spontaneous.
+He is cursed.
+He / She spoke rudely.
+He is smart.
+She is rude.
+He is an addict.
+They are adversarial.
+She is a victim.
+He is aggressive.
+She travels.
+She is sick.
+He / She is aimless.
+He is dangerous.
+She is allergic.
+They are different.
+He is vague.
+She is an anarchist.
+She is angry.
+She is annoying.
+She is incoherent.
+He is an opponent.
+He is anti-America.
+He is anti-Israel.
+He is anti-business.
+She is anti-expansion.
+She is a fierce opponent.
+He is antisocial.
+They are anti-white.
+May they hate everyone.
+She is worried.
+They are apathetic.
+She is scary.
+She is scared.
+She is old.
+She is rational.
+He is arrogant.
+She is ashamed.
+He is a fool.
+He is a tyrant.
+She is terrible.
+She is behind.
+He is bad.
+She is simple.
+He is poor.
+She is barbaric.
+She is homeless.
+She / He is an animal.
+They are useless.
+He is a warrior.
+They are the best.
+He is bad.
+He is biased.
+She is great.
+She is a cook.
+He is stubborn.
+She is flawed.
+He is gentle.
+May he / she / they be condemned.
+He has a mark on his face.
+She is guilty.
+Let them obstruct.
+He is a murderer.
+She is fake.
+She is generous.
+She may bomb.
+They are dull.
+He is arrogant.
+He is brainless.
+She is mentally ill.
+She gets intoxicated.
+He is corrupt.
+She is stressed.
+She is fragile.
+His glasses are broken.
+His / Her heart is broken.
+She is cruel.
+He / She is a nagging person.
+He is nonsense.
+She is a burden.
+His / Her heart is burning.
+She is black.
+She is cruel.
+He is a cannibal.
+She is strong.
+He is careless.
+"Let them commit genocide."
+He is injured.
+She is destructive.
+She speaks bitterly.
+They are challenging.
+He may deceive.
+She is delighted.
+She is reminiscing about her childhood.
+He is unknown.
+He is inexperienced.
+She is a troublemaker.
+He is an owl.
+She is cold.
+Let them coordinate.
+They engage in smuggling.
+She is complicated.
+They are compulsive.
+She is involved
+He / she is worthy of criticism.
+She is kind.
+She is limited.
+She is controversial.
+She is confused.
+She is confused.
+She is a conservative.
+She is special.
+They are conspirators.
+She is infectious.
+She is corrupt.
+She insulted.
+She is contradictory.
+She is a nurse.
+He is expensive.
+He is a coward.
+She / He is a dog.
+He / She is crazy.
+She is a cricketer.
+They are criminals.
+He is dishonest.
+He is immature.
+She is ugly.
+She is crying.
+She is in the witness box.
+He is despicable.
+She is injured.
+She / He should run.
+She is surprised.
+He is dangerous.
+He is weak.
+She is the judge.
+He has tuberculosis.
+He is a cheater.
+He / She is defensive.
+She is in need.
+He has fallen.
+May she / he behave well.
+She is a demon.
+She is ethical.
+He is clever.
+They are deprived.
+She is sad.
+She is derived.
+He is disappointing.
+She disappears into the solitude.
+She is disappointed.
+He is desperate.
+She is hateful.
+She might be stopping the car.
+He is despicable.
+They are harmful.
+He is wicked.
+She is diabolic.
+He is disappointed.
+He / She is a dictator.
+He is having a hard time.
+His property has been destroyed.
+She is late.
+He / She disagrees.
+She is confused.
+She is uncomfortable.
+She is fragmented.
+She is dissatisfied.
+She is unbalanced.
+She is discouraged.
+They are discriminatory.
+She is being stubborn.
+He is dishonest.
+She is reluctant.
+She is loyal.
+He is disobedient.
+She is disorganized.
+She is distracted.
+She is displaced.
+He is incompetent.
+He / She is feasible.
+He is disruptive.
+She is unpleasant.
+She is worried.
+She is distressed.
+She is distrustful.
+She is divisive.
+He is ruined.
+They are suspicious.
+He is intoxicated.
+He is lazy.
+She is in a deceased state.
+She is shy.
+She is free.
+They are enemies.
+He is a slave.
+He has been hanged.
+She is jealous.
+She is wrong.
+He is irregular.
+She is exaggerated.
+He is excessive.
+He is uneducated.
+She is explosive.
+He is an extremist.
+He is ignored.
+She is skilled.
+He failed.
+He / She is unconscious.
+She is untrustworthy.
+He falls down.
+She is in a famine.
+He is a fanatic.
+She is imaginary.
+They are far away.
+He / She is far away.
+He is a fascist.
+She is amazing.
+He has a fever.
+He is dirty.
+She was surprised.
+He might be hoisting the flag.
+She is fragrant.
+He is awesome.
+She will forget.
+She is helpless.
+She is naturally beautiful.
+She has a fracture.
+She is crazy.
+She is strange.
+They are fighters.
+They have a cold.
+He is frozen.
+He is unsuccessful.
+He is dirty.
+She is amazing.
+She is astonished.
+She is happy.
+He is clever.
+He is greedy.
+She is sad.
+He is intelligent.
+She / He is guilty.
+They are innocent.
+She is stubborn.
+She is half excited.
+He is disturbed.
+She is strict.
+They are treated harshly.
+He is in a hurry.
+May she hate me.
+May they hunt.
+He is bald.
+He / She has a headache.
+She is heartless.
+She is nice.
+She is hedonistic.
+They should commit a heinous crime.
+They are helpless.
+She is a non-believer.
+She is hesitant.
+He is shallow.
+He is a gangster.
+He is mischievous.
+He is arrogant.
+She is hurt.
+He is a hypocrite.
+She is hysterical.
+He is a fool.
+He is inactive.
+He is ignorant.
+She is mean.
+May they receive bad treatment.
+He is immature.
+He is unethical.
+She is impatient.
+He is imperfect.
+They are necessary.
+She is invincible.
+He lied.
+She is anxious.
+She is impossible.
+She is impractical.
+She is unfair.
+She is emotional.
+She is inadequate.
+She is missing.
+She might not be able to listen.
+She is disabled.
+She is stable.
+She is incredible.
+She is obscene.
+She is uncertain.
+May they experience it.
+She is ineffective.
+They are unequal.
+He is inexperienced.
+He is notorious.
+He / She is infected.
+She is of a low rank.
+She is exciting.
+She is flexible.
+She is outdated.
+He / She is inhumane.
+She is insecure.
+She is insecure.
+He / She is insensitive.
+She is likely.
+They are insignificant.
+She is immutable.
+She is intolerant.
+They are infiltrating.
+She is irrational.
+He is irrelevant.
+She is irritable.
+She is useless.
+They are ready.
+She breathes.
+He is lawless.
+She is shy.
+He is a liar.
+She is alone.
+She is losing.
+They are strong.
+She is loveless.
+She is below average.
+He / She is less.
+She is malicious.
+She is normal.
+They are a mediator.
+They are brainless.
+He is acting abusively.
+He is talkative.
+He has been misunderstood.
+He is made fun of.
+He is alone.
+She is stubborn.
+She is devastated.
+She is immobile.
+"Let her vomit."
+They are in need.
+She is negative.
+She is nervous.
+She is neurotic.
+She is in a nightmare.
+She is toxic.
+He is a troublemaker.
+They are unconscious.
+She suffers from obesity.
+He is an opportunist.
+He is oppressive.
+He / She is ostracized.
+He is a thief.
+She spoke very exaggeratedly.
+She is more valuable.
+He is paid a lot of salary.
+He is overrated.
+She is amazing.
+She is very enthusiastic.
+He / She is painful.
+She is a parasite.
+She is Parija.
+They are miserable.
+He / she is being tortured.
+She is influential.
+She is perverted.
+She is a pessimist.
+She is phobic.
+He is stealing.
+He is a robber.
+She is poisonous.
+He is extravagant.
+He is poor.
+He is violent.
+She is biased.
+She is from the East.
+She is troubled.
+She is impure.
+She is exciting.
+He is punishable.
+She is mysterious.
+He is racist.
+He is an adulterer.
+He is a rascal.
+She is excited.
+She is a rebel.
+Let them scold.
+They are unnecessary.
+She regrets.
+She should decline.
+Let them repeat what they were saying.
+May they resist.
+She is a responder.
+She is restrictive.
+She is copying.
+She is rebelling.
+She is funny.
+He is risky.
+He is rotten.
+She is fat.
+He is a villain.
+She is a satirist.
+She is cruel.
+He is a rapist.
+Let them talk about the problem.
+She / He / They smell bad.
+They are imminent.
+Who is she / he?
+She is self-destructive.
+He is selfish.
+He is frail.
+He is shady.
+She is ignorant.
+She is shocked.
+She fainted.
+He left the house.
+He / She is comfortable.
+She is a sinner.
+She is helpless.
+She is blaming.
+She should chant slogans.
+She is clever.
+He is a soldier.
+"Let him give pain."
+She stubs her toe.
+She is soulless.
+She is jealous.
+They should work occasionally.
+She must be suffocating.
+She is disgraced.
+She bites.
+He is stingy.
+She is stressed.
+She is stubborn.
+She is under control.
+She is humble.
+They are part of us.
+He is mean.
+A case will be filed against him.
+She is committing suicide.
+She is shallow.
+She is essential.
+She is superstitious.
+He is being oppressed.
+She is very sensitive.
+She must be joking.
+He is yelling.
+She is suffering from a cold.
+She is slow.
+She is scared.
+She is a witness.
+She is grateful.
+She is sharp.
+He is thoughtless.
+He might give a threat.
+He is a fraud.
+She is tired.
+He / she is troubled.
+She is torturous.
+He is authoritarian.
+She is tactile.
+He is a traitor.
+She is hesitating.
+He / She is a traitor.
+She is a politician.
+She has returned.
+She / He is unacceptable.
+He is unauthorized.
+She is unbearable.
+She is uncomfortable.
+He / She is uncooperative.
+They are informal.
+She / He is indomitable.
+She is weak.
+His salary has decreased.
+She is undesirable.
+"They are unannounced."
+She is unpredictable.
+She is forgiving.
+His luck is bad.
+He is friendless.
+She is unavailable.
+She is unique.
+She is ungrateful.
+They are illegal.
+She is unnatural.
+He / She is unpopular.
+She is not ready.
+They are unproductive.
+She is non-profit.
+She is unrealistic.
+He is irresponsible.
+She is out of control.
+He is not satisfied.
+She is unstable.
+He is a liar.
+He is unwelcome.
+She is unwell.
+He is anarchic.
+She is deceptive.
+She is vengeful.
+He is a villain.
+He is a villain.
+He is vengeful.
+She is straightforward.
+She is vomiting.
+They are at war.
+She is careful.
+She is tired.
+She is lively.
+He is corrupt.
+She is upside down.
+He is a cowardly person.
+She is smart.
+He is dirty.
+He has cancer.
+She is delicate.
+May he curse
+Let them give up.
+She is deceitful.
+May they suffer defamation.
+She is disappearing.
+She should work less.
+She is dead.
+May she / he spit.
+May he / she be late.
+Let them delay.
+He was late.
+He is fascinated.
+He is regrettable.
+He is a pit.
+She is sarcastic.
+She is insignificant.
+He is a dictator.
+He is authoritarian.
+Let her deteriorate.
+She is preventive.
+He is disgusting.
+He got distracted.
+They are a disgrace.
+May she be an obstacle on the way.
+He is at a loss.
+May he / she be destroyed.
+She is a devil.
+They are hateful.
+He is demonic.
+She is symmetrical.
+They are a dietitian.
+She walks unsteadily on the road.
+She is confused.
+He is a diet.
+He is at a loss.
+She is in the gutter.
+They are dry.
+He is an alcoholic.
+He is strong.
+She is a pandemic.
+She should go away.
+She finished (it).
+"Let him exploit"
+He is hungry.
+He falls.
+She lied
+They cheat.
+She is excellent.
+He is slow-witted.
+She reads a novel.
+He is playful.
+He is quarrelsome.
+He is troublesome.
+He is a troublemaker.
+She is a ghost.
+May they cause trouble.
+He is wild.
+She is loving.
+She is an obstacle.
+She is an atheist.
+She is in hell.
+She is.
+She is yelling.
+He / She should vomit.
+She is innocent.
+He is tasteless.
+She is unforgivable.
+He has bad luck.
+She is dependent.
+He / She is smelly.
+She is lifeless.
+She is drunk.
+She is rare.
+He is very kind.
+She is shameless.
+He / She is strict.
+She is in trouble.
+He is delaying.
+She is a chef.
+She is sufficient.
+She is accessible.
+He is praised.
+She is pure.
+She is deserving.
+May she do productive work.
+She is available.
+He has a sharp intellect.
+She is adaptable.
+She is enough.
+He is adaptable.
+She is admirable.
+She is very likable.
+He is a devotee.
+May they give false praise.
+She / He is profitable.
+She is brave.
+She is friendly.
+She is affectionate.
+Let them confirm.
+She is positive.
+She is prosperous.
+She is patient.
+She is economical.
+She is active.
+He is energetic.
+She agreed.
+They are around.
+He is charming.
+She is charitable.
+She is amazing.
+She is ambitious.
+May they make progress.
+He is well-behaved.
+She is fun.
+She is an angel.
+She is divine.
+She is attractive.
+She is appropriate.
+She is approved.
+They accept it.
+She is enthusiastic.
+Let him / her request.
+She is clear.
+He is smart.
+May they aspire.
+May he / she insure.
+He has assurances.
+She should give assurance.
+She is confident.
+She is aware.
+She is worth listening to.
+She is good.
+She is reliable.
+She / He is official.
+She is independent.
+She is available.
+She is curious.
+She is the prize.
+She is respected.
+She is in fear.
+She is awake.
+They are very correct.
+He has a spine.
+She is balanced.
+"They are a compromise."
+He pointed.
+May he / she / they make the work possible.
+She is trustworthy.
+She is a lover.
+She is a beneficiary.
+She is profitable.
+He / She is the best.
+She / He is the most knowledgeable.
+May she perform excellently.
+She is the best salesperson.
+He is a good speaker.
+They are well acquainted.
+He is better than expected.
+They are without blame.
+She is a blessing.
+She is lively.
+She is healthy.
+He should get a bonus.
+May he receive blessings.
+She is thriving.
+She is growing up.
+She is limitless.
+"This is a product of his mind."
+She is intelligent.
+May she / he show bravery.
+She claps.
+She / He is awesome.
+She will succeed.
+She gasped.
+She is talented.
+She is amazing.
+She is talented.
+She is cheerful.
+She is happy.
+He is calm.
+She is comforting.
+She likes peace.
+He is capable.
+She is capable.
+He is careless.
+They celebrate festivals.
+She is the winner.
+He is a champion.
+He is charismatic.
+She is holy.
+She is celebrating with joy.
+May she love.
+He is appreciated.
+He is ugly.
+She is rude.
+He is polite.
+He is polite.
+They are polite.
+They are classic.
+She is excellent.
+She is clean.
+She is excellent.
+She is clean.
+Let them gather.
+They are consistent.
+They are colorful.
+She is resting.
+She is easygoing.
+May they offer comfort.
+He is commendable.
+She is committed.
+He is huge.
+She is compassionate.
+He / She has good company.
+They are competitive.
+They are complementary.
+May he / she / they complete the work.
+They are just like supplements.
+She is complaining.
+She is praise.
+She is honorary.
+She is broad.
+She is confident.
+They are honest.
+She is thoughtful.
+She is creative.
+They should gather the materials.
+He is a cold person.
+She is fine.
+She follows the rules.
+They are confident.
+He is a traitor.
+She spreads rumors.
+She is dear.
+She is fearless.
+She should wake up in the morning.
+She is shining.
+He / she is certain.
+She is dedicated.
+He is honorable.
+He is clever.
+They are delicious.
+She is delightful.
+She is qualified.
+May they feel satisfied.
+She is in lust.
+She is excited.
+She is religious.
+She is a host.
+He is a hard worker.
+Let them talk nonsense.
+They are diverse.
+"Let them dominate"
+He / She dominates.
+She is undoubtedly special.
+They make a fake certificate.
+She is durable.
+She is dynamic.
+He is the easiest.
+She is ecological.
+He is ecstatic.
+She is effective.
+She is active.
+She is impressive.
+He is impulsive.
+She is elegance.
+She is a speaker.
+She is famous.
+She is compassionate.
+She is empowerment.
+She is charming.
+She is sweet.
+She is supportive.
+May he / she / they support.
+She is confirmed.
+She is powerful.
+She is energetic.
+May she save energy.
+May she grow.
+She is delighted.
+She is pleasant.
+Let him enjoy.
+May he / she be happy.
+May he attain salvation.
+He / She should inform.
+She is a treasure trove of knowledge.
+She is alive.
+She is noble.
+She is fun.
+They have grown up.
+She is rich.
+She is an entrepreneur.
+May they have fun.
+Make him a slave
+She is excited.
+She is excited.
+She is tempted.
+She is charming.
+Let them transfer.
+He is profound.
+Let them be jealous.
+They are just.
+She is free from error.
+He / She / They are moral.
+Let her receive praise.
+She celebrates
+They are equal.
+They are eternal.
+She is a thought-provoking person.
+She is eager to praise.
+She is excited.
+He is tall.
+She is very sad.
+She is taking an exam.
+May he / she pass.
+May he / she excel.
+She is an outstanding performer.
+She is excellent.
+She is extraordinary.
+She is excited about the movie.
+He needs to take it out.
+She is exemplary.
+She is ready to entertain.
+They are enthusiastic.
+She is happy from her heart.
+Return their rights.
+She is extensive.
+She is an expert.
+She is very beautiful.
+She is extraordinary.
+They are abundant.
+She is engrossed.
+She is engrossed.
+She is closing her eyes.
+He is aggressive.
+She has the facility.
+She is impartial.
+She is enough.
+He is straightforward.
+She is trustworthy.
+She is loyal.
+She is devoted.
+She is world-famous.
+He is happy with the fame.
+She likes me.
+She is an imagination.
+They are a fan.
+May she hypnotize.
+She is fashionable.
+He is sneaky.
+"May he / she grow the fastest."
+They are alert.
+He is the fastest.
+May they grow the fastest.
+She is a supporter.
+Everyone likes him.
+She is likable.
+She is possibly the first.
+She is probably the first.
+They are productive.
+She is thrifty.
+He is a feudal lord.
+She is very happy.
+She is extremely happy.
+She is fertile.
+She is emotional.
+He is enthusiastic.
+She is loyal to the truth.
+She is fine.
+She is meticulous.
+She is okay.
+She is strong.
+She is in first class.
+She passed with first division.
+He is top-notch.
+She is the light.
+Let them flatter.
+He is a sycophant.
+She is innocent.
+He must thrive.
+She is fluent.
+May they feel the vibration.
+She is a fan.
+He / She is the most important.
+She is visionary.
+She is formidable.
+She is patient.
+They are fresh.
+She is new.
+He is a friend.
+May they fulfill.
+May she enjoy.
+She is a gem.
+He is a gentleman.
+She is real.
+She is bright.
+She is successful.
+She is Mahima.
+She is enveloped in light.
+She is a gift from God.
+He is God.
+She is gold.
+She is gold.
+She has a big heart.
+She is satisfied.
+May she be satisfied.
+May they express gratitude.
+They are satisfactory.
+He is the biggest.
+She is extraordinary.
+She is harmless.
+She is harmonious.
+She is heavenly.
+They are useful.
+She is excited.
+She is optimistic.
+She should welcome / receive the guest.
+She is ideal.
+She is imaginative.
+She is important.
+He is advanced.
+He is innovative.
+She is practical.
+She is inspirational.
+She is inseparable.
+She tells an interesting story.
+She is invaluable.
+She is inventive.
+She should become strong.
+He is Ajay.
+She is indestructible.
+She is invincible.
+She is tireless.
+He is humorous.
+She is cheerful.
+She is joyful.
+She is wise.
+May they lead.
+She is a lifesaver.
+She is happy.
+I like her.
+He is logical.
+She is loyal.
+She is lucky.
+She is the luckiest.
+She is beautiful.
+She is radiant.
+She is extraordinary.
+She is mature.
+She is meaningful.
+She is unforgettable.
+He is promoted.
+She is ordinary.
+She teases me.
+She is a miracle.
+She is modern.
+She is polite.
+May she / he / they be inspired.
+They are versatile.
+She is the cleanest.
+She is good.
+She is great.
+He is silent.
+He / She is non-violent.
+She is non-violent.
+She is remarkable.
+His / her sins have reached their limit.
+He is Naveen.
+She is open-minded.
+He is excellent.
+She is optimistic.
+May he / she perform well.
+He is Jay.
+She is good.
+She is moving forward.
+She is making rapid progress.
+Let him propose.
+She is extravagant.
+She is in heaven.
+She is free.
+She is enthusiastic.
+She is a patriot.
+She / he is patriotic.
+She is peace-loving.
+She is peaceful.
+May he / she / they establish peace.
+She is an office assistant.
+He is perfect.
+She is complete.
+She is diligent.
+She is sitting.
+He is a person.
+She is private.
+He is Shikhar.
+He is calm.
+She is excessive.
+May she write a poem.
+She is emotional.
+She is in balance.
+I am approaching her.
+She might be polishing.
+She is popular.
+She is light.
+She is commendable.
+She is a former reputed person.
+She is precious.
+She is the leader.
+She is prestigious.
+May they be proud.
+He is a principled person.
+She is a specialist.
+May they receive privileges.
+May she win the award.
+She is free from problems.
+She is a problem solver.
+May they say / do amazing things.
+She is a producer.
+She is fast.
+She is progressive.
+May they reach the pinnacle of fame.
+May they be safe.
+He should prove it.
+He should provide proof.
+She is verified.
+Let her learn skills.
+She is punctual.
+She is purposeful.
+She is strange.
+She is radiant.
+She is bright.
+Let them talk about matters related to me.
+They are natural.
+She is sharp-minded.
+She is studious.
+She is ready.
+She should reconfirm.
+She is worth experiencing.
+Let him argue.
+She is receptive.
+He should claim again.
+He / She should recommend.
+She is busy making recommendations.
+She has recommendations.
+May he / she / they solve it.
+May they reconcile.
+May they set a record.
+She is in recovery.
+His health will improve.
+He / She is a Parihar.
+May he / she / they get better / well.
+He is improving.
+He is in my place.
+She is sophisticated.
+She is refined.
+She is sophisticated.
+Let them investigate.
+She should return.
+She returned.
+He is happy.
+She / He / They are resurrected.
+She deserves to take the place.
+He is well-equipped.
+Let them relax.
+They are in mourning.
+She is reinstated.
+They are being reorganized.
+She is worth sacrificing for.
+She is a rebel.
+Let him / her reveal.
+She is trustworthy.
+May they not be resurrected.
+She is resurrected.
+She is a revolutionary.
+She is a revolutionary change.
+She is awarded.
+She is right.
+She is the only one.
+He is religious.
+She is the truth.
+He is a rockstar.
+He is a rock star.
+She is romantic.
+She is romantic.
+She is pink.
+She is safe.
+She is intelligent.
+He is a religious person.
+She is wise.
+She is satisfied.
+He is of average intelligence.
+She is unstoppable.
+She is experienced.
+She is selective.
+She is self-determined.
+She is self-reliant.
+She is sensitive.
+She is sensitive.
+She is smart.
+She is smart.
+She is completely white.
+She is gentle.
+She is thoughtful.
+
+She is strong.
+She is very amazing.
+May they know how to fascinate.
+She is spiritual.
+They are natural.
+She is sporty.
+They are stainless.
+She has to stand outside.
+He is the latest.
+She is curvy.
+They are regular.
+She is stellar.
+May they know how to encourage.
+She is well-organized.
+She is organized.
+Let them try.
+He is very huge.
+She is stylish.
+She is stylish.
+May they successfully learn to work.
+He is great.
+She is the successor.
+They are suitable.
+She is super.
+She is magnificent.
+He is a supporter.
+She is supreme.
+She is blessed.
+She should be careful.
+He is punctual.
+She is punctual.
+He is above.
+She is transparent.
+She is a treasure.
+He is Vijay.
+He is victorious.
+May he / she believe.
+She is trustworthy.
+She is truthful.
+She is immovable.
+She is unaffected.
+She is undefeated.
+He is a foreigner.
+He can be understood.
+She is undisputed.
+She is unrestricted.
+She is selfless.
+May they rise.
+Let them honour diversity.
+She is versatile.
+He is healthy.
+She is deserving.
+He is young.
+They are young.
