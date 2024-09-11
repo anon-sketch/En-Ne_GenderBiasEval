@@ -29,7 +29,3 @@
 
 3. **Complex Gender-Specific Context**
 - Dataset: WinoMT-Nepali
-
-<hr>
-
-For the details in benchmark creation and the final results, refer to the paper <a href="https://drive.google.com/file/d/1rA-P8u8YwXJdF0liczH6gHkc7isRLARc/view?usp=sharing" target="_blank">here</a>.
